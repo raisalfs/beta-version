@@ -3,7 +3,7 @@
             "name": "One Piece",
             "description": "bercerita tentang seorang laki-laki bernama Monkey D. Luffy,yang menentang arti dari gelar bajak laut. Daripada kesan nama besar, kejahatan, kekerasan, dia lebih terlihat seperti bajak laut rendahan yang suka bersenang-senang,",
             "Rating": "8.62",
-            "episode": 1,
+            "episode": -,
             "categorie":" Action, Adventure, Comedy, Drama, Fantasy, Shounen, Super Power",
             "studio":"Ongoing",
             "img": "https://www.oploverz.in/wp-content/uploads/2015/09/Screenshot_1.jpg"
@@ -12,7 +12,7 @@
             "name": "Boruto: Naruto Next Generations",
             "description": "Ninja generasi baru telah memasuki panggung utama, yang berpusat pada anak Naruto sendiri yaitu Boruto!",
             "Rating": "8.72",
-            "episode": 2,
+            "episode": -,
             "categorie":"Action, Adventure, Martial Arts, Shounen, Super Power",
             "studio":"Ongoing",
             "img": "https://raw.githubusercontent.com/isnoozexc/parsejson/master/boruto.jpg"
