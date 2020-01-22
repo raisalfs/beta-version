@@ -1,0 +1,94 @@
+[
+        {
+            "name": "One Piece",
+            "description": "bercerita tentang seorang laki-laki bernama Monkey D. Luffy,yang menentang arti dari gelar bajak laut. Daripada kesan nama besar, kejahatan, kekerasan, dia lebih terlihat seperti bajak laut rendahan yang suka bersenang-senang,",
+            "Rating": "8.62",
+            "episode": 1,
+            "categorie":" Action, Adventure, Comedy, Drama, Fantasy, Shounen, Super Power",
+            "studio":"Ongoing",
+            "img": "https://www.oploverz.in/wp-content/uploads/2015/09/Screenshot_1.jpg"
+        },
+        {
+            "name": "Boruto: Naruto Next Generations",
+            "description": "Ninja generasi baru telah memasuki panggung utama, yang berpusat pada anak Naruto sendiri yaitu Boruto!",
+            "Rating": "8.72",
+            "episode": 2,
+            "categorie":"Action, Adventure, Martial Arts, Shounen, Super Power",
+            "studio":"Ongoing",
+            "img": "https://raw.githubusercontent.com/isnoozexc/parsejson/master/boruto.jpg"
+        },
+        {
+            "name": "One Punch Man Season 1",
+            "description": "Dalam serial komedi aksi ini, bercerita tentang seorang pemuda bernama Saitama yang selalu bilang “biasa-biasa saja..",
+            "Rating": "8.59",
+            "episode": 12,
+            "categorie":"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",
+            "studio":"Completed",
+            "img": "https://www.oploverz.in/wp-content/uploads/2015/10/616.jpg"
+        },
+        {
+            "name": "One Punch Man Season 2",
+            "description": "One Punch Man S2. Berseting cerita setelah Saitama mengalahkan sang Penguasa Alam Semesta, Boros. Monster-monster kuat terus bermunculan sehingga menyulitkan asosiasi pahlawan",
+            "Rating": "7.83",
+            "episode": 12,
+            "categorie":"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",
+            "studio":"Completed",
+            "img": "https://www.oploverz.in/wp-content/uploads/2019/04/Screenshot_1.jpg"
+        },
+        {
+            "name": "Naruto Shippuden",
+            "description": "Murid Pindahan Misterius!",
+            "Rating": "7.97",
+            "episode": 500,
+            "categorie":"Action, Comedy, Martial Arts, Shounen, Super Power",
+            "studio":"Completed",
+            "img": "https://www.oploverz.in/wp-content/uploads/2015/10/615.jpg"
+        },
+        {
+            "name": "Boku no Hero Academia",
+            "description": "Apa itu pahlawan? Bagi Izuku Midoriya, jawaban dari pertanyaan itu sangatlah sederhana: “Pahlawan adalah seseorang yang selalu dicita-citakan” Dan siapakah pahlawan terbaik? Yah kalau itu, tentu saja sang legenda All Might!",
+            "Rating": "8.53",
+            "episode": 13,
+            "categorie":"Action, Comedy, School, Shounen, Super Power",
+            "studio":"Completed",
+            "img": "https://www.oploverz.in/wp-content/uploads/2016/04/37.jpg"
+        },
+        {
+            "name": "Boku no Hero Academia Season 2",
+            "description": "Musim kedua dari serial anime Boku no Hero Academia.",
+            "Rating": "9.06",
+            "episode": 25,
+            "categorie":"Action, Comedy, School, Shounen, Super Power",
+            "studio":"Completed",
+            "img": "https://www.oploverz.in/wp-content/uploads/2017/04/11.jpg"
+        },
+        {
+            "name": "BLEACH - ブリーチ -",
+            "description": "Kurosaki Ichigo adalah seorang anak SMA biasa sampai keluarganya diserang oleh Hollow, roh rusak yang mengincar jiwa manusia",
+            "Rating": "7.93",
+            "episode": 366,
+            "categorie":"Action, Comedy, Shounen, Super Power, Supernatural",
+            "studio":"Completed",
+            "img": "https://www.oploverz.in/wp-content/uploads/2017/01/112.jpg"
+        },
+        {
+            "name": "Fairy Tail",
+            "description": "Cerita berseting pada dunia khayalan, di sebuah tempat di mana terdapat Guild Penyihir disebut “Fairy Tail.”",
+            "Rating": "8.10",
+            "episode": 328,
+            "categorie":"Action, Adventure, Comedy, Fantasy, Magic, Shounen",
+            "studio":"Completed",
+            "img": "https://www.oploverz.in/wp-content/uploads/2018/10/1-7.jpg"
+        },
+        {
+            "name": "Sword Art Online",
+            "description": "Di tahun 2022, virtual reality telah berkembang melewati batasan, dan sebuah massive online role-playing game yang bernama Sword Art Online (SAO) diluncurkan.",
+            "Rating": "8.02",
+            "episode": 25,
+            "categorie":"Action, Adventure, Fantasy, Game, Romance",
+            "studio":"Completed",
+            "img": "https://www.oploverz.in/wp-content/uploads/2015/11/2437.jpg"
+        }
+        
+        
+]
