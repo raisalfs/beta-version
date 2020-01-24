@@ -1,5 +1,6 @@
 [
-        {
+        {  
+            "path":"ONE_PIECE",
             "name": "One Piece",
             "description": "bercerita tentang seorang laki-laki bernama Monkey D. Luffy,yang menentang arti dari gelar bajak laut. Daripada kesan nama besar, kejahatan, kekerasan, dia lebih terlihat seperti bajak laut rendahan yang suka bersenang-senang,",
             "Rating": "8.62",
@@ -9,6 +10,7 @@
             "img": "https://www.oploverz.in/wp-content/uploads/2015/09/Screenshot_1.jpg"
         },
         {
+            "path":"Boruto",
             "name": "Boruto: Naruto Next Generations",
             "description": "Ninja generasi baru telah memasuki panggung utama, yang berpusat pada anak Naruto sendiri yaitu Boruto!",
             "Rating": "8.72",
@@ -18,6 +20,7 @@
             "img": "https://raw.githubusercontent.com/isnoozexc/parsejson/master/boruto.jpg"
         },
         {
+            "path":"OPM_S1",
             "name": "One Punch Man Season 1",
             "description": "Dalam serial komedi aksi ini, bercerita tentang seorang pemuda bernama Saitama yang selalu bilang “biasa-biasa saja..",
             "Rating": "8.59",
@@ -27,6 +30,7 @@
             "img": "https://www.oploverz.in/wp-content/uploads/2015/10/616.jpg"
         },
         {
+            "path":"OPM_S1",
             "name": "One Punch Man Season 2",
             "description": "One Punch Man S2. Berseting cerita setelah Saitama mengalahkan sang Penguasa Alam Semesta, Boros. Monster-monster kuat terus bermunculan sehingga menyulitkan asosiasi pahlawan",
             "Rating": "7.83",
@@ -36,6 +40,7 @@
             "img": "https://www.oploverz.in/wp-content/uploads/2019/04/Screenshot_1.jpg"
         },
         {
+            "path":"Naruto",
             "name": "Naruto Shippuden",
             "description": "Murid Pindahan Misterius!",
             "Rating": "7.97",
@@ -45,6 +50,7 @@
             "img": "https://www.oploverz.in/wp-content/uploads/2015/10/615.jpg"
         },
         {
+            "path":"OPM_S1",
             "name": "Boku no Hero Academia",
             "description": "Apa itu pahlawan? Bagi Izuku Midoriya, jawaban dari pertanyaan itu sangatlah sederhana: “Pahlawan adalah seseorang yang selalu dicita-citakan” Dan siapakah pahlawan terbaik? Yah kalau itu, tentu saja sang legenda All Might!",
             "Rating": "8.53",
@@ -54,6 +60,7 @@
             "img": "https://www.oploverz.in/wp-content/uploads/2016/04/37.jpg"
         },
         {
+            "path":"OPM_S1",
             "name": "Boku no Hero Academia Season 2",
             "description": "Musim kedua dari serial anime Boku no Hero Academia.",
             "Rating": "9.06",
@@ -63,6 +70,7 @@
             "img": "https://www.oploverz.in/wp-content/uploads/2017/04/11.jpg"
         },
         {
+            "path":"OPM_S1",
             "name": "BLEACH - ブリーチ -",
             "description": "Kurosaki Ichigo adalah seorang anak SMA biasa sampai keluarganya diserang oleh Hollow, roh rusak yang mengincar jiwa manusia",
             "Rating": "7.93",
@@ -72,6 +80,7 @@
             "img": "https://www.oploverz.in/wp-content/uploads/2017/01/112.jpg"
         },
         {
+            "path":"OPM_S1",
             "name": "Fairy Tail",
             "description": "Cerita berseting pada dunia khayalan, di sebuah tempat di mana terdapat Guild Penyihir disebut “Fairy Tail.”",
             "Rating": "8.10",
@@ -81,6 +90,7 @@
             "img": "https://www.oploverz.in/wp-content/uploads/2018/10/1-7.jpg"
         },
         {
+            "path":"OPM_S1",
             "name": "Sword Art Online",
             "description": "Di tahun 2022, virtual reality telah berkembang melewati batasan, dan sebuah massive online role-playing game yang bernama Sword Art Online (SAO) diluncurkan.",
             "Rating": "8.02",
@@ -89,6 +99,6 @@
             "studio":"Completed",
             "img": "https://www.oploverz.in/wp-content/uploads/2015/11/2437.jpg"
         }
-        
-        
+       
+       
 ]
