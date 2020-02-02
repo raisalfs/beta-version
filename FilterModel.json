@@ -1,15 +1,15 @@
 [
         {  
             "path":"ONE_PIECE",
-            "name": "Sort By Last Update",
+            "name": "Sort By Last Update"
         },
         {
             "path":"OPM_S1",
-            "name": "Sort By Rating",
+            "name": "Sort By Rating"
         },
         {
             "path":"OPM_S1",
-            "name": "Sort By Genre",
+            "name": "Sort By Genre"
         },
         {
             "path":"OPM_S1",
