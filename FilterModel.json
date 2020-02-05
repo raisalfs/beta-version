@@ -4,15 +4,15 @@
             "name": "Sort By Last Update"
         },
         {
-            "path":"OPM_S1",
+            "path":"MovieList",
             "name": "Sort By Rating"
         },
         {
-            "path":"OPM_S1",
+            "path":"MovieList",
             "name": "Sort By Genre"
         },
         {
-            "path":"OPM_S1",
+            "path":"MovieList",
             "name": "Most Popular"
         }
        
