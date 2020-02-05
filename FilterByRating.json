@@ -1,0 +1,174 @@
+[
+        {
+            "path":"OPM_S1",
+            "name": "Fast & Furious Presents: Hobbs & Shaw (2019)",
+            "description": "Lawman Luke Hobbs (Dwayne 'The Rock' Johnson) and outcast Deckard Shaw (Jason Statham) form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
+            "Rating": "6.5",
+            "episode": 366,
+            "categorie":"Action, Adventure",
+            "studio":"Dwayne Johnson, Jason Statham, Idris Elba",
+            "img": "https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg"
+        },
+        {  
+            "path":"OPM_S1",
+            "name": "Avengers: Endgame (2019)",
+            "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies",
+            "Rating": "8.5",
+            "episode": "-",
+            "categorie":" Action, Adventure, Drama, Sci-Fi",
+            "studio":"Robert Downey Jr., Chris Evans, Mark Ruffalo...",
+            "img": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "6 Underground (2019)",
+            "description": "Meet a new kind of action hero. Six untraceable agents, totally off the grid. They've buried their pasts so they can change the future.”",
+            "Rating": "6.1",
+            "episode": 328,
+            "categorie":"Action, Adventure, Comedy, Thriller",
+            "studio":" Ryan Reynolds, Mélanie Laurent, Manuel Garcia...",
+            "img": "https://m.media-amazon.com/images/M/MV5BNzE2ZjQxNjEtNmI2ZS00ZmU0LTg4M2YtYzVhYmRiYWU0YzI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "Shazam! (2019)",
+            "description": "A newly fostered young boy in search of his mother instead finds unexpected super powers and soon gains a powerful enemy.",
+            "Rating": "7.1",
+            "episode": "-",
+            "categorie":"Action, Adventure, Comedy, Fantasy",
+            "studio":"Zachary Levi, Mark Strong, Asher Angel...",
+            "img": "https://m.media-amazon.com/images/M/MV5BYTE0Yjc1NzUtMjFjMC00Y2I3LTg3NGYtNGRlMGJhYThjMTJmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "Spider-Man: Into the Spider-Verse (2018)",
+            "description": "Teen Miles Morales becomes Spider-Man of his reality, crossing his path with five counterparts from other dimensions to stop a threat for all realities.",
+            "Rating": "8.4",
+            "episode": 12,
+            "categorie":"Animation, Action, Adventure, Family, Sci-Fi",
+            "studio":"Shameik Moore, Jake Johnson, Hailee Steinfeld...",
+            "img": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "How to Train Your Dragon: The Hidden World (2019)",
+            "description": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek The Hidden World, a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
+            "Rating": "7.5",
+            "episode": 12,
+            "categorie":"Animation, Action, Adventure, Family, Fantasy",
+            "studio":"Jay Baruchel, America Ferrera, F. Murray...",
+            "img": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_SX300.jpg"
+        },
+        {
+            "path":"Naruto",
+            "name": "Bumblebee (2018)",
+            "description": "On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small California beach town. On the cusp of turning 18 and trying to find her place in the world, Charlie Watson discovers Bumblebee, battle-scarred and broken.",
+            "Rating": "6.8",
+            "episode": 500,
+            "categorie":"Action, Adventure, Sci-Fi",
+            "studio":"Hailee Steinfeld, Jorge Lendeborg Jr., John Cena...",
+            "img": "https://m.media-amazon.com/images/M/MV5BMjUwNjU5NDMyNF5BMl5BanBnXkFtZTgwNzgxNjM2NzM@._V1_SX300.jpg"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "Terminator: Dark Fate (2019)",
+            "description": "An augmented human and Sarah Connor must stop an advanced liquid Terminator, from hunting down a young girl, whose fate is critical to the human race.",
+            "Rating": "6.5",
+            "episode": 13,
+            "categorie":"Action, Adventure, Sci-Fi",
+            "studio":" Linda Hamilton, Arnold Schwarzenegger...",
+            "img": "https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "Maleficent: Mistress of Evil (2019)",
+            "description": "Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials...",
+            "Rating": "6.8",
+            "episode": 25,
+            "categorie":"Adventure, Family, Fantasy",
+            "studio":"Angelina Jolie, Elle Fanning, Harris Dickinson...",
+            "img": "https://m.media-amazon.com/images/M/MV5BZjJiYTExOTAtNWU0Yi00NzJjLTkwOTgtOTU2NWM1ZjJmYWVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "Fast & Furious Presents: Hobbs & Shaw (2019)",
+            "description": "Lawman Luke Hobbs (Dwayne 'The Rock' Johnson) and outcast Deckard Shaw (Jason Statham) form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
+            "Rating": "6.5",
+            "episode": 366,
+            "categorie":"Action, Adventure",
+            "studio":"Dwayne Johnson, Jason Statham, Idris Elba",
+            "img": "https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "Shazam! (2019)",
+            "description": "A newly fostered young boy in search of his mother instead finds unexpected super powers and soon gains a powerful enemy.",
+            "Rating": "7.1",
+            "episode": "-",
+            "categorie":"Action, Adventure, Comedy, Fantasy",
+            "studio":"Zachary Levi, Mark Strong, Asher Angel...",
+            "img": "https://m.media-amazon.com/images/M/MV5BYTE0Yjc1NzUtMjFjMC00Y2I3LTg3NGYtNGRlMGJhYThjMTJmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "Spider-Man: Into the Spider-Verse (2018)",
+            "description": "Teen Miles Morales becomes Spider-Man of his reality, crossing his path with five counterparts from other dimensions to stop a threat for all realities.",
+            "Rating": "8.4",
+            "episode": 12,
+            "categorie":"Animation, Action, Adventure, Family, Sci-Fi",
+            "studio":"Shameik Moore, Jake Johnson, Hailee Steinfeld...",
+            "img": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "How to Train Your Dragon: The Hidden World (2019)",
+            "description": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek The Hidden World, a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
+            "Rating": "7.5",
+            "episode": 12,
+            "categorie":"Animation, Action, Adventure, Family, Fantasy",
+            "studio":"Jay Baruchel, America Ferrera, F. Murray...",
+            "img": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_SX300.jpg"
+        },
+        {
+            "path":"Naruto",
+            "name": "Bumblebee (2018)",
+            "description": "On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small California beach town. On the cusp of turning 18 and trying to find her place in the world, Charlie Watson discovers Bumblebee, battle-scarred and broken.",
+            "Rating": "6.8",
+            "episode": 500,
+            "categorie":"Action, Adventure, Sci-Fi",
+            "studio":"Hailee Steinfeld, Jorge Lendeborg Jr., John Cena...",
+            "img": "https://m.media-amazon.com/images/M/MV5BMjUwNjU5NDMyNF5BMl5BanBnXkFtZTgwNzgxNjM2NzM@._V1_SX300.jpg"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "Terminator: Dark Fate (2019)",
+            "description": "An augmented human and Sarah Connor must stop an advanced liquid Terminator, from hunting down a young girl, whose fate is critical to the human race.",
+            "Rating": "6.5",
+            "episode": 13,
+            "categorie":"Action, Adventure, Sci-Fi",
+            "studio":" Linda Hamilton, Arnold Schwarzenegger...",
+            "img": "https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "Maleficent: Mistress of Evil (2019)",
+            "description": "Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials...",
+            "Rating": "6.8",
+            "episode": 25,
+            "categorie":"Adventure, Family, Fantasy",
+            "studio":"Angelina Jolie, Elle Fanning, Harris Dickinson...",
+            "img": "https://m.media-amazon.com/images/M/MV5BZjJiYTExOTAtNWU0Yi00NzJjLTkwOTgtOTU2NWM1ZjJmYWVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "The Girl in the Spider's Web (2018)",
+            "description": "Young computer hacker Lisbeth Salander and journalist Mikael Blomkvist find themselves caught in a web of spies, cybercriminals and corrupt government officials.",
+            "Rating": "6.1",
+            "episode": 25,
+            "categorie":"Action, Crime, Drama, Thriller",
+            "studio":" Claire Foy, Beau Gadsdon, Sverrir Gudnason,...",
+            "img": "https://m.media-amazon.com/images/M/MV5BZWU4ZDI5OGEtOTdmZS00MmNiLWIzNjQtZGM1MGE0M2UzYTczXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+        }
+       
+       
+]
