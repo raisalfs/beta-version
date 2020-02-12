@@ -1,0 +1,60 @@
+[
+        {  
+            "path":"Naruto",
+            "name": "Film Terbaru/Box Office"
+        },
+        {
+            "path":"Boruto",
+            "name": "Action"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "India"
+        },
+        {
+            "path":"ONE_PIECE",
+            "name": "Thailand"
+        },
+        {
+            "path":"Naruto",
+            "name": "Korea"
+        },
+        {
+            "path":"Boruto",
+            "name": "Indonesia"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "Thriller"
+        },
+        {
+            "path":"ONE_PIECE",
+            "name": "Romance"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "Comedy"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "Horror"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "Mistery"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "Fantasy"
+        },
+        {
+            "path":"OPM_S1",
+            "name": "Biography"
+        },
+        {
+            "path":"ONE_PIECE",
+            "name": "Drama"
+        }
+       
+       
+]
