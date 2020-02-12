@@ -4,55 +4,55 @@
             "name": "Film Terbaru/Box Office"
         },
         {
-            "path":"Boruto",
+            "path":"FilterByRating",
             "name": "Action"
         },
         {
-            "path":"OPM_S1",
+            "path":"MovieList",
             "name": "India"
         },
         {
-            "path":"ONE_PIECE",
+            "path":"FilterByRating",
             "name": "Thailand"
         },
         {
-            "path":"Naruto",
+            "path":"MovieList",
             "name": "Korea"
         },
         {
-            "path":"Boruto",
+            "path":"FilterByRating",
             "name": "Indonesia"
         },
         {
-            "path":"OPM_S1",
+            "path":"MovieList",
             "name": "Thriller"
         },
         {
-            "path":"ONE_PIECE",
+            "path":"FilterByRating",
             "name": "Romance"
         },
         {
-            "path":"OPM_S1",
+            "path":"MovieList",
             "name": "Comedy"
         },
         {
-            "path":"OPM_S1",
+            "path":"FilterByRating",
             "name": "Horror"
         },
         {
-            "path":"OPM_S1",
+            "path":"MovieList",
             "name": "Mistery"
         },
         {
-            "path":"OPM_S1",
+            "path":"FilterByRating",
             "name": "Fantasy"
         },
         {
-            "path":"OPM_S1",
+            "path":"MovieList",
             "name": "Biography"
         },
         {
-            "path":"ONE_PIECE",
+            "path":"FilterByRating",
             "name": "Drama"
         }
        
