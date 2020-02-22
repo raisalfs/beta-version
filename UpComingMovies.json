@@ -1,13 +1,13 @@
 [
         {
             "path":"path",
-            "name": "title",
+            "name": "Wrong Turn: The Foundation (II)",
             "description": "description",
             "Rating": "Rating",
             "episode": "episode",
             "categorie":"categorie",
-            "studio":"urlstream",
-            "img": "img"
+            "studio":"urlstream",   
+            "img": "https://m.media-amazon.com/images/M/MV5BOGZhYjRjNTMtMTBkMy00ZjcxLWI5YjUtZDU3M2JmZGY3YWY2XkEyXkFqcGdeQXVyNjU3MTkxMDA@._V1_UY209_CR11,0,140,209_AL_.jpg"
         },
         {  
             "path":"path",
