@@ -1,0 +1,30 @@
+{
+    "path":"path",
+    "name": "Maleficent",
+    "description": "https://twitter.com/Crunchify",
+    "Rating": "Rating",
+    "episode": "episode",
+    "categorie":"categorie",
+    "studio":"urlstream",
+    "img": "https://assets-a2.kompasiana.com/items/album/2019/10/23/mv5bnzq5nte1ztqtmtnjyi00ztm0ltgyzwytnwmyzgrizwjjndm0xkeyxkfqcgdeqxvyodc0oteynduat-v1-sy1000-cr0-0-706-1000-al-5dafb742097f3629c574acc2.jpg?t=o&v=350",
+    "actor_1": {
+        "name_actor": "actor_1",
+        "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+        "link_wiki": "https://id.wikipedia.org/wiki/Java"
+    },
+    "actor_2": {
+        "name_actor": "actor_2",
+        "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/nami.jpg",
+        "link_wiki": "https://id.wikipedia.org/wiki/Ruby_(bahasa_pemrograman)"
+    },
+    "actor_3": {
+        "name_actor": "actor_3",
+        "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/rais.jpg",
+        "link_wiki": "https://id.wikipedia.org/wiki/PHP"
+    },
+    "actor_4": {
+        "name_actor": "actor_4",
+        "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+        "link_wiki": "https://id.wikipedia.org/wiki/Java"
+    }
+}
