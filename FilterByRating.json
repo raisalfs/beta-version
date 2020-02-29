@@ -17,7 +17,27 @@
             "episode": "-",
             "categorie":" Action, Adventure, Drama, Sci-Fi",
             "studio":"Robert Downey Jr., Chris Evans, Mark Ruffalo...",
-            "img": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+             "actor_1": {
+            "name_actor": "actor_1",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"
+        },
+        "actor_2": {
+            "name_actor": "actor_2",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/nami.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Ruby_(bahasa_pemrograman)"
+        },
+        "actor_3": {
+            "name_actor": "actor_3",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/rais.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/PHP"
+        },
+        "actor_4": {
+            "name_actor": "actor_4",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",      
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"  
+        }
         },
         {
             "path":"OPM_S1",
@@ -27,7 +47,27 @@
             "episode": "Ryan Reynolds, Mélanie Laurent, Manuel Garcia...",
             "categorie":"Action, Adventure, Comedy, Thriller",
             "studio":" ",
-            "img": "https://m.media-amazon.com/images/M/MV5BNzE2ZjQxNjEtNmI2ZS00ZmU0LTg4M2YtYzVhYmRiYWU0YzI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BNzE2ZjQxNjEtNmI2ZS00ZmU0LTg4M2YtYzVhYmRiYWU0YzI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+        "actor_1": {
+            "name_actor": "actor_1",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"
+        },
+        "actor_2": {
+            "name_actor": "actor_2",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/nami.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Ruby_(bahasa_pemrograman)"
+        },
+        "actor_3": {
+            "name_actor": "actor_3",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/rais.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/PHP"
+        },
+        "actor_4": {
+            "name_actor": "actor_4",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",      
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"  
+        }
         },
         {
             "path":"OPM_S1",
@@ -37,7 +77,27 @@
             "episode": "Zachary Levi, Mark Strong, Asher Angel...",
             "categorie":"Action, Adventure, Comedy, Fantasy",
             "studio":"",
-            "img": "https://m.media-amazon.com/images/M/MV5BYTE0Yjc1NzUtMjFjMC00Y2I3LTg3NGYtNGRlMGJhYThjMTJmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BYTE0Yjc1NzUtMjFjMC00Y2I3LTg3NGYtNGRlMGJhYThjMTJmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg",
+        "actor_1": {
+            "name_actor": "actor_1",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"
+        },
+        "actor_2": {
+            "name_actor": "actor_2",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/nami.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Ruby_(bahasa_pemrograman)"
+        },
+        "actor_3": {
+            "name_actor": "actor_3",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/rais.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/PHP"
+        },
+        "actor_4": {
+            "name_actor": "actor_4",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",      
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"  
+        }
         },
         {
             "path":"OPM_S1",
@@ -47,7 +107,27 @@
             "episode": "Shameik Moore, Jake Johnson, Hailee Steinfeld...",
             "categorie":"Animation, Action, Adventure, Family, Sci-Fi",
             "studio":"",
-            "img": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg",
+        "actor_1": {
+            "name_actor": "actor_1",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"
+        },
+        "actor_2": {
+            "name_actor": "actor_2",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/nami.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Ruby_(bahasa_pemrograman)"
+        },
+        "actor_3": {
+            "name_actor": "actor_3",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/rais.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/PHP"
+        },
+        "actor_4": {
+            "name_actor": "actor_4",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",      
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"  
+        }
         },
         {
             "path":"OPM_S1",
@@ -57,7 +137,27 @@
             "episode": "Jay Baruchel, America Ferrera, F. Murray...",
             "categorie":"Animation, Action, Adventure, Family, Fantasy",
             "studio":"",
-            "img": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_SX300.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_SX300.jpg",
+        "actor_1": {
+            "name_actor": "actor_1",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"
+        },
+        "actor_2": {
+            "name_actor": "actor_2",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/nami.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Ruby_(bahasa_pemrograman)"
+        },
+        "actor_3": {
+            "name_actor": "actor_3",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/rais.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/PHP"
+        },
+        "actor_4": {
+            "name_actor": "actor_4",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",      
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"  
+        }
         },
         {
             "path":"Naruto",
@@ -67,7 +167,27 @@
             "episode": "Hailee Steinfeld, Jorge Lendeborg Jr., John Cena...",
             "categorie":"Action, Adventure, Sci-Fi",
             "studio":"",
-            "img": "https://m.media-amazon.com/images/M/MV5BMjUwNjU5NDMyNF5BMl5BanBnXkFtZTgwNzgxNjM2NzM@._V1_SX300.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BMjUwNjU5NDMyNF5BMl5BanBnXkFtZTgwNzgxNjM2NzM@._V1_SX300.jpg",
+        "actor_1": {
+            "name_actor": "actor_1",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"
+        },
+        "actor_2": {
+            "name_actor": "actor_2",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/nami.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Ruby_(bahasa_pemrograman)"
+        },
+        "actor_3": {
+            "name_actor": "actor_3",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/rais.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/PHP"
+        },
+        "actor_4": {
+            "name_actor": "actor_4",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",      
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"  
+        }
         },
         {
             "path":"OPM_S1",
@@ -77,7 +197,27 @@
             "episode": "Linda Hamilton, Arnold Schwarzenegger...",
             "categorie":"Action, Adventure, Sci-Fi",
             "studio":" ",
-            "img": "https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+        "actor_1": {
+            "name_actor": "actor_1",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"
+        },
+        "actor_2": {
+            "name_actor": "actor_2",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/nami.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Ruby_(bahasa_pemrograman)"
+        },
+        "actor_3": {
+            "name_actor": "actor_3",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/rais.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/PHP"
+        },
+        "actor_4": {
+            "name_actor": "actor_4",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",      
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"  
+        }
         },
         {
             "path":"OPM_S1",
@@ -87,7 +227,27 @@
             "episode": "https://www8.zippyshare.com/d/qucU2pyp/4140/%5bkawanfilm21.online%5d-M4leficent.2.2019.BluRay.480p-Bioskopgratis21.com.mp4",
             "categorie":"Adventure, Family, Fantasy",
             "studio":"https://www8.zippyshare.com/d/qucU2pyp/708/%5bkawanfilm21.online%5d-M4leficent.2.2019.BluRay.480p-Bioskopgratis21.com.mp4",
-            "img": "https://m.media-amazon.com/images/M/MV5BZjJiYTExOTAtNWU0Yi00NzJjLTkwOTgtOTU2NWM1ZjJmYWVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BZjJiYTExOTAtNWU0Yi00NzJjLTkwOTgtOTU2NWM1ZjJmYWVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+        "actor_1": {
+            "name_actor": "actor_1",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"
+        },
+        "actor_2": {
+            "name_actor": "actor_2",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/nami.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Ruby_(bahasa_pemrograman)"
+        },
+        "actor_3": {
+            "name_actor": "actor_3",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/rais.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/PHP"
+        },
+        "actor_4": {
+            "name_actor": "actor_4",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",      
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"  
+        }
         },
         {
             "path":"OPM_S1",
@@ -97,7 +257,27 @@
             "episode": "Dwayne Johnson, Jason Statham, Idris Elba",
             "categorie":"Action, Adventure",
             "studio":"",
-            "img": "https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+        "actor_1": {
+            "name_actor": "actor_1",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"
+        },
+        "actor_2": {
+            "name_actor": "actor_2",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/nami.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Ruby_(bahasa_pemrograman)"
+        },
+        "actor_3": {
+            "name_actor": "actor_3",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/rais.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/PHP"
+        },
+        "actor_4": {
+            "name_actor": "actor_4",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",      
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"  
+        }
         },
         {
             "path":"OPM_S1",
@@ -107,7 +287,27 @@
             "episode": "Zachary Levi, Mark Strong, Asher Angel...",
             "categorie":"Action, Adventure, Comedy, Fantasy",
             "studio":"",
-            "img": "https://m.media-amazon.com/images/M/MV5BYTE0Yjc1NzUtMjFjMC00Y2I3LTg3NGYtNGRlMGJhYThjMTJmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BYTE0Yjc1NzUtMjFjMC00Y2I3LTg3NGYtNGRlMGJhYThjMTJmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg",
+        "actor_1": {
+            "name_actor": "actor_1",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"
+        },
+        "actor_2": {
+            "name_actor": "actor_2",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/nami.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Ruby_(bahasa_pemrograman)"
+        },
+        "actor_3": {
+            "name_actor": "actor_3",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/rais.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/PHP"
+        },
+        "actor_4": {
+            "name_actor": "actor_4",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",      
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"  
+        }
         },
         {
             "path":"OPM_S1",
@@ -117,7 +317,27 @@
             "episode": "Shameik Moore, Jake Johnson, Hailee Steinfeld...",
             "categorie":"Animation, Action, Adventure, Family, Sci-Fi",
             "studio":"",
-            "img": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg",
+        "actor_1": {
+            "name_actor": "actor_1",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"
+        },
+        "actor_2": {
+            "name_actor": "actor_2",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/nami.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Ruby_(bahasa_pemrograman)"
+        },
+        "actor_3": {
+            "name_actor": "actor_3",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/rais.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/PHP"
+        },
+        "actor_4": {
+            "name_actor": "actor_4",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",      
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"  
+        }
         },
         {
             "path":"OPM_S1",
@@ -127,7 +347,27 @@
             "episode": "Jay Baruchel, America Ferrera, F. Murray...",
             "categorie":"Animation, Action, Adventure, Family, Fantasy",
             "studio":"",
-            "img": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_SX300.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_SX300.jpg",
+        "actor_1": {
+            "name_actor": "actor_1",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"
+        },
+        "actor_2": {
+            "name_actor": "actor_2",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/nami.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Ruby_(bahasa_pemrograman)"
+        },
+        "actor_3": {
+            "name_actor": "actor_3",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/rais.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/PHP"
+        },
+        "actor_4": {
+            "name_actor": "actor_4",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",      
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"  
+        }
         },
         {
             "path":"Naruto",
@@ -137,7 +377,27 @@
             "episode": "Hailee Steinfeld, Jorge Lendeborg Jr., John Cena...",
             "categorie":"Action, Adventure, Sci-Fi",
             "studio":"",
-            "img": "https://m.media-amazon.com/images/M/MV5BMjUwNjU5NDMyNF5BMl5BanBnXkFtZTgwNzgxNjM2NzM@._V1_SX300.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BMjUwNjU5NDMyNF5BMl5BanBnXkFtZTgwNzgxNjM2NzM@._V1_SX300.jpg",
+        "actor_1": {
+            "name_actor": "actor_1",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"
+        },
+        "actor_2": {
+            "name_actor": "actor_2",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/nami.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Ruby_(bahasa_pemrograman)"
+        },
+        "actor_3": {
+            "name_actor": "actor_3",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/rais.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/PHP"
+        },
+        "actor_4": {
+            "name_actor": "actor_4",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",      
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"  
+        }
         },
         {
             "path":"OPM_S1",
@@ -147,7 +407,27 @@
             "episode": "Linda Hamilton, Arnold Schwarzenegger...",
             "categorie":"Action, Adventure, Sci-Fi",
             "studio":" ",
-            "img": "https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+        "actor_1": {
+            "name_actor": "actor_1",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"
+        },
+        "actor_2": {
+            "name_actor": "actor_2",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/nami.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Ruby_(bahasa_pemrograman)"
+        },
+        "actor_3": {
+            "name_actor": "actor_3",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/rais.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/PHP"
+        },
+        "actor_4": {
+            "name_actor": "actor_4",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",      
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"  
+        }
         },
         {
             "path":"OPM_S1",
@@ -157,7 +437,27 @@
             "episode": "Angelina Jolie, Elle Fanning, Harris Dickinson...",
             "categorie":"Adventure, Family, Fantasy",
             "studio":"",
-            "img": "https://m.media-amazon.com/images/M/MV5BZjJiYTExOTAtNWU0Yi00NzJjLTkwOTgtOTU2NWM1ZjJmYWVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BZjJiYTExOTAtNWU0Yi00NzJjLTkwOTgtOTU2NWM1ZjJmYWVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+        "actor_1": {
+            "name_actor": "actor_1",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"
+        },
+        "actor_2": {
+            "name_actor": "actor_2",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/nami.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Ruby_(bahasa_pemrograman)"
+        },
+        "actor_3": {
+            "name_actor": "actor_3",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/rais.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/PHP"
+        },
+        "actor_4": {
+            "name_actor": "actor_4",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",      
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"  
+        }
         },
         {
             "path":"OPM_S1",
@@ -167,7 +467,27 @@
             "episode": "Claire Foy, Beau Gadsdon, Sverrir Gudnason,...",
             "categorie":"Action, Crime, Drama, Thriller",
             "studio":" ",
-            "img": "https://m.media-amazon.com/images/M/MV5BZWU4ZDI5OGEtOTdmZS00MmNiLWIzNjQtZGM1MGE0M2UzYTczXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BZWU4ZDI5OGEtOTdmZS00MmNiLWIzNjQtZGM1MGE0M2UzYTczXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "actor_1": {
+            "name_actor": "actor_1",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"
+        },
+        "actor_2": {
+            "name_actor": "actor_2",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/nami.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Ruby_(bahasa_pemrograman)"
+        },
+        "actor_3": {
+            "name_actor": "actor_3",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/rais.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/PHP"
+        },
+        "actor_4": {
+            "name_actor": "actor_4",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",      
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"  
+        }
         }
        
        
