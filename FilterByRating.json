@@ -7,7 +7,11 @@
             "episode": "Dwayne Johnson, Jason Statham, Idris Elba",
             "categorie":"Action, Adventure",
             "studio":"",
-            "img": "https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+                "actor_1": {
+            "name_actor": "actor_1",
+            "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
+            "link_wiki": "https://id.wikipedia.org/wiki/Java"
         },
         {  
             "path":"OPM_S1",
