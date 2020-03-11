@@ -8,13 +8,13 @@
             "categorie":"Action, Adventure",
             "studio":"https://drive.google.com/file/d/15-ai0XqSXdBFTvJZpDv8x752KAwYHG3Z/preview",
             "img": "https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
-                "actor_1": [
+                "actor_1": 
                 {
                         "name_actor": "actor_1",
                         "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
                         "link_wiki": "https://id.wikipedia.org/wiki/Java"
                 }
-                ]
+                
         },
         {  
             "path":"OPM_S1",
@@ -25,13 +25,13 @@
             "categorie":" Action, Adventure, Drama, Sci-Fi",
             "studio":"https://drive.google.com/file/d/15-ai0XqSXdBFTvJZpDv8x752KAwYHG3Z/preview",
             "img": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
-             "actor_1": [
+             "actor_1": 
                 {
                         "name_actor": "actor_1",
                         "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
                         "link_wiki": "https://id.wikipedia.org/wiki/Java"
                 }
-                ]
+                
         },
         {
             "path":"OPM_S1",
@@ -42,13 +42,13 @@
             "categorie":"Action, Adventure, Comedy, Thriller",
             "studio":"https://drive.google.com/file/d/15-ai0XqSXdBFTvJZpDv8x752KAwYHG3Z/preview",
             "img": "https://m.media-amazon.com/images/M/MV5BNzE2ZjQxNjEtNmI2ZS00ZmU0LTg4M2YtYzVhYmRiYWU0YzI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
-        "actor_1": [
+        "actor_1": 
                 {
                         "name_actor": "actor_1",
                         "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
                         "link_wiki": "https://id.wikipedia.org/wiki/Java"
                 }
-                ]
+                
         },
         {
             "path":"OPM_S1",
@@ -59,13 +59,13 @@
             "categorie":"Action, Adventure, Comedy, Fantasy",
             "studio":"",
             "img": "https://m.media-amazon.com/images/M/MV5BYTE0Yjc1NzUtMjFjMC00Y2I3LTg3NGYtNGRlMGJhYThjMTJmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg",
-        "actor_1": [
+        "actor_1": 
                 {
                         "name_actor": "actor_1",
                         "image_actor": "https://raw.githubusercontent.com/isnoozexc/hello-world/master/hardy.jpg",
                         "link_wiki": "https://id.wikipedia.org/wiki/Java"
                 }
-                ]
+                
         }
        
        
