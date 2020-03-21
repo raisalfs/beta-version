@@ -250,7 +250,7 @@
             "cover_bg": "cover",
             "actors": "Linda Hamilton, Arnold Schwarzenegger...",
             "actors_full":"actors_full",
-            "quality_movie":"CAM",
+            "quality_movie":"WEBRip",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
@@ -266,7 +266,7 @@
             "cover_bg": "cover",
             "actors": "Linda Hamilton, Arnold Schwarzenegger...",
             "actors_full":"actors_full",
-            "quality_movie":"HD",
+            "quality_movie":"WEB-DL",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
