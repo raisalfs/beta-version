@@ -10,7 +10,7 @@
             "cover_bg": "cover",
             "actors": "actors",
             "actors_full":"actors_full",
-            "quality_movie":"quality",
+            "quality_movie":"BLU",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
@@ -26,7 +26,7 @@
             "cover_bg": "cover",
             "actors": "Zachary Levi, Mark Strong, Asher Angel...",
             "actors_full":"actors_full",
-            "quality_movie":"quality",
+            "quality_movie":"BLU",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
@@ -42,7 +42,7 @@
             "cover_bg": "cover",
             "actors": "Shameik Moore, Jake Johnson, Hailee Steinfeld...",
             "actors_full":"actors_full",
-            "quality_movie":"quality",
+            "quality_movie":"BLU",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
@@ -58,7 +58,7 @@
             "cover_bg": "cover",
             "actors": "Jay Baruchel, America Ferrera, F. Murray...",
             "actors_full":"actors_full",
-            "quality_movie":"quality",
+            "quality_movie":"BLU",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
@@ -74,7 +74,7 @@
             "cover_bg": "cover",
             "actors": "Hailee Steinfeld, Jorge Lendeborg Jr., John Cena...",
             "actors_full":"actors_full",
-            "quality_movie":"quality",
+            "quality_movie":"BLU",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
@@ -90,7 +90,7 @@
             "cover_bg": "cover",
             "actors": "Linda Hamilton, Arnold Schwarzenegger...",
             "actors_full":"actors_full",
-            "quality_movie":"quality",
+            "quality_movie":"BLU",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
@@ -106,7 +106,7 @@
             "cover_bg": "cover",
             "actors": "Linda Hamilton, Arnold Schwarzenegger...",
             "actors_full":"actors_full",
-            "quality_movie":"quality",
+            "quality_movie":"BLU",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
@@ -122,7 +122,7 @@
             "cover_bg": "cover",
             "actors": "Linda Hamilton, Arnold Schwarzenegger...",
             "actors_full":"actors_full",
-            "quality_movie":"quality",
+            "quality_movie":"BLU",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
@@ -138,7 +138,7 @@
             "cover_bg": "cover",
             "actors": "Linda Hamilton, Arnold Schwarzenegger...",
             "actors_full":"actors_full",
-            "quality_movie":"quality",
+            "quality_movie":"CAM",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
@@ -154,7 +154,7 @@
             "cover_bg": "cover",
             "actors": "Linda Hamilton, Arnold Schwarzenegger...",
             "actors_full":"actors_full",
-            "quality_movie":"quality",
+            "quality_movie":"CAM",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
@@ -170,7 +170,7 @@
             "cover_bg": "cover",
             "actors": "Linda Hamilton, Arnold Schwarzenegger...",
             "actors_full":"actors_full",
-            "quality_movie":"quality",
+            "quality_movie":"CAM",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
@@ -186,7 +186,7 @@
             "cover_bg": "cover",
             "actors": "Linda Hamilton, Arnold Schwarzenegger...",
             "actors_full":"actors_full",
-            "quality_movie":"quality",
+            "quality_movie":"CAM",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
@@ -202,7 +202,7 @@
             "cover_bg": "cover",
             "actors": "Linda Hamilton, Arnold Schwarzenegger...",
             "actors_full":"actors_full",
-            "quality_movie":"quality",
+            "quality_movie":"CAM",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
@@ -218,7 +218,7 @@
             "cover_bg": "cover",
             "actors": "Linda Hamilton, Arnold Schwarzenegger...",
             "actors_full":"actors_full",
-            "quality_movie":"quality",
+            "quality_movie":"CAM",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
@@ -234,7 +234,7 @@
             "cover_bg": "cover",
             "actors": "Linda Hamilton, Arnold Schwarzenegger...",
             "actors_full":"actors_full",
-            "quality_movie":"quality",
+            "quality_movie":"CAM",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
@@ -250,7 +250,7 @@
             "cover_bg": "cover",
             "actors": "Linda Hamilton, Arnold Schwarzenegger...",
             "actors_full":"actors_full",
-            "quality_movie":"quality",
+            "quality_movie":"CAM",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
@@ -266,7 +266,7 @@
             "cover_bg": "cover",
             "actors": "Linda Hamilton, Arnold Schwarzenegger...",
             "actors_full":"actors_full",
-            "quality_movie":"quality",
+            "quality_movie":"HD",
             "release":"tahun_rilis",
             "season":"if_series",
             "episode":"if_series"
