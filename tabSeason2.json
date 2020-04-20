@@ -17,26 +17,22 @@
         "season": [
             {
                 "name_season": {
-                    "name": "",
-                    "season_stream": ""
+                    "season_path": ""
                 }
             },
             {
                 "name_season": {
-                    "name": "",
-                    "season_stream": ""
+                    "season_path": ""
                 }
             },
             {
                 "name_season": {
-                    "name": "",
-                    "season_stream": ""
+                    "season_path": ""       
                 }
             },
             {
                 "name_season": {
-                    "name": "",
-                    "season_stream": ""
+                    "season_path": ""
                 }
             }
         ]
