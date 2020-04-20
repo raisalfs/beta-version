@@ -14,9 +14,37 @@
     "release":"tahun_rilis",
     "duration":"181min",
     "episode":"if_series",
-    "season": "if_series"
-             
+    "season_1": [ 
+        { 
+            "name_season":"",
+            "name":"",
+            "season_stream":""
+        },
+        {
+            "name_season":"",
+            "name":"",
+            "season_stream":""
         }
+    ],
+        "season_2": [ 
+            {
+                "name_season":"",
+                "name":"",
+                "season_stream":""
+            },
+            {
+                "name_season":"",
+                "name":"",
+                "season_stream":""
+            },
+            {
+                "name_season":"",
+                "name":"",
+                "season_stream":""
+            }
+            ]
+                
+    }
 ]
               
     
