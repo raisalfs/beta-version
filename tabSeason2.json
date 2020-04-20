@@ -17,21 +17,25 @@
         "season": [
             {
                 "name_season": {
+                    "title_season":"",
                     "season_path": ""
                 }
             },
             {
                 "name_season": {
+                    title_season":"",
                     "season_path": ""
                 }
             },
             {
                 "name_season": {
+                    title_season":"",
                     "season_path": ""       
                 }
             },
             {
                 "name_season": {
+                    title_season":"",
                     "season_path": ""
                 }
             }
