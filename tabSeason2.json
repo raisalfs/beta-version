@@ -1,45 +1,44 @@
-[{
-		"path": "MoneyHeist",
-		"name": "Avengers: Endgame (2019)",
-		"description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies",
-		"Rating": "8.4",
-		"categorie": " Action, Adventure, Drama, Sci-Fi",
-		"stream": "https://gplayer.movon.my.id/video/8ekYPiyAW9fx9h1/",
-		"cover": "https://images-na.ssl-images-amazon.com/images/I/91e9898R7QL._RI_.jpg",
-		"cover_bg": "https://img.okeinfo.net/content/2019/07/02/206/2073856/4-alasan-kenapa-bonus-adegan-dalam-avengers-endgame-buat-fans-murka-evuk1bkY5b.jpg",
-		"actors": "Robert Downey Jr, Chris Evans, Mark Ruffalo, Scarlett Johansson..",
-		"actors_full": "https://www.imdb.com/title/tt4154796/fullcredits",
-		"quality_movie": "BLU",
-		"release": "tahun_rilis",
-		"duration": "181min",
-		"episode": "if_series",
-		"season": [{
-			"name_season": "Season 1",
-			"season_list": [{
-					"name_episode": "",
-					"stream_episode": ""
-				},
-				{
-					"name_episode": "",
-					"stream_episode": ""
-				},
-				{
-					"name_episode": "",
-					"stream_episode": ""
-				}
-			],
-			"name_season": "Season 2",
-			"season_list": [{
-					"name_episode": "",
-					"stream_episode": ""
-				},
-				{
-					"name_episode": "",
-					"stream_episode": ""
-				},
-				{
-					"name_episode": "",
-					"stream_episode": ""
-				}
-			]
-		}]
+[
+    {
+        "path": "MoneyHeist",
+        "name": "Avengers: Endgame (2019)",
+        "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies",
+        "Rating": 8.4,
+        "categorie": " Action, Adventure, Drama, Sci-Fi",
+        "stream": "https://gplayer.movon.my.id/video/8ekYPiyAW9fx9h1/",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91e9898R7QL._RI_.jpg",
+        "cover_bg": "https://img.okeinfo.net/content/2019/07/02/206/2073856/4-alasan-kenapa-bonus-adegan-dalam-avengers-endgame-buat-fans-murka-evuk1bkY5b.jpg",
+        "actors": "Robert Downey Jr, Chris Evans, Mark Ruffalo, Scarlett Johansson..",
+        "actors_full": "https://www.imdb.com/title/tt4154796/fullcredits",
+        "quality_movie": "BLU",
+        "release": "tahun_rilis",
+        "duration": "181min",
+        "episode": "if_series",
+        "season": [
+            {
+                "name_season": {
+                    "name": "",
+                    "season_stream": ""
+                }
+            },
+            {
+                "name_season": {
+                    "name": "",
+                    "season_stream": ""
+                }
+            },
+            {
+                "name_season": {
+                    "name": "",
+                    "season_stream": ""
+                }
+            },
+            {
+                "name_season": {
+                    "name": "",
+                    "season_stream": ""
+                }
+            }
+        ]
+    }
+]
