@@ -42,18 +42,108 @@
         ]
     },
   {
-    "path": "MoneyHeist",
-        "name": "Money Heist",
-        "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
-        "Rating": 8.5,
-        "categorie": "Action, Crime, Mystery ",
+    "path": "TheOutsider",
+        "name": "The Outsider",
+        "description": "Investigators are confounded over an unspeakable crime that's been committed.",
+        "Rating": 8.0,
+        "categorie": "Crime, Drama, Fantasy ",
         "stream": "https://gplayer.movon.my.id/video/8ekYPiyAW9fx9h1/",
-        "cover": "https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
-        "cover_bg": "https://d.newsweek.com/en/full/1579681/money-heist-season-5.jpg?w=790&f=c2068a9f1848c92b016b86e73cc02c5c",
-        "actors": "Úrsula Corberó, Álvaro Morte, Itziar Ituño",
-        "actors_full": "https://www.imdb.com/title/tt6468322/fullcredits/?ref_=tt_ov_st_sm",
+        "cover": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982148249/the-outsider-9781982148249_hr.jpg",
+        "cover_bg": "https://cdn2.tstatic.net/tribunnewswiki/foto/bank/images/the-outsider2.jpg",
+        "actors": "Ben Mendelsohn, Bill Camp, Jeremy Bobb",
+        "actors_full": "https://www.imdb.com/title/tt8550800/fullcredits/?ref_=tt_ov_st_sm",
         "quality_movie": "HD",
-        "release": "2017",
+        "release": "2020",
+        "duration": "181min",
+        "episode": "S1",
+        "season": [
+            {
+                "name_season": {
+                    "title_season":"Season 1",
+                    "season_path": ""
+                }
+            }
+        ]
+  },
+  {
+    "path": "SexEducation",
+        "name": "Sex Education",
+        "description": "A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school.",
+        "Rating": 8.3,
+        "categorie": " Comedy, Drama",
+        "stream": "https://gplayer.movon.my.id/video/8ekYPiyAW9fx9h1/",
+        "cover": "data:image/jpeg;base64,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",
+        "cover_bg": "https://i1.wp.com/parmagz.com/wp-content/uploads/2019/04/Sex-Education-Netflix.jpg?resize=759%2C500&ssl=1",
+        "actors": "Asa Butterfield, Gillian Anderson, Ncuti Gatwa",
+        "actors_full": "https://www.imdb.com/title/tt7767422/fullcredits/?ref_=tt_ov_st_sm",
+        "quality_movie": "HD",
+        "release": "2019",
+        "duration": "181min",
+        "episode": "S1-S2",
+        "season": [
+            {
+                "name_season": {
+                    "title_season":"Season 1",
+                    "season_path": ""
+                }
+            },
+            {
+                "name_season": {
+                    "title_season":"Season 2",
+                    "season_path": ""
+                }
+            }
+        ]
+  },
+  {
+    "path": "ChillingAdventuresofSabrina",
+        "name": "Chilling Adventures of Sabrina",
+        "description": "As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. Based on the Archie comic.",
+        "Rating": 7.6,
+        "categorie": "Drama, Fantasy, Horror",
+        "stream": "https://gplayer.movon.my.id/video/8ekYPiyAW9fx9h1/",
+        "cover": "https://m.media-amazon.com/images/M/MV5BNDJjYzk0ZTktNzQ1ZC00MmQ0LTk1NTYtNmMwMGE4NDM5ZjAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "cover_bg": "https://www.dusa.co.uk/media/files/2019/01/80223989.jpg",
+        "actors": "Kiernan Shipka, Ross Lynch, Lucy Davis ",
+        "actors_full": "https://www.imdb.com/title/tt7569592/fullcredits/?ref_=tt_ov_st_sm",
+        "quality_movie": "HD",
+        "release": "2018",
+        "duration": "181min",
+        "episode": "S1-S3",
+        "season": [
+            {
+                "name_season": {
+                    "title_season":"Season 1",
+                    "season_path": ""
+                }
+            },
+            {
+                "name_season": {
+                    "title_season":"Season 2",
+                    "season_path": ""
+                }
+            },
+            {
+                "name_season": {
+                    "title_season":"Season 3",
+                    "season_path": ""       
+                }
+            }
+        ]
+  },
+  {
+    "path": "TheGoodPlace",
+        "name": "The Good Place",
+        "description": "Four people and their otherworldly frienemy struggle in the afterlife to define what it means to be good.",
+        "Rating": 8.2,
+        "categorie": "Comedy, Drama, Fantasy ",
+        "stream": "https://gplayer.movon.my.id/video/8ekYPiyAW9fx9h1/",
+        "cover": "https://m.media-amazon.com/images/M/MV5BYmMxNjM0NmItNGU1Mi00OGMwLTkzMzctZmE3YjU1ZDE4NmFjXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+        "cover_bg":"https://1.bp.blogspot.com/-fnTB3GV5d84/V_v8sxMslqI/AAAAAAAABSQ/gC0CiW7nkY0Zrvop_N9AWAP9jQ_39DCYACLcB/s1600/thegoodplace.jpg",
+        "actors": "Kristen Bell, William Jackson Harper, Jameela Jamil",
+        "actors_full": "https://www.imdb.com/title/tt4955642/fullcredits/?ref_=tt_ov_st_sm",
+        "quality_movie": "HD",
+        "release": "2016 - 2020",
         "duration": "181min",
         "episode": "S1-S4",
         "season": [
@@ -84,168 +174,24 @@
         ]
   },
   {
-    "path": "MoneyHeist",
-        "name": "Money Heist",
-        "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
-        "Rating": 8.5,
-        "categorie": "Action, Crime, Mystery ",
+    "path": "Cheer",
+        "name": "Cheer",
+        "description": "Follows the cheerleaders of Navarro College as they prepare for the biggest moment of their lives.",
+        "Rating": 8.2,
+        "categorie": "Documentary, Reality-TV",
         "stream": "https://gplayer.movon.my.id/video/8ekYPiyAW9fx9h1/",
-        "cover": "https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
-        "cover_bg": "https://d.newsweek.com/en/full/1579681/money-heist-season-5.jpg?w=790&f=c2068a9f1848c92b016b86e73cc02c5c",
-        "actors": "Úrsula Corberó, Álvaro Morte, Itziar Ituño",
-        "actors_full": "https://www.imdb.com/title/tt6468322/fullcredits/?ref_=tt_ov_st_sm",
+        "cover": "https://m.media-amazon.com/images/M/MV5BYzhkMGQ3MmEtZmFmOS00NGJlLWE1YTItZDk1ZTUyZDAzNjA2XkEyXkFqcGdeQXVyMjMzODIwMzQ@._V1_.jpg",
+        "cover_bg": "https://i0.wp.com/as.ua.edu/wp-content/uploads/2020/02/cheer-title-card.jpg?resize=300%2C169&ssl=1",
+        "actors": "Monica Aldama, Lexi Brumback, Gabi Butler",
+        "actors_full": "https://www.imdb.com/title/tt11426660/fullcredits/?ref_=tt_ov_st_sm",
         "quality_movie": "HD",
-        "release": "2017",
+        "release": "2020",
         "duration": "181min",
-        "episode": "S1-S4",
+        "episode": "S1",
         "season": [
             {
                 "name_season": {
                     "title_season":"Season 1",
-                    "season_path": ""
-                }
-            },
-            {
-                "name_season": {
-                    "title_season":"Season 2",
-                    "season_path": ""
-                }
-            },
-            {
-                "name_season": {
-                    "title_season":"Season 3",
-                    "season_path": ""       
-                }
-            },
-            {
-                "name_season": {
-                    "title_season":"Season 4",
-                    "season_path": ""
-                }
-            }
-        ]
-  },
-  {
-    "path": "MoneyHeist",
-        "name": "Money Heist",
-        "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
-        "Rating": 8.5,
-        "categorie": "Action, Crime, Mystery ",
-        "stream": "https://gplayer.movon.my.id/video/8ekYPiyAW9fx9h1/",
-        "cover": "https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
-        "cover_bg": "https://d.newsweek.com/en/full/1579681/money-heist-season-5.jpg?w=790&f=c2068a9f1848c92b016b86e73cc02c5c",
-        "actors": "Úrsula Corberó, Álvaro Morte, Itziar Ituño",
-        "actors_full": "https://www.imdb.com/title/tt6468322/fullcredits/?ref_=tt_ov_st_sm",
-        "quality_movie": "HD",
-        "release": "2017",
-        "duration": "181min",
-        "episode": "S1-S4",
-        "season": [
-            {
-                "name_season": {
-                    "title_season":"Season 1",
-                    "season_path": ""
-                }
-            },
-            {
-                "name_season": {
-                    "title_season":"Season 2",
-                    "season_path": ""
-                }
-            },
-            {
-                "name_season": {
-                    "title_season":"Season 3",
-                    "season_path": ""       
-                }
-            },
-            {
-                "name_season": {
-                    "title_season":"Season 4",
-                    "season_path": ""
-                }
-            }
-        ]
-  },
-  {
-    "path": "MoneyHeist",
-        "name": "Money Heist",
-        "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
-        "Rating": 8.5,
-        "categorie": "Action, Crime, Mystery ",
-        "stream": "https://gplayer.movon.my.id/video/8ekYPiyAW9fx9h1/",
-        "cover": "https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
-        "cover_bg": "https://d.newsweek.com/en/full/1579681/money-heist-season-5.jpg?w=790&f=c2068a9f1848c92b016b86e73cc02c5c",
-        "actors": "Úrsula Corberó, Álvaro Morte, Itziar Ituño",
-        "actors_full": "https://www.imdb.com/title/tt6468322/fullcredits/?ref_=tt_ov_st_sm",
-        "quality_movie": "HD",
-        "release": "2017",
-        "duration": "181min",
-        "episode": "S1-S4",
-        "season": [
-            {
-                "name_season": {
-                    "title_season":"Season 1",
-                    "season_path": ""
-                }
-            },
-            {
-                "name_season": {
-                    "title_season":"Season 2",
-                    "season_path": ""
-                }
-            },
-            {
-                "name_season": {
-                    "title_season":"Season 3",
-                    "season_path": ""       
-                }
-            },
-            {
-                "name_season": {
-                    "title_season":"Season 4",
-                    "season_path": ""
-                }
-            }
-        ]
-  },
-  {
-    "path": "MoneyHeist",
-        "name": "Money Heist",
-        "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
-        "Rating": 8.5,
-        "categorie": "Action, Crime, Mystery ",
-        "stream": "https://gplayer.movon.my.id/video/8ekYPiyAW9fx9h1/",
-        "cover": "https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
-        "cover_bg": "https://d.newsweek.com/en/full/1579681/money-heist-season-5.jpg?w=790&f=c2068a9f1848c92b016b86e73cc02c5c",
-        "actors": "Úrsula Corberó, Álvaro Morte, Itziar Ituño",
-        "actors_full": "https://www.imdb.com/title/tt6468322/fullcredits/?ref_=tt_ov_st_sm",
-        "quality_movie": "HD",
-        "release": "2017",
-        "duration": "181min",
-        "episode": "S1-S4",
-        "season": [
-            {
-                "name_season": {
-                    "title_season":"Season 1",
-                    "season_path": ""
-                }
-            },
-            {
-                "name_season": {
-                    "title_season":"Season 2",
-                    "season_path": ""
-                }
-            },
-            {
-                "name_season": {
-                    "title_season":"Season 3",
-                    "season_path": ""       
-                }
-            },
-            {
-                "name_season": {
-                    "title_season":"Season 4",
                     "season_path": ""
                 }
             }
@@ -254,18 +200,18 @@
   {
   "path": "MoneyHeist",
         "name": "Money Heist",
-        "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
-        "Rating": 8.5,
-        "categorie": "Action, Crime, Mystery ",
+        "description": "The rise of the Guadalajara Cartel as an American DEA agent learns the danger of targeting narcos in Mexico.",
+        "Rating": 8.4,
+        "categorie": "Crime, Drama ",
         "stream": "https://gplayer.movon.my.id/video/8ekYPiyAW9fx9h1/",
-        "cover": "https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
-        "cover_bg": "https://d.newsweek.com/en/full/1579681/money-heist-season-5.jpg?w=790&f=c2068a9f1848c92b016b86e73cc02c5c",
-        "actors": "Úrsula Corberó, Álvaro Morte, Itziar Ituño",
-        "actors_full": "https://www.imdb.com/title/tt6468322/fullcredits/?ref_=tt_ov_st_sm",
+        "cover": "https://i.pinimg.com/474x/e2/b6/c7/e2b6c773bfca404884f492eb37620659.jpg",
+        "cover_bg": "https://wallpaperaccess.com/full/1983118.jpg",
+        "actors": "Diego Luna, Scoot McNairy, José María Yazpik",
+        "actors_full": "https://www.imdb.com/title/tt8714904/fullcredits/?ref_=tt_ov_st_sm",
         "quality_movie": "HD",
-        "release": "2017",
+        "release": "2018",
         "duration": "181min",
-        "episode": "S1-S4",
+        "episode": "S1-S2",
         "season": [
             {
                 "name_season": {
@@ -276,60 +222,30 @@
             {
                 "name_season": {
                     "title_season":"Season 2",
-                    "season_path": ""
-                }
-            },
-            {
-                "name_season": {
-                    "title_season":"Season 3",
-                    "season_path": ""       
-                }
-            },
-            {
-                "name_season": {
-                    "title_season":"Season 4",
                     "season_path": ""
                 }
             }
         ]
   },
   {
-    "path": "MoneyHeist",
-        "name": "Money Heist",
-        "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
-        "Rating": 8.5,
-        "categorie": "Action, Crime, Mystery ",
+    "path": "StarTrekPicard",
+        "name": "Star Trek: Picard",
+        "description": "Follow-up series to Star Trek: The Next Generation (1987) and Star Trek: Nemesis (2002) that centers on Jean-Luc Picard (Sir Patrick Stewart) in the next chapter of his life.",
+        "Rating": 7.7,
+        "categorie": " Action, Adventure, Drama ",
         "stream": "https://gplayer.movon.my.id/video/8ekYPiyAW9fx9h1/",
         "cover": "https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
         "cover_bg": "https://d.newsweek.com/en/full/1579681/money-heist-season-5.jpg?w=790&f=c2068a9f1848c92b016b86e73cc02c5c",
-        "actors": "Úrsula Corberó, Álvaro Morte, Itziar Ituño",
-        "actors_full": "https://www.imdb.com/title/tt6468322/fullcredits/?ref_=tt_ov_st_sm",
+        "actors": " Patrick Stewart, Alison Pill, Isa Briones",
+        "actors_full": "https://www.imdb.com/title/tt8806524/fullcredits/?ref_=tt_ov_st_sm",
         "quality_movie": "HD",
-        "release": "2017",
+        "release": "2020",
         "duration": "181min",
-        "episode": "S1-S4",
+        "episode": "S1",
         "season": [
             {
                 "name_season": {
                     "title_season":"Season 1",
-                    "season_path": ""
-                }
-            },
-            {
-                "name_season": {
-                    "title_season":"Season 2",
-                    "season_path": ""
-                }
-            },
-            {
-                "name_season": {
-                    "title_season":"Season 3",
-                    "season_path": ""       
-                }
-            },
-            {
-                "name_season": {
-                    "title_season":"Season 4",
                     "season_path": ""
                 }
             }
