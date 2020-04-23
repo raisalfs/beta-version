@@ -1,0 +1,62 @@
+[
+  {
+    "path": "Path",
+    "name": "Name",
+    "description": "description",
+    "Rating": 8.5,
+    "categorie": "categorie",
+    "stream": "link_url",
+    "cover": "cover",
+    "cover_bg": "cover_bg",
+    "actors": "actors",
+    "actors_full": "actors_full",
+    "quality_movie": "HD",
+    "release": "2017",
+    "duration": "181min",
+    "episode": "season",
+    "season":{
+      "name_season":[
+        {
+          "title_season":"Season 1",
+          "path_season":""
+        },
+        {
+          "title_season":"Season 2",
+          "path_season":""
+        },
+        {
+          "title_season":"Season 3",
+          "path_season":""
+        },
+        {
+          "title_season":"Season 4",
+          "path_season":""
+        },
+        {
+          "title_season":"Season 5",
+          "path_season":""
+        },
+        {
+          "title_season":"Season 6",
+          "path_season":""
+        },
+        {
+          "title_season":"Season 7",
+          "path_season":""
+        },
+        {
+          "title_season":"Season 8",
+          "path_season":""
+        },
+        {
+          "title_season":"Season 9",
+          "path_season":""
+        },
+        {
+          "title_season":"Season 10",
+          "path_season":""
+        }
+      ]
+    }
+  }
+]
