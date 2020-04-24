@@ -244,5 +244,169 @@
         }
       ]
     }
+  },
+  {
+    "path": "TheWayBack",
+    "name": "The Way Back",
+    "description": "Jack Cunningham was an HS basketball phenom who walked away from the game, forfeiting his future. Years later, when he reluctantly accepts a coaching job at his alma mater, he may get one last shot at redemption.",
+    "Rating": 6.8,
+    "categorie": "Drama, Sport",
+    "stream": "url_stream",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/The_Way_Back_poster.jpeg/220px-The_Way_Back_poster.jpeg",
+    "cover_bg": "https://images1.houstonpress.com/imager/u/745x420/11453630/hou_art_20200306_thewayback_header.jpg",
+    "quality_movie": "HD",
+    "release": "2020",
+    "duration": "104min",
+    "actors": {
+      "list_actors": [
+        {
+          "name_actor": "Ben Affleck",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BMTI4MzIxMTk0Nl5BMl5BanBnXkFtZTcwOTU5NjA0Mg@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Al Madrigal",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BMjllOTk2ZDMtMWQ1Zi00YjM3LWFiOWQtNjk1ZmYwYmU2YzZhXkEyXkFqcGdeQXVyODkxODYyMzI@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Janina Gavankar",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BN2Q0NzhjZDktNTg5Yi00YTIwLWJhN2UtZDg3ZDk0NDQ4ZjcyXkEyXkFqcGdeQXVyMDUxNjM5Mw@@._V1_UY44_CR1,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Michaela Watkins",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BMzQ1NDc0MjM0NV5BMl5BanBnXkFtZTcwMzcwNTk5Mg@@._V1_UY44_CR11,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Brandon Wilson",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BNDExNGQ4N2ItNjMyOS00MWExLWFkYzItYjc4MmNlN2ZjNGU4XkEyXkFqcGdeQXVyNTAxNDg3MDM@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Will Ropp",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BNDQ0Y2RiZTQtZWVhZi00OTA5LWE0MTktYmIxNzNiZmNhYTJkXkEyXkFqcGdeQXVyNDM2ODgwMjQ@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "path": "TheCalloftheWild",
+    "name": "The Call of the Wild",
+    "description": "A sled dog struggles for survival in the wilds of the Yukon.",
+    "Rating": 6.8,
+    "categorie": "Adventure, Drama, Family ",
+    "stream": "url_stream",
+    "cover": "https://1.bp.blogspot.com/-Wpq5p0ChZ4w/XlK-j_DFKsI/AAAAAAAAbqc/GogvaNbkXAYP-hGvBLZi1D3L6dJ3bIrgACLcBGAsYHQ/s1600/call_of_the_wild_ver2_xlg.jpg",
+    "cover_bg": "https://cdn.idntimes.com/content-images/community/2020/02/zzyuyn4dvnjxedyhjys0lujcpyt-46039b4f61ae31bb0c489f0ec5b7cb49_600x400.jpg",
+    "quality_movie": "HD",
+    "release": "2020",
+    "duration": "100min",
+    "actors": {
+      "list_actors": [
+        {
+          "name_actor": "Harrison Ford",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BMTY4Mjg0NjIxOV5BMl5BanBnXkFtZTcwMTM2NTI3MQ@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Omar Sy",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BMjI2MjE3MDQ3NV5BMl5BanBnXkFtZTcwOTY0NzU0Nw@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Cara Gee",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BMDU4MjM2MjQtNGFkNC00NGE3LTg4NWQtMDcyYzAxNjYwNDJiXkEyXkFqcGdeQXVyNjE4NjI4NDY@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Dan Stevens",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BMTY0NTY5OTI2MF5BMl5BanBnXkFtZTgwNDkzMzIxMzE@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Bradley Whitford",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BMjQwMzg3ODUxNF5BMl5BanBnXkFtZTgwMzc5MDcxNDM@._V1_UY44_CR1,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Jean Louisa Kelly",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BYjA2NTIxODEtZDBjYy00OWY3LTg0MzgtOWI5Yzc3MDkwOWRiXkEyXkFqcGdeQXVyMjQ5MjIzNTk@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "path": "Emma",
+    "name": "Emma.",
+    "description": "In 1800s England, a well meaning but selfish young woman meddles in the love lives of her friends.",
+    "Rating": 6.8,
+    "categorie": "Comedy, Drama ",
+    "stream": "url_stream",
+    "cover": "https://m.media-amazon.com/images/M/MV5BOGRiODEzM2QtOTUyYi00MWRlLTg4MzMtZGI0YmUzNWUyMjQ0XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "cover_bg": "https://s26162.pcdn.co/wp-content/uploads/2020/02/emma2.jpg",
+    "quality_movie": "HD",
+    "release": "2020",
+    "duration": "124min",
+    "actors": {
+      "list_actors": [
+        {
+          "name_actor": "Anya Taylor-Joy",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BYWUxMzhlM2QtNDM5MS00OThlLTlhZDEtMDhlNTliZDIzZGQ1XkEyXkFqcGdeQXVyNzcyNzc0NzE@._V1_UY44_CR1,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Angus Imrie",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BODI4NzIzNjItOTNmMy00ODIxLWE4YTgtNmI5YjY5NmI1ZDRlXkEyXkFqcGdeQXVyMzA0NzAwNw@@._V1_UY44_CR0,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Letty Thomas",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BOGExNDQ5MjAtNzlkNy00NWExLTlkMzgtOGNhNGExZDA0NmMzXkEyXkFqcGdeQXVyMTA4MjYxNDI0._V1_UY44_CR1,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Gemma Whelan",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BMjI2ODY3MTMwMF5BMl5BanBnXkFtZTcwOTM4MzEzOQ@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Bill Nighy",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BMjI0NzYwMDAxM15BMl5BanBnXkFtZTgwMzg2ODg2MjE@._V1_UY44_CR1,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Edward Davis",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BNmEwMGQyNTYtYjUyOC00ZmYzLWJlM2UtMGZjNTZjZmE5NjNhXkEyXkFqcGdeQXVyMjExMTUwNTg@._V1_UY44_CR1,0,32,44_AL_.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "path": "BadBoysforLife",
+    "name": "Bad Boys for Life",
+    "description": "Miami detectives Mike Lowrey and Marcus Burnett must face off against a mother-and-son pair of drug lords who wreak vengeful havoc on their city.",
+    "Rating": 6.8,
+    "categorie": "Action, Comedy, Crime ",
+    "stream": "url_stream",
+    "cover": "https://image.tmdb.org/t/p/w500/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+    "cover_bg": "https://s1.dmcdn.net/v/RvjcM1U8l018dv3hJ/x1080",
+    "quality_movie": "HD",
+    "release": "2020",
+    "duration": "124min",
+    "actors": {
+      "list_actors": [
+        {
+          "name_actor": "Will Smith",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Martin Lawrence",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BMTQ4NzIzMDAxMF5BMl5BanBnXkFtZTcwMDIyMTI2MQ@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Vanessa Hudgens",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BMjA2NzA2NTMxNV5BMl5BanBnXkFtZTYwMjA1ODEy._V1_UY44_CR13,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Alexander Ludwig",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BOWJkNTYzMjQtNjAwOC00MDM4LTgzM2EtMzc3ZWQ1NTczMzQxXkEyXkFqcGdeQXVyMTQyOTM4MzU@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Charles Melton",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BNGQ3N2U0MjUtODIwYi00ZWZjLWJjMjEtMTdmNzQ2MzZkMGJmXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UY44_CR3,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Paola Nuñez",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BYzcyZjlhYzctYzNhNS00NDdiLTg2MDctNmMxNTNkMzQ0OTg1XkEyXkFqcGdeQXVyMjIyODU3MDk@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        }
+      ]
+    }
   }
 ]
