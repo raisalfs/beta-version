@@ -3,425 +3,425 @@
     "title_home": "Recently Added",
     "list_home": [
       {
-        "path": "LaskarPelangi",
-        "name": "Laskar Pelangi",
-        "description": "In the 1970s, a group of 10 students struggles with poverty and develop hopes for the future in Gantong Village on the farming and tin mining island of Belitung off the east coast of Sumatra.",
-        "Rating": 7.8,
-        "categorie": "Adventure, Drama",
-        "stream": "url_stream",
-        "cover": "https://upload.wikimedia.org/wikipedia/id/1/17/Laskar_Pelangi_film.jpg",
-        "cover_bg": "https://assets-a2.kompasiana.com/items/album/2016/04/05/laskar-pelangi-titled-by-arthur-on-ikarisa-570376a70d97730a060b0ecc.jpg?t=o&v=760",
-        "quality_movie": "HD",
-        "release": 2008,
-        "country": "Indonesia",
-        "duration": "124min",
-        "actors": {
-          "list_actors": [
-            {
-              "name_actor": "Cut Mini Theo",
-              "image_actor": "https://m.media-amazon.com/images/M/MV5BZWMzYzAwMWQtNjI3Yy00YzZjLTg5M2UtNzdmMmUyZGEyM2JjXkEyXkFqcGdeQXVyNTEzNDY5MjM@._V1_UY44_CR17,0,32,44_AL_.jpg"
-            },
-            {
-              "name_actor": "Ikranagara",
-              "image_actor": "https://galisinema.files.wordpress.com/2013/06/ikranagara.jpg"
-            },
-            {
-              "name_actor": "Tora Sudiro",
-              "image_actor": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1539949010/z6nnq08kakascs3mgmcs.jpg"
-            },
-            {
-              "name_actor": "Slamet Rahardjo",
-              "image_actor": "https://upload.wikimedia.org/wikipedia/id/b/b7/Slamet_Rahardjo%2C_2016.jpg"
-            },
-            {
-              "name_actor": "Mathias Muchus",
-              "image_actor": "https://1.bp.blogspot.com/-xMnDgWfnAJo/V7gVLliMusI/AAAAAAAAA9Q/3cVDb2SAFX4Wz7FnqbCSC8Zpbc0MGnjXACLcB/s1600/Profil%2BBiodata%2BLengkap%2BMathias%2BMuchus%2BBeserta%2BAgamanya.jpg"
-            },
-            {
-              "name_actor": "Rieke Dyah Pitaloka",
-              "image_actor": "https://cdn0-production-images-kly.akamaized.net/YHDnVkdn3Rrygz1Stw9MqVcgGRA=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1387261/original/059428400_1477565485-Rieke_Diah_Pitaloka.jpg"
-            }
-          ]
+    "path": "LaskarPelangi",
+    "name": "Laskar Pelangi",
+    "description": "In the 1970s, a group of 10 students struggles with poverty and develop hopes for the future in Gantong Village on the farming and tin mining island of Belitung off the east coast of Sumatra.",
+    "Rating": 7.8,
+    "categorie": "Adventure, Drama",
+    "stream": "url_stream",
+    "cover": "https://upload.wikimedia.org/wikipedia/id/1/17/Laskar_Pelangi_film.jpg",
+    "cover_bg": "https://assets-a2.kompasiana.com/items/album/2016/04/05/laskar-pelangi-titled-by-arthur-on-ikarisa-570376a70d97730a060b0ecc.jpg?t=o&v=760",
+    "quality_movie": "HD",
+    "release": "2008",
+    "country":"Indonesia",
+    "duration": "124min",
+    "actors": {
+      "list_actors": [
+        {
+          "name_actor": "Cut Mini Theo",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BZWMzYzAwMWQtNjI3Yy00YzZjLTg5M2UtNzdmMmUyZGEyM2JjXkEyXkFqcGdeQXVyNTEzNDY5MjM@._V1_UY44_CR17,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Ikranagara",
+          "image_actor": "https://galisinema.files.wordpress.com/2013/06/ikranagara.jpg"
+        },
+        {
+          "name_actor": "Tora Sudiro",
+          "image_actor": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1539949010/z6nnq08kakascs3mgmcs.jpg"
+        },
+        {
+          "name_actor": "Slamet Rahardjo",
+          "image_actor": "https://upload.wikimedia.org/wikipedia/id/b/b7/Slamet_Rahardjo%2C_2016.jpg"
+        },
+        {
+          "name_actor": "Mathias Muchus",
+          "image_actor": "https://1.bp.blogspot.com/-xMnDgWfnAJo/V7gVLliMusI/AAAAAAAAA9Q/3cVDb2SAFX4Wz7FnqbCSC8Zpbc0MGnjXACLcB/s1600/Profil%2BBiodata%2BLengkap%2BMathias%2BMuchus%2BBeserta%2BAgamanya.jpg"
+        },
+        {
+          "name_actor": "Rieke Dyah Pitaloka",
+          "image_actor": "https://cdn0-production-images-kly.akamaized.net/YHDnVkdn3Rrygz1Stw9MqVcgGRA=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1387261/original/059428400_1477565485-Rieke_Diah_Pitaloka.jpg"
         }
-      },
-      {
-        "path": "Habibie&Ainun",
-        "name": "Habibie & Ainun",
-        "description": "This movie is based on the memoir written by the 3rd President of Indonesia and one of the world-famous engineer, B.J. Habibie about his wife, Hasri Ainun Habibie.",
-        "Rating": 7.6,
-        "categorie": "Biography, Drama, Romance",
-        "stream": "url_stream",
-        "cover": "https://cdn0-production-images-kly.akamaized.net/5xwtf0TfGw8ittH947N_VbMmfRY=/0x0:405x540/640x853/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2984776/original/008944300_1575347256-Habibie_Ainun_3.jpg",
-        "cover_bg": "https://img.inews.id/media/822/files/inews_new/2019/09/27/ainun.jpg",
-        "quality_movie": "HD",
-        "release": 2012,
-        "country": "Indonesia",
-        "duration": "120min",
-        "actors": {
-          "list_actors": [
-            {
-              "name_actor": "Reza Rahadian",
-              "image_actor": "https://m.ayobandung.com/images-bandung/post/articles/2019/06/12/54880/reza-rahadian.jpg"
-            },
-            {
-              "name_actor": "Bunga Citra Lestari",
-              "image_actor": "https://cdn0-production-images-kly.akamaized.net/8Bc52mq2z_HHqxpKC1Mdq_HcbOo=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2792065/original/092299200_1556593665-bunga_citra_lestari-20190429-014-bayu.jpg"
-            },
-            {
-              "name_actor": "Tio Pakusadewo",
-              "image_actor": "https://m.media-amazon.com/images/M/MV5BMTAxOTExNzk4ODheQTJeQWpwZ15BbWU4MDYyNDA2NDEx._V1_UY44_CR17,0,32,44_AL_.jpg"
-            },
-            {
-              "name_actor": "Ratna Riantiarno",
-              "image_actor": "https://cdn-asset.jawapos.com/wp-content/uploads/2019/01/ratna-riantiarno-perempuan-tangguh-di-balik-bertahannya-teater-koma_m_206343-640x421.jpeg"
-            },
-            {
-              "name_actor": "Mike Lucock",
-              "image_actor": "https://cdn0-production-images-kly.akamaized.net/hxfzt41-ZZJRgyyuAm-nLfiNVwU=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/890146/original/036142300_1433139894-mike02.jpg"
-            },
-            {
-              "name_actor": "Vitta Mariana Barrazza",
-              "image_actor": "https://cdns.klimg.com/kapanlagi.com/g/f/o/foto_ingat_vitta_mariana_kini_makin_cantik_dan_sensual/p/vitta_maria-20170211-008-rita.jpg"
-            }
-          ]
+      ]
+    }
+  },
+  {
+    "path": "Habibie&Ainun",
+    "name": "Habibie & Ainun",
+    "description": "This movie is based on the memoir written by the 3rd President of Indonesia and one of the world-famous engineer, B.J. Habibie about his wife, Hasri Ainun Habibie.",
+    "Rating": 7.6,
+    "categorie": "Biography, Drama, Romance",
+    "stream": "url_stream",
+    "cover": "https://cdn0-production-images-kly.akamaized.net/5xwtf0TfGw8ittH947N_VbMmfRY=/0x0:405x540/640x853/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2984776/original/008944300_1575347256-Habibie_Ainun_3.jpg",
+    "cover_bg": "https://img.inews.id/media/822/files/inews_new/2019/09/27/ainun.jpg",
+    "quality_movie": "HD",
+    "release": "2012",
+    "country":"Indonesia",
+    "duration": "120min",
+    "actors": {
+      "list_actors": [
+        {
+          "name_actor": "Reza Rahadian",
+          "image_actor": "https://m.ayobandung.com/images-bandung/post/articles/2019/06/12/54880/reza-rahadian.jpg"
+        },
+        {
+          "name_actor": "Bunga Citra Lestari",
+          "image_actor": "https://cdn0-production-images-kly.akamaized.net/8Bc52mq2z_HHqxpKC1Mdq_HcbOo=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2792065/original/092299200_1556593665-bunga_citra_lestari-20190429-014-bayu.jpg"
+        },
+        {
+          "name_actor": "Tio Pakusadewo",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BMTAxOTExNzk4ODheQTJeQWpwZ15BbWU4MDYyNDA2NDEx._V1_UY44_CR17,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Ratna Riantiarno",
+          "image_actor": "https://cdn-asset.jawapos.com/wp-content/uploads/2019/01/ratna-riantiarno-perempuan-tangguh-di-balik-bertahannya-teater-koma_m_206343-640x421.jpeg"
+        },
+        {
+          "name_actor": "Mike Lucock",
+          "image_actor": "https://cdn0-production-images-kly.akamaized.net/hxfzt41-ZZJRgyyuAm-nLfiNVwU=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/890146/original/036142300_1433139894-mike02.jpg"
+        },
+        {
+          "name_actor": "Vitta Mariana Barrazza",
+          "image_actor": "https://cdns.klimg.com/kapanlagi.com/g/f/o/foto_ingat_vitta_mariana_kini_makin_cantik_dan_sensual/p/vitta_maria-20170211-008-rita.jpg"
         }
-      },
-      {
-        "path": "AdaApadenganCinta?2",
-        "name": "Ada Apa dengan Cinta? 2 ",
-        "description": "14 years after their budding romance in high school, Rangga and Cinta reunite in Yogyakarta to have their closure after Rangga had left Cinta with no explanation years prior.",
-        "Rating": 7.4,
-        "categorie": "Drama, Romance",
-        "stream": "url_stream",
-        "cover": "https://upload.wikimedia.org/wikipedia/id/6/60/Ada_Apa_Denga_Cinta_2.jpg",
-        "cover_bg": "https://cdn0-production-images-kly.akamaized.net/6wU95UTfdFlJutu-fc19y2bmBQg=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1142802/original/028829200_1455540727-20160215--Pemain-AADC-Jakarta-Immanuel-Antonius.jpg",
-        "quality_movie": "HD",
-        "release": 2016,
-        "country": "Indonesia",
-        "duration": "123min",
-        "actors": {
-          "list_actors": [
-            {
-              "name_actor": "Nicholas Saputra",
-              "image_actor": "https://m.media-amazon.com/images/M/MV5BMjA2NTkxNTY1Ml5BMl5BanBnXkFtZTcwOTI1MDE3Nw@@._V1_UX32_CR0,0,32,44_AL_.jpg"
-            },
-            {
-              "name_actor": "Dian Sastrowardoyo",
-              "image_actor": "https://img.okezone.com/content/2019/11/20/481/2132428/anak-sulungnya-autisme-dian-sastro-jangan-malu-apalagi-disesali-UzA3GWeMva.jpg"
-            },
-            {
-              "name_actor": "Titi Kamal",
-              "image_actor": "https://cdn0-production-images-kly.akamaized.net/apM2Z3Af_b9mvUBneqNJMU_Aw3M=/1x193:1080x801/640x360/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2403389/original/074204000_1541670250-TitiKamal.jpg"
-            },
-            {
-              "name_actor": "Adinia Wirasti",
-              "image_actor": "https://m.media-amazon.com/images/M/MV5BOWU5YmZjY2QtZWNkNi00NDRhLWIxN2MtMDc2MGFhOGQxODY3XkEyXkFqcGdeQXVyOTU2NjQ0ODg@._V1_UX32_CR0,0,32,44_AL_.jpg"
-            },
-            {
-              "name_actor": "Sissy Priscillia",
-              "image_actor": "https://www.wowkeren.com/display/images/photo/2018/06/05/00211463.jpg"
-            },
-            {
-              "name_actor": "Dennis Adhiswara",
-              "image_actor": "https://disk.mediaindonesia.com/thumbs/600x400/news/2019/09/c60b9de7013a3afee540cdfa9da508c7.jpg"
-            }
-          ]
+      ]
+    }
+  },
+  {
+    "path": "AdaApadenganCinta?2",
+    "name": "Ada Apa dengan Cinta? 2 ",
+    "description": "14 years after their budding romance in high school, Rangga and Cinta reunite in Yogyakarta to have their closure after Rangga had left Cinta with no explanation years prior.",
+    "Rating": 7.4,
+    "categorie": "Drama, Romance",
+    "stream": "url_stream",
+    "cover": "https://upload.wikimedia.org/wikipedia/id/6/60/Ada_Apa_Denga_Cinta_2.jpg",
+    "cover_bg": "https://cdn0-production-images-kly.akamaized.net/6wU95UTfdFlJutu-fc19y2bmBQg=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1142802/original/028829200_1455540727-20160215--Pemain-AADC-Jakarta-Immanuel-Antonius.jpg",
+    "quality_movie": "HD",
+    "release": "2016",
+    "country":"Indonesia",
+    "duration": "123min",
+    "actors": {
+      "list_actors": [
+        {
+          "name_actor": "Nicholas Saputra",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BMjA2NTkxNTY1Ml5BMl5BanBnXkFtZTcwOTI1MDE3Nw@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Dian Sastrowardoyo",
+          "image_actor": "https://img.okezone.com/content/2019/11/20/481/2132428/anak-sulungnya-autisme-dian-sastro-jangan-malu-apalagi-disesali-UzA3GWeMva.jpg"
+        },
+        {
+          "name_actor": "Titi Kamal",
+          "image_actor": "https://cdn0-production-images-kly.akamaized.net/apM2Z3Af_b9mvUBneqNJMU_Aw3M=/1x193:1080x801/640x360/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2403389/original/074204000_1541670250-TitiKamal.jpg"
+        },
+        {
+          "name_actor": "Adinia Wirasti",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BOWU5YmZjY2QtZWNkNi00NDRhLWIxN2MtMDc2MGFhOGQxODY3XkEyXkFqcGdeQXVyOTU2NjQ0ODg@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Sissy Priscillia",
+          "image_actor": "https://www.wowkeren.com/display/images/photo/2018/06/05/00211463.jpg"
+        },
+        {
+          "name_actor": "Dennis Adhiswara",
+          "image_actor": "https://disk.mediaindonesia.com/thumbs/600x400/news/2019/09/c60b9de7013a3afee540cdfa9da508c7.jpg"
         }
-      },
-      {
-        "path": "AyatAyatCinta",
-        "name": "Ayat-Ayat Cinta",
-        "description": "A man who try to get through a complicated relationship in the Islamic way.",
-        "Rating": 7.1,
-        "categorie": "Drama, Romance",
-        "stream": "url_stream",
-        "cover": "https://bukurepublika.id/wp-content/uploads/2019/02/AAC2_film_dpn-600x911.jpg",
-        "cover_bg": "https://cdn0-production-images-kly.akamaized.net/5V9Ffc8dXyWGfQ7miJNs587LDno=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1777170/original/005920000_1511263066-Ayat-Ayat_Cinta.jpg",
-        "quality_movie": "HD",
-        "release": 2008,
-        "country": "Indonesia",
-        "duration": "130min",
-        "actors": {
-          "list_actors": [
-            {
-              "name_actor": "name_actor",
-              "image_actor": "image_actor"
-            },
-            {
-              "name_actor": "name_actor",
-              "image_actor": "image_actor"
-            },
-            {
-              "name_actor": "name_actor",
-              "image_actor": "image_actor"
-            },
-            {
-              "name_actor": "name_actor",
-              "image_actor": "image_actor"
-            },
-            {
-              "name_actor": "name_actor",
-              "image_actor": "image_actor"
-            },
-            {
-              "name_actor": "name_actor",
-              "image_actor": "image_actor"
-            }
-          ]
+      ]
+    }
+  },
+  {
+    "path": "AyatAyatCinta",
+    "name": "Ayat-Ayat Cinta",
+    "description": "A man who try to get through a complicated relationship in the Islamic way.",
+    "Rating": 7.1,
+    "categorie": "Drama, Romance",
+    "stream": "url_stream",
+    "cover": "https://bukurepublika.id/wp-content/uploads/2019/02/AAC2_film_dpn-600x911.jpg",
+    "cover_bg": "https://cdn0-production-images-kly.akamaized.net/5V9Ffc8dXyWGfQ7miJNs587LDno=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1777170/original/005920000_1511263066-Ayat-Ayat_Cinta.jpg",
+    "quality_movie": "HD",
+    "release": "2008",
+    "country":"Indonesia",
+    "duration": "130min",
+    "actors": {
+      "list_actors": [
+        {
+          "name_actor": "name_actor",
+          "image_actor": "image_actor"
+        },
+        {
+          "name_actor": "name_actor",
+          "image_actor": "image_actor"
+        },
+        {
+          "name_actor": "name_actor",
+          "image_actor": "image_actor"
+        },
+        {
+          "name_actor": "name_actor",
+          "image_actor": "image_actor"
+        },
+        {
+          "name_actor": "name_actor",
+          "image_actor": "image_actor"
+        },
+        {
+          "name_actor": "name_actor",
+          "image_actor": "image_actor"
         }
-      },
-      {
-        "path": "MyStupidBoss",
-        "name": "My Stupid Boss",
-        "description": "Diana (Bunga Citra Lestari) lives in Kuala Lumpur following her husband who works there. Diana then applied to work at a company owned by Bossman. Bossman happened to be her husband's college friend while in America.",
-        "Rating": 7.2,
-        "categorie": "Comedy",
-        "stream": "url_stream",
-        "cover": "https://cdn0-production-images-kly.akamaized.net/0xvhVPBHLER_ZiSb2oudJXsy4V0=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1187936/original/3cd7fd87f3fbbefda585feaebd782ec71-WA0000.jpg",
-        "cover_bg": "https://media.suara.com/pictures/970x544/2018/11/08/28997-salah-satu-adegan-film-my-stupid-boss-2-instagram-my-stupid-boss-2.jpg",
-        "quality_movie": "HD",
-        "release": 2016,
-        "country": "Indonesia",
-        "duration": "108min",
-        "actors": {
-          "list_actors": [
-            {
-              "name_actor": "Bunga Citra Lestari",
-              "image_actor": "https://www.channelnewsasia.com/image/12499114/1x1/600/600/b2655da8de66a812fdffb71d40e7532a/qU/bunga-citra-lestari.jpg"
-            },
-            {
-              "name_actor": "Reza Rahadian",
-              "image_actor": "https://m.ayobandung.com/images-bandung/post/articles/2019/06/12/54880/reza-rahadian.jpg"
-            },
-            {
-              "name_actor": "Alex Abbad",
-              "image_actor": "https://m.media-amazon.com/images/M/MV5BMTQ0NzM1MTI5NF5BMl5BanBnXkFtZTgwMzc2MjYyMTE@._V1_UY44_CR17,0,32,44_AL_.jpg"
-            },
-            {
-              "name_actor": "Bront Palarae",
-              "image_actor": "https://m.media-amazon.com/images/M/MV5BZmEyY2VmYzMtOGVkOC00YmIwLWI1YTctOTc0ODQ1MGE3NzUyXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UX32_CR0,0,32,44_AL_.jpg"
-            },
-            {
-              "name_actor": "Kin Wah Chew",
-              "image_actor": "https://image.tmdb.org/t/p/w500//rpu88gKdRmSgD78KMEbkkLMFOaE.jpg"
-            },
-            {
-              "name_actor": "Atikah Suhaime",
-              "image_actor": "https://image.tmdb.org/t/p/w235_and_h235_face/epeeq9h65eSjkDXK9D7GQm0c7Z.jpg"
-            }
-          ]
+      ]
+    }
+  },
+  {
+    "path": "MyStupidBoss",
+    "name": "My Stupid Boss",
+    "description": "Diana (Bunga Citra Lestari) lives in Kuala Lumpur following her husband who works there. Diana then applied to work at a company owned by Bossman. Bossman happened to be her husband's college friend while in America.",
+    "Rating": 7.2,
+    "categorie": "Comedy",
+    "stream": "url_stream",
+    "cover": "https://cdn0-production-images-kly.akamaized.net/0xvhVPBHLER_ZiSb2oudJXsy4V0=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1187936/original/3cd7fd87f3fbbefda585feaebd782ec71-WA0000.jpg",
+    "cover_bg": "https://media.suara.com/pictures/970x544/2018/11/08/28997-salah-satu-adegan-film-my-stupid-boss-2-instagram-my-stupid-boss-2.jpg",
+    "quality_movie": "HD",
+    "release": "2016",
+    "country":"Indonesia",
+    "duration": "108min",
+    "actors": {
+      "list_actors": [
+        {
+          "name_actor": "Bunga Citra Lestari",
+          "image_actor": "https://www.channelnewsasia.com/image/12499114/1x1/600/600/b2655da8de66a812fdffb71d40e7532a/qU/bunga-citra-lestari.jpg"
+        },
+        {
+          "name_actor": "Reza Rahadian",
+          "image_actor": "https://m.ayobandung.com/images-bandung/post/articles/2019/06/12/54880/reza-rahadian.jpg"
+        },
+        {
+          "name_actor": "Alex Abbad",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BMTQ0NzM1MTI5NF5BMl5BanBnXkFtZTgwMzc2MjYyMTE@._V1_UY44_CR17,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Bront Palarae",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BZmEyY2VmYzMtOGVkOC00YmIwLWI1YTctOTc0ODQ1MGE3NzUyXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Kin Wah Chew",
+          "image_actor": "https://image.tmdb.org/t/p/w500//rpu88gKdRmSgD78KMEbkkLMFOaE.jpg"
+        },
+        {
+          "name_actor": "Atikah Suhaime",
+          "image_actor": "https://image.tmdb.org/t/p/w235_and_h235_face/epeeq9h65eSjkDXK9D7GQm0c7Z.jpg"
         }
-      },
-      {
-        "path": "AdaApadenganCinta?",
-        "name": "Ada Apa dengan Cinta?",
-        "description": "A popular girl has to choose whether she wants to stay as a part of her clique or fall for the brooding literature-loving boy in her school.",
-        "Rating": 7.8,
-        "categorie": "Drama, Romance",
-        "stream": "url_stream",
-        "cover": "https://milesfilms.net/wp-content/uploads/2010/07/aadc.jpg",
-        "cover_bg": "https://i.ytimg.com/vi/3Neyoo-stUE/maxresdefault.jpg",
-        "quality_movie": "HD",
-        "release": 2002,
-        "country": "Indonesia",
-        "duration": "112min",
-        "actors": {
-          "list_actors": [
-            {
-              "name_actor": "Nicholas Saputra",
-              "image_actor": "https://m.media-amazon.com/images/M/MV5BMjA2NTkxNTY1Ml5BMl5BanBnXkFtZTcwOTI1MDE3Nw@@._V1_UX32_CR0,0,32,44_AL_.jpg"
-            },
-            {
-              "name_actor": "Dian Sastrowardoyo",
-              "image_actor": "https://img.okezone.com/content/2019/11/20/481/2132428/anak-sulungnya-autisme-dian-sastro-jangan-malu-apalagi-disesali-UzA3GWeMva.jpg"
-            },
-            {
-              "name_actor": "Titi Kamal",
-              "image_actor": "https://cdn0-production-images-kly.akamaized.net/apM2Z3Af_b9mvUBneqNJMU_Aw3M=/1x193:1080x801/640x360/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2403389/original/074204000_1541670250-TitiKamal.jpg"
-            },
-            {
-              "name_actor": "Adinia Wirasti",
-              "image_actor": "https://m.media-amazon.com/images/M/MV5BOWU5YmZjY2QtZWNkNi00NDRhLWIxN2MtMDc2MGFhOGQxODY3XkEyXkFqcGdeQXVyOTU2NjQ0ODg@._V1_UX32_CR0,0,32,44_AL_.jpg"
-            },
-            {
-              "name_actor": "Sissy Priscillia",
-              "image_actor": "https://www.wowkeren.com/display/images/photo/2018/06/05/00211463.jpg"
-            },
-            {
-              "name_actor": "Ladya Cheryl",
-              "image_actor": "https://media.beritagar.id/2015-08/687f5c82450730ac902cc1ee89abf15e.jpg"
-            }
-          ]
+      ]
+    }
+  },
+  {
+    "path": "AdaApadenganCinta?",
+    "name": "Ada Apa dengan Cinta?",
+    "description": "A popular girl has to choose whether she wants to stay as a part of her clique or fall for the brooding literature-loving boy in her school.",
+    "Rating": 7.8,
+    "categorie": "Drama, Romance",
+    "stream": "url_stream",
+    "cover": "https://milesfilms.net/wp-content/uploads/2010/07/aadc.jpg",
+    "cover_bg": "https://i.ytimg.com/vi/3Neyoo-stUE/maxresdefault.jpg",
+    "quality_movie": "HD",
+    "release": "2002",
+    "country":"Indonesia",
+    "duration": "112min",
+    "actors": {
+      "list_actors": [
+        {
+          "name_actor": "Nicholas Saputra",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BMjA2NTkxNTY1Ml5BMl5BanBnXkFtZTcwOTI1MDE3Nw@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Dian Sastrowardoyo",
+          "image_actor": "https://img.okezone.com/content/2019/11/20/481/2132428/anak-sulungnya-autisme-dian-sastro-jangan-malu-apalagi-disesali-UzA3GWeMva.jpg"
+        },
+        {
+          "name_actor": "Titi Kamal",
+          "image_actor": "https://cdn0-production-images-kly.akamaized.net/apM2Z3Af_b9mvUBneqNJMU_Aw3M=/1x193:1080x801/640x360/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2403389/original/074204000_1541670250-TitiKamal.jpg"
+        },
+        {
+          "name_actor": "Adinia Wirasti",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BOWU5YmZjY2QtZWNkNi00NDRhLWIxN2MtMDc2MGFhOGQxODY3XkEyXkFqcGdeQXVyOTU2NjQ0ODg@._V1_UX32_CR0,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Sissy Priscillia",
+          "image_actor": "https://www.wowkeren.com/display/images/photo/2018/06/05/00211463.jpg"
+        },
+        {
+          "name_actor": "Ladya Cheryl",
+          "image_actor":"https://media.beritagar.id/2015-08/687f5c82450730ac902cc1ee89abf15e.jpg"
         }
-      },
-      {
-        "path": "EiffelIminLove",
-        "name": "Eiffel I'm in Love",
-        "description": "A teenage girl, Tita, who led a perfect life. Her life completely changes when her parents good friend and his son, Adit, came from France to stay with them.",
-        "Rating": 6.1,
-        "categorie": "Drama, Romance",
-        "stream": "url_stream",
-        "cover": "https://m.media-amazon.com/images/M/MV5BZWRmMWZkNDgtOGUxZC00MzgyLWFiNWYtYmE0MWYzYjk4YzJkXkEyXkFqcGdeQXVyNjc2NDg5OTg@._V1_.jpg",
-        "cover_bg": "https://m.media-amazon.com/images/M/MV5BZWRmMWZkNDgtOGUxZC00MzgyLWFiNWYtYmE0MWYzYjk4YzJkXkEyXkFqcGdeQXVyNjc2NDg5OTg@._V1_.jpg",
-        "quality_movie": "HD",
-        "release": 2003,
-        "country": "Indonesia",
-        "duration": "262min",
-        "actors": {
-          "list_actors": [
-            {
-              "name_actor": "Shandy Aulia",
-              "image_actor": "https://m.media-amazon.com/images/M/MV5BMTU0MjkwNTM0M15BMl5BanBnXkFtZTgwNzk3MjM5NDE@._V1_UY44_CR23,0,32,44_AL_.jpg"
-            },
-            {
-              "name_actor": "Samuel Rizal",
-              "image_actor": "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2018/05/07/4091245927.jpg"
-            },
-            {
-              "name_actor": "Vena Annisa",
-              "image_actor": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Venaannisa.jpg"
-            },
-            {
-              "name_actor": "Yogi Finanda",
-              "image_actor": "https://cdns.klimg.com/resized/650x325/p/headline/diam-diam-nikah-yogi-finanda-resmi-lepa-30d33f.jpg"
-            },
-            {
-              "name_actor": "Arifin Hilda",
-              "image_actor": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSM755TPMUZnsqOEaL5GBCWYeF9GIxuV154wI3tmPEb2CJaqA8v&usqp=CAU"
-            },
-            {
-              "name_actor": "Titi Kamal",
-              "image_actor": "https://cdn0-production-images-kly.akamaized.net/apM2Z3Af_b9mvUBneqNJMU_Aw3M=/1x193:1080x801/640x360/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2403389/original/074204000_1541670250-TitiKamal.jpg"
-            }
-          ]
+      ]
+    }
+  },
+  {
+    "path": "EiffelIminLove",
+    "name": "Eiffel I'm in Love",
+    "description": "A teenage girl, Tita, who led a perfect life. Her life completely changes when her parents good friend and his son, Adit, came from France to stay with them.",
+    "Rating": 6.1,
+    "categorie": "Drama, Romance",
+    "stream": "url_stream",
+    "cover": "https://m.media-amazon.com/images/M/MV5BZWRmMWZkNDgtOGUxZC00MzgyLWFiNWYtYmE0MWYzYjk4YzJkXkEyXkFqcGdeQXVyNjc2NDg5OTg@._V1_.jpg",
+    "cover_bg": "https://m.media-amazon.com/images/M/MV5BZWRmMWZkNDgtOGUxZC00MzgyLWFiNWYtYmE0MWYzYjk4YzJkXkEyXkFqcGdeQXVyNjc2NDg5OTg@._V1_.jpg",
+    "quality_movie": "HD",
+    "release": "2003",
+    "country":"Indonesia",
+    "duration": "262min",
+    "actors": {
+      "list_actors": [
+        {
+          "name_actor": "Shandy Aulia",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BMTU0MjkwNTM0M15BMl5BanBnXkFtZTgwNzk3MjM5NDE@._V1_UY44_CR23,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Samuel Rizal",
+          "image_actor": "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2018/05/07/4091245927.jpg"
+        },
+        {
+          "name_actor": "Vena Annisa",
+          "image_actor": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Venaannisa.jpg"
+        },
+        {
+          "name_actor": "Yogi Finanda",
+          "image_actor": "https://cdns.klimg.com/resized/650x325/p/headline/diam-diam-nikah-yogi-finanda-resmi-lepa-30d33f.jpg"
+        },
+        {
+          "name_actor": "Arifin Hilda",
+          "image_actor": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSM755TPMUZnsqOEaL5GBCWYeF9GIxuV154wI3tmPEb2CJaqA8v&usqp=CAU"
+        },
+        {
+          "name_actor": "Titi Kamal",
+          "image_actor": "https://cdn0-production-images-kly.akamaized.net/apM2Z3Af_b9mvUBneqNJMU_Aw3M=/1x193:1080x801/640x360/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2403389/original/074204000_1541670250-TitiKamal.jpg"
         }
-      },
-      {
-        "path": "5cm",
-        "name": "5 cm",
-        "description": "Five best friends try to find out what true friendship is by climbing Mount Semeru, the highest peak in Java.",
-        "Rating": 7.2,
-        "categorie": "Adventure, Drama, Romance",
-        "stream": "url_stream",
-        "cover": "https://gusduristore.com/wp-content/uploads/2016/11/25.-5-cm.jpg",
-        "cover_bg": "https://assets-a1.kompasiana.com/items/album/2018/02/27/3oev2dwc01s1ypnecbppeugjxy8-5a9497975e13736d72115692.jpg",
-        "quality_movie": "HD",
-        "release": 2012,
-        "country": "Indonesia",
-        "duration": "125min",
-        "actors": {
-          "list_actors": [
-            {
-              "name_actor": "Herjunot Ali",
-              "image_actor": "https://m.media-amazon.com/images/M/MV5BMTUyMDAyOTE4M15BMl5BanBnXkFtZTgwNTE3MzY2MzE@._V1_UY44_CR23,0,32,44_AL_.jpg"
-            },
-            {
-              "name_actor": "Fedi Nuril",
-              "image_actor": "https://pbs.twimg.com/profile_images/1181922881103527938/a_V2Uir-_400x400.jpg"
-            },
-            {
-              "name_actor": "Pevita Pearce",
-              "image_actor": "https://asset-a.grid.id/crop/0x153:1080x864/360x240/photo/2019/10/14/1675440564.jpg"
-            },
-            {
-              "name_actor": "Didi Petet",
-              "image_actor": "https://cdn1-production-images-kly.akamaized.net/26lsKYubBWTYLv0Z4MCoYQ84Xuc=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/696813/original/Didi_Petet_udah_edit.jpg"
-            },
-            {
-              "name_actor": "Saykoji",
-              "image_actor": "https://cdn0-production-images-kly.akamaized.net/ice4S0Wl02C92tAq7UuQtNFUtrc=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1855518/original/050953100_1517479923-20180131-MV-Titisan-Setan-FRR13.jpg"
-            },
-            {
-              "name_actor": "Raline Shah",
-              "image_actor": "https://m.media-amazon.com/images/M/MV5BYTI2OGVhMTYtOWExOC00NWFmLTllMjUtMzE4NTEyNTg2ZmY3XkEyXkFqcGdeQXVyMTA0OTk2MDIx._V1_UY44_CR1,0,32,44_AL_.jpg"
-            }
-          ]
+      ]
+    }
+  },
+  {
+    "path": "5cm",
+    "name": "5 cm",
+    "description": "Five best friends try to find out what true friendship is by climbing Mount Semeru, the highest peak in Java.",
+    "Rating": 7.2,
+    "categorie": "Adventure, Drama, Romance",
+    "stream": "url_stream",
+    "cover": "https://gusduristore.com/wp-content/uploads/2016/11/25.-5-cm.jpg",
+    "cover_bg": "https://assets-a1.kompasiana.com/items/album/2018/02/27/3oev2dwc01s1ypnecbppeugjxy8-5a9497975e13736d72115692.jpg",
+    "quality_movie": "HD",
+    "release": "2012",
+    "country":"Indonesia",
+    "duration": "125min",
+    "actors": {
+      "list_actors": [
+        {
+          "name_actor": "Herjunot Ali",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BMTUyMDAyOTE4M15BMl5BanBnXkFtZTgwNTE3MzY2MzE@._V1_UY44_CR23,0,32,44_AL_.jpg"
+        },
+        {
+          "name_actor": "Fedi Nuril",
+          "image_actor": "https://pbs.twimg.com/profile_images/1181922881103527938/a_V2Uir-_400x400.jpg"
+        },
+        {
+          "name_actor": "Pevita Pearce",
+          "image_actor": "https://asset-a.grid.id/crop/0x153:1080x864/360x240/photo/2019/10/14/1675440564.jpg"
+        },
+        {
+          "name_actor": "Didi Petet",
+          "image_actor": "https://cdn1-production-images-kly.akamaized.net/26lsKYubBWTYLv0Z4MCoYQ84Xuc=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/696813/original/Didi_Petet_udah_edit.jpg"
+        },
+        {
+          "name_actor": "Saykoji",
+          "image_actor": "https://cdn0-production-images-kly.akamaized.net/ice4S0Wl02C92tAq7UuQtNFUtrc=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1855518/original/050953100_1517479923-20180131-MV-Titisan-Setan-FRR13.jpg"
+        },
+        {
+          "name_actor": "Raline Shah",
+          "image_actor": "https://m.media-amazon.com/images/M/MV5BYTI2OGVhMTYtOWExOC00NWFmLTllMjUtMzE4NTEyNTg2ZmY3XkEyXkFqcGdeQXVyMTA0OTk2MDIx._V1_UY44_CR1,0,32,44_AL_.jpg"
         }
-      },
-      {
-        "path": "KetikaCintaBertasbih",
-        "name": "Ketika Cinta Bertasbih",
-        "description": "Azzam (Kholidi Asadil Alam), an Indonesian student in Cairo, struggling to live his daily life while studying and working. His life then takes a sharp turn after an encounter with two women that he was interested in.",
-        "Rating": 6,
-        "categorie": "Drama, Romance",
-        "stream": "url_stream",
-        "cover": "cover_portrait",
-        "cover_bg": "cover_landscape",
-        "quality_movie": "HD",
-        "release": 2009,
-        "country": "Indonesia",
-        "duration": "120min",
-        "actors": {
-          "list_actors": [
-            {
-              "name_actor": "Kholidi Asadil Alam",
-              "image_actor": "https://cdns.klimg.com/merdeka.com/i/w/news/2016/08/08/739248/670x335/selamat-istri-cholidi-asadil-alam-lahirkan-anak-perempuan-cantik.jpg"
-            },
-            {
-              "name_actor": "Oki Setiana Dewi",
-              "image_actor": "https://www.pantau.com/uploads/news/image/12794-begini-wajah-oki-setiana-dewi-saat-pertama-kali-berhijab-1024-768.jpg"
-            },
-            {
-              "name_actor": "Alice Norin",
-              "image_actor": "https://cdn1-production-images-kly.akamaized.net/CPFHsLX9EAoiGdAzYg8kWRZ0Rhg=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1035805/original/830ab688f5d9181e2ac42f65cbcab906-029260500_1446024633-_alicenorin.jpg"
-            },
-            {
-              "name_actor": "Andi Arsyil Rahman",
-              "image_actor": "https://cdn2.tstatic.net/makassar/foto/bank/images/andi-arsyil-rahman-1-1452019.jpg"
-            },
-            {
-              "name_actor": "Meyda Sefira",
-              "image_actor": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1546156276/utu4iiip7epjtgoiuyzb.jpg"
-            },
-            {
-              "name_actor": "Deddy Mizwar",
-              "image_actor": "https://assets-a1.kompasiana.com/items/album/2017/12/06/deddy-mizwar-5a27f8825ffe1f5e975a57c2.jpg"
-            }
-          ]
+      ]
+    }
+  },
+  {
+    "path": "KetikaCintaBertasbih",
+    "name": "Ketika Cinta Bertasbih",
+    "description": "Azzam (Kholidi Asadil Alam), an Indonesian student in Cairo, struggling to live his daily life while studying and working. His life then takes a sharp turn after an encounter with two women that he was interested in.",
+    "Rating": 6.0,
+    "categorie": "Drama, Romance",
+    "stream": "url_stream",
+    "cover": "cover_portrait",
+    "cover_bg": "cover_landscape",
+    "quality_movie": "HD",
+    "release": "2009",
+    "country":"Indonesia",
+    "duration": "120min",
+    "actors": {
+      "list_actors": [
+        {
+          "name_actor": "Kholidi Asadil Alam",
+          "image_actor": "https://cdns.klimg.com/merdeka.com/i/w/news/2016/08/08/739248/670x335/selamat-istri-cholidi-asadil-alam-lahirkan-anak-perempuan-cantik.jpg"
+        },
+        {
+          "name_actor": "Oki Setiana Dewi",
+          "image_actor": "https://www.pantau.com/uploads/news/image/12794-begini-wajah-oki-setiana-dewi-saat-pertama-kali-berhijab-1024-768.jpg"
+        },
+        {
+          "name_actor": "Alice Norin",
+          "image_actor": "https://cdn1-production-images-kly.akamaized.net/CPFHsLX9EAoiGdAzYg8kWRZ0Rhg=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1035805/original/830ab688f5d9181e2ac42f65cbcab906-029260500_1446024633-_alicenorin.jpg"
+        },
+        {
+          "name_actor": "Andi Arsyil Rahman",
+          "image_actor": "https://cdn2.tstatic.net/makassar/foto/bank/images/andi-arsyil-rahman-1-1452019.jpg"
+        },
+        {
+          "name_actor": "Meyda Sefira",
+          "image_actor": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1546156276/utu4iiip7epjtgoiuyzb.jpg"
+        },
+        {
+          "name_actor": "Deddy Mizwar",
+          "image_actor": "https://assets-a1.kompasiana.com/items/album/2017/12/06/deddy-mizwar-5a27f8825ffe1f5e975a57c2.jpg"
         }
-      },
-      {
-        "path": "SangPemimpi",
-        "name": "Sang Pemimpi",
-        "description": "This movie is an adaptation from a popular novel by the same title, and sequel to Laskar Pelangi. It portrays two village boys with a dream of traveling to Paris, to study at Sorbonne University.",
-        "Rating": 6.8,
-        "categorie": "Adventure, Drama",
-        "stream": "url_stream",
-        "cover": "https://upload.wikimedia.org/wikipedia/id/e/e1/Sang_Pemimpi_film.jpg",
-        "cover_bg": "https://milesfilms.net/wp-content/uploads/2010/08/sang-pemimpi-1.jpg",
-        "quality_movie": "HD",
-        "release": 2009,
-        "country": "Indonesia",
-        "duration": "120min",
-        "actors": {
-          "list_actors": [
-            {
-              "name_actor": "Lukman Sardi",
-              "image_actor": "https://www.suratkabar.id/wp-content/uploads/2017/09/Setelah-Pindah-Agama-Saat-Menikah-Lukman-Sardi-Kini-Berpenampilan-Beda-1280x720.jpg"
-            },
-            {
-              "name_actor": "Vikri Septiawan",
-              "image_actor": "https://1.bp.blogspot.com/-Yj3bZauFrtY/TsOx39jYMxI/AAAAAAAAAj8/Mr3ogAbvlKQ/s1600/7622_103645386312630_100000015073776_102722_1670358_n.jpg"
-            },
-            {
-              "name_actor": "Rendy Ahmad",
-              "image_actor": "https://cdns.klimg.com/kapanlagi.com/p/headline/476x238/0000391341.jpg"
-            },
-            {
-              "name_actor": "Maudy Ayunda",
-              "image_actor": "https://awsimages.detik.net.id/community/media/visual/2019/09/06/959b8ec1-cabf-4415-ab4d-dbb1a8e5912e_43.jpeg?w=700&q=90"
-            },
-            {
-              "name_actor": "Mathias Muchus",
-              "image_actor": "https://1.bp.blogspot.com/-xMnDgWfnAJo/V7gVLliMusI/AAAAAAAAA9Q/3cVDb2SAFX4Wz7FnqbCSC8Zpbc0MGnjXACLcB/s1600/Profil%2BBiodata%2BLengkap%2BMathias%2BMuchus%2BBeserta%2BAgamanya.jpg"
-            },
-            {
-              "name_actor": "Nugie",
-              "image_actor": "https://disk.mediaindonesia.com/thumbs/1800x1200/news/2019/02/d61c621352eebec551fc05aaa051848c.jpg"
-            }
-          ]
+      ]
+    }
+  },
+  {
+    "path": "SangPemimpi",
+    "name": "Sang Pemimpi",
+    "description": "This movie is an adaptation from a popular novel by the same title, and sequel to Laskar Pelangi. It portrays two village boys with a dream of traveling to Paris, to study at Sorbonne University.",
+    "Rating": 6.8,
+    "categorie": "Adventure, Drama",
+    "stream": "url_stream",
+    "cover": "https://upload.wikimedia.org/wikipedia/id/e/e1/Sang_Pemimpi_film.jpg",
+    "cover_bg": "https://milesfilms.net/wp-content/uploads/2010/08/sang-pemimpi-1.jpg",
+    "quality_movie": "HD",
+    "release": "2009",
+    "country":"Indonesia",
+    "duration": "120min",
+    "actors": {
+      "list_actors": [
+        {
+          "name_actor": "Lukman Sardi",
+          "image_actor": "https://www.suratkabar.id/wp-content/uploads/2017/09/Setelah-Pindah-Agama-Saat-Menikah-Lukman-Sardi-Kini-Berpenampilan-Beda-1280x720.jpg"
+        },
+        {
+          "name_actor": "Vikri Septiawan",
+          "image_actor": "https://1.bp.blogspot.com/-Yj3bZauFrtY/TsOx39jYMxI/AAAAAAAAAj8/Mr3ogAbvlKQ/s1600/7622_103645386312630_100000015073776_102722_1670358_n.jpg"
+        },
+        {
+          "name_actor": "Rendy Ahmad",
+          "image_actor": "https://cdns.klimg.com/kapanlagi.com/p/headline/476x238/0000391341.jpg"
+        },
+        {
+          "name_actor": "Maudy Ayunda",
+          "image_actor": "https://awsimages.detik.net.id/community/media/visual/2019/09/06/959b8ec1-cabf-4415-ab4d-dbb1a8e5912e_43.jpeg?w=700&q=90"
+        },
+        {
+          "name_actor": "Mathias Muchus",
+          "image_actor": "https://1.bp.blogspot.com/-xMnDgWfnAJo/V7gVLliMusI/AAAAAAAAA9Q/3cVDb2SAFX4Wz7FnqbCSC8Zpbc0MGnjXACLcB/s1600/Profil%2BBiodata%2BLengkap%2BMathias%2BMuchus%2BBeserta%2BAgamanya.jpg"
+        },
+        {
+          "name_actor": "Nugie",
+          "image_actor": "https://disk.mediaindonesia.com/thumbs/1800x1200/news/2019/02/d61c621352eebec551fc05aaa051848c.jpg"
         }
-      },
+      ]
+    }
+  },
       {
         "path": "Onward",
         "name": "Onward",
@@ -433,6 +433,7 @@
         "cover_bg": "https://techcrunch.com/wp-content/uploads/2020/03/pixar-onward-e1570805324376.png?w=730&crop=1",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA",
         "duration": "102min",
         "actors": {
           "list_actors": [
@@ -466,7 +467,7 @@
       {
         "path": "Bloodshot",
         "name": "Bloodshot",
-        "description": "Ray Garrison, a slain soldier, is re-animated with superpowers.",
+        "description": "Ray Garrison, an elite soldier who was killed in battle, is brought back to life by an advanced technology that gives him the ability of super human strength and fast healing. With his new abilities, he goes after the man who killed his wife, or at least, who he believes killed his wife. He soon comes to learn that not everything he learns can be trusted. The true question is: Can he even trust himself?",
         "Rating": 5.7,
         "categories": "Action, Drama, Sci-Fi",
         "stream": "url_stream",
@@ -474,6 +475,7 @@
         "cover_bg": "https://www.mainmain.id/uploads/post/2020/03/11/bloodshot.jpg",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA,CHINA",
         "duration": "109min",
         "actors": {
           "list_actors": [
@@ -515,6 +517,7 @@
         "cover_bg": "https://www.indiewire.com/wp-content/uploads/2020/03/9089-i-still-believe-lionsgate-5.jpg?w=780",
         "quality_movie": "HD",
         "release": 2020,
+          "country":"USA",
         "duration": "114min",
         "actors": {
           "list_actors": [
@@ -556,6 +559,7 @@
         "cover_bg": "https://www.wwnytv.com/resizer/CL65N76_qYGBQ3lIsdr9AKT3LCA=/1200x600/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/Q55OFIX6IVEXLPYSVTE5YMZZX4.jpg",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"AUSTRALIA, USA",
         "duration": "124min",
         "actors": {
           "list_actors": [
@@ -597,6 +601,7 @@
         "cover_bg": "https://awsimages.detik.net.id/visual/2019/08/13/207dec58-8f42-4718-9e9b-37ac560d6b8b_169.jpeg?w=650",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA",
         "duration": "90min",
         "actors": {
           "list_actors": [
@@ -630,7 +635,7 @@
       {
         "path": "SonictheHedgehog",
         "name": "Sonic the Hedgehog",
-        "description": "After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him.",
+        "description": "Based on the global blockbuster videogame franchise from Sega, SONIC THE HEDGEHOG tells the story of the world's speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend Tom (James Marsden) team up to defend the planet from the evil genius Dr. Robotnik (Jim Carrey) and his plans for world domination. The family-friendly film also stars Tika Sumpter and Ben Schwartz as the voice of Sonic.",
         "Rating": 6.6,
         "categories": " Action, Adventure, Comedy ",
         "stream": "url_stream",
@@ -638,6 +643,7 @@
         "cover_bg": "https://timlo.net/wp-content/uploads/2019/05/sonic_the_hedgehog_movie.jpg",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA, JAPAN, CANADA",
         "duration": "99min",
         "actors": {
           "list_actors": [
@@ -679,6 +685,7 @@
         "cover_bg": "https://images1.houstonpress.com/imager/u/745x420/11453630/hou_art_20200306_thewayback_header.jpg",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA",
         "duration": "104min",
         "actors": {
           "list_actors": [
@@ -720,6 +727,7 @@
         "cover_bg": "https://cdn.idntimes.com/content-images/community/2020/02/zzyuyn4dvnjxedyhjys0lujcpyt-46039b4f61ae31bb0c489f0ec5b7cb49_600x400.jpg",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA, CANADA",
         "duration": "100min",
         "actors": {
           "list_actors": [
@@ -761,6 +769,7 @@
         "cover_bg": "https://s26162.pcdn.co/wp-content/uploads/2020/02/emma2.jpg",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"UK",
         "duration": "124min",
         "actors": {
           "list_actors": [
@@ -802,6 +811,7 @@
         "cover_bg": "https://s1.dmcdn.net/v/RvjcM1U8l018dv3hJ/x1080",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA, MEXICO",
         "duration": "124min",
         "actors": {
           "list_actors": [
@@ -848,6 +858,7 @@
         "cover_bg": "https://techcrunch.com/wp-content/uploads/2020/03/pixar-onward-e1570805324376.png?w=730&crop=1",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA",
         "duration": "102min",
         "actors": {
           "list_actors": [
@@ -881,7 +892,7 @@
       {
         "path": "Bloodshot",
         "name": "Bloodshot",
-        "description": "Ray Garrison, a slain soldier, is re-animated with superpowers.",
+        "description": "Ray Garrison, an elite soldier who was killed in battle, is brought back to life by an advanced technology that gives him the ability of super human strength and fast healing. With his new abilities, he goes after the man who killed his wife, or at least, who he believes killed his wife. He soon comes to learn that not everything he learns can be trusted. The true question is: Can he even trust himself?",
         "Rating": 5.7,
         "categories": "Action, Drama, Sci-Fi",
         "stream": "url_stream",
@@ -889,6 +900,7 @@
         "cover_bg": "https://www.mainmain.id/uploads/post/2020/03/11/bloodshot.jpg",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA,CHINA",
         "duration": "109min",
         "actors": {
           "list_actors": [
@@ -930,6 +942,7 @@
         "cover_bg": "https://www.indiewire.com/wp-content/uploads/2020/03/9089-i-still-believe-lionsgate-5.jpg?w=780",
         "quality_movie": "HD",
         "release": 2020,
+          "country":"USA",
         "duration": "114min",
         "actors": {
           "list_actors": [
@@ -971,6 +984,7 @@
         "cover_bg": "https://www.wwnytv.com/resizer/CL65N76_qYGBQ3lIsdr9AKT3LCA=/1200x600/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/Q55OFIX6IVEXLPYSVTE5YMZZX4.jpg",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"AUSTRALIA, USA",
         "duration": "124min",
         "actors": {
           "list_actors": [
@@ -1012,6 +1026,7 @@
         "cover_bg": "https://awsimages.detik.net.id/visual/2019/08/13/207dec58-8f42-4718-9e9b-37ac560d6b8b_169.jpeg?w=650",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA",
         "duration": "90min",
         "actors": {
           "list_actors": [
@@ -1045,7 +1060,7 @@
       {
         "path": "SonictheHedgehog",
         "name": "Sonic the Hedgehog",
-        "description": "After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him.",
+        "description": "Based on the global blockbuster videogame franchise from Sega, SONIC THE HEDGEHOG tells the story of the world's speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend Tom (James Marsden) team up to defend the planet from the evil genius Dr. Robotnik (Jim Carrey) and his plans for world domination. The family-friendly film also stars Tika Sumpter and Ben Schwartz as the voice of Sonic.",
         "Rating": 6.6,
         "categories": " Action, Adventure, Comedy ",
         "stream": "url_stream",
@@ -1053,6 +1068,7 @@
         "cover_bg": "https://timlo.net/wp-content/uploads/2019/05/sonic_the_hedgehog_movie.jpg",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA, JAPAN, CANADA",
         "duration": "99min",
         "actors": {
           "list_actors": [
@@ -1094,6 +1110,7 @@
         "cover_bg": "https://images1.houstonpress.com/imager/u/745x420/11453630/hou_art_20200306_thewayback_header.jpg",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA",
         "duration": "104min",
         "actors": {
           "list_actors": [
@@ -1135,6 +1152,7 @@
         "cover_bg": "https://cdn.idntimes.com/content-images/community/2020/02/zzyuyn4dvnjxedyhjys0lujcpyt-46039b4f61ae31bb0c489f0ec5b7cb49_600x400.jpg",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA, CANADA",
         "duration": "100min",
         "actors": {
           "list_actors": [
@@ -1176,6 +1194,7 @@
         "cover_bg": "https://s26162.pcdn.co/wp-content/uploads/2020/02/emma2.jpg",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"UK",
         "duration": "124min",
         "actors": {
           "list_actors": [
@@ -1217,6 +1236,7 @@
         "cover_bg": "https://s1.dmcdn.net/v/RvjcM1U8l018dv3hJ/x1080",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA, MEXICO",
         "duration": "124min",
         "actors": {
           "list_actors": [
@@ -1263,6 +1283,7 @@
         "cover_bg": "https://techcrunch.com/wp-content/uploads/2020/03/pixar-onward-e1570805324376.png?w=730&crop=1",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA",
         "duration": "102min",
         "actors": {
           "list_actors": [
@@ -1296,7 +1317,7 @@
       {
         "path": "Bloodshot",
         "name": "Bloodshot",
-        "description": "Ray Garrison, a slain soldier, is re-animated with superpowers.",
+        "description": "Ray Garrison, an elite soldier who was killed in battle, is brought back to life by an advanced technology that gives him the ability of super human strength and fast healing. With his new abilities, he goes after the man who killed his wife, or at least, who he believes killed his wife. He soon comes to learn that not everything he learns can be trusted. The true question is: Can he even trust himself?",
         "Rating": 5.7,
         "categories": "Action, Drama, Sci-Fi",
         "stream": "url_stream",
@@ -1304,6 +1325,7 @@
         "cover_bg": "https://www.mainmain.id/uploads/post/2020/03/11/bloodshot.jpg",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA,CHINA",
         "duration": "109min",
         "actors": {
           "list_actors": [
@@ -1345,6 +1367,7 @@
         "cover_bg": "https://www.indiewire.com/wp-content/uploads/2020/03/9089-i-still-believe-lionsgate-5.jpg?w=780",
         "quality_movie": "HD",
         "release": 2020,
+          "country":"USA",
         "duration": "114min",
         "actors": {
           "list_actors": [
@@ -1386,6 +1409,7 @@
         "cover_bg": "https://www.wwnytv.com/resizer/CL65N76_qYGBQ3lIsdr9AKT3LCA=/1200x600/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/Q55OFIX6IVEXLPYSVTE5YMZZX4.jpg",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"AUSTRALIA, USA",
         "duration": "124min",
         "actors": {
           "list_actors": [
@@ -1427,6 +1451,7 @@
         "cover_bg": "https://awsimages.detik.net.id/visual/2019/08/13/207dec58-8f42-4718-9e9b-37ac560d6b8b_169.jpeg?w=650",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA",
         "duration": "90min",
         "actors": {
           "list_actors": [
@@ -1460,7 +1485,7 @@
       {
         "path": "SonictheHedgehog",
         "name": "Sonic the Hedgehog",
-        "description": "After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him.",
+        "description": "Based on the global blockbuster videogame franchise from Sega, SONIC THE HEDGEHOG tells the story of the world's speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend Tom (James Marsden) team up to defend the planet from the evil genius Dr. Robotnik (Jim Carrey) and his plans for world domination. The family-friendly film also stars Tika Sumpter and Ben Schwartz as the voice of Sonic.",
         "Rating": 6.6,
         "categories": " Action, Adventure, Comedy ",
         "stream": "url_stream",
@@ -1468,6 +1493,7 @@
         "cover_bg": "https://timlo.net/wp-content/uploads/2019/05/sonic_the_hedgehog_movie.jpg",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA, JAPAN, CANADA",
         "duration": "99min",
         "actors": {
           "list_actors": [
@@ -1509,6 +1535,7 @@
         "cover_bg": "https://images1.houstonpress.com/imager/u/745x420/11453630/hou_art_20200306_thewayback_header.jpg",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA",
         "duration": "104min",
         "actors": {
           "list_actors": [
@@ -1550,6 +1577,7 @@
         "cover_bg": "https://cdn.idntimes.com/content-images/community/2020/02/zzyuyn4dvnjxedyhjys0lujcpyt-46039b4f61ae31bb0c489f0ec5b7cb49_600x400.jpg",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA, CANADA",
         "duration": "100min",
         "actors": {
           "list_actors": [
@@ -1591,6 +1619,7 @@
         "cover_bg": "https://s26162.pcdn.co/wp-content/uploads/2020/02/emma2.jpg",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"UK",
         "duration": "124min",
         "actors": {
           "list_actors": [
@@ -1632,6 +1661,7 @@
         "cover_bg": "https://s1.dmcdn.net/v/RvjcM1U8l018dv3hJ/x1080",
         "quality_movie": "HD",
         "release": 2020,
+        "country":"USA, MEXICO",
         "duration": "124min",
         "actors": {
           "list_actors": [
