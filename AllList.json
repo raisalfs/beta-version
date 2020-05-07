@@ -515,6 +515,7 @@
     "quality_movie": "HD",
     "release": 2020,
     "duration": "102min",
+    "jenis": "movies",
     "actors": {
       "list_actors": [
         {
@@ -556,6 +557,7 @@
     "quality_movie": "HD",
     "release": 2020,
     "duration": "109min",
+    "jenis": "movies",
     "actors": {
       "list_actors": [
         {
@@ -597,6 +599,7 @@
     "quality_movie": "HD",
     "release": 2020,
     "duration": "114min",
+    "jenis": "movies",
     "actors": {
       "list_actors": [
         {
@@ -638,6 +641,7 @@
     "quality_movie": "HD",
     "release": 2020,
     "duration": "124min",
+    "jenis": "movies",
     "actors": {
       "list_actors": [
         {
@@ -679,6 +683,7 @@
     "quality_movie": "HD",
     "release": 2020,
     "duration": "90min",
+    "jenis": "movies",
     "actors": {
       "list_actors": [
         {
@@ -720,6 +725,7 @@
     "quality_movie": "HD",
     "release": 2020,
     "duration": "99min",
+    "jenis": "movies",
     "actors": {
       "list_actors": [
         {
@@ -761,6 +767,7 @@
     "quality_movie": "HD",
     "release": 2020,
     "duration": "104min",
+    "jenis": "movies",
     "actors": {
       "list_actors": [
         {
@@ -802,6 +809,7 @@
     "quality_movie": "HD",
     "release": 2020,
     "duration": "100min",
+    "jenis": "movies",
     "actors": {
       "list_actors": [
         {
@@ -843,6 +851,7 @@
     "quality_movie": "HD",
     "release": 2020,
     "duration": "124min",
+    "jenis": "movies",
     "actors": {
       "list_actors": [
         {
@@ -884,6 +893,7 @@
     "quality_movie": "HD",
     "release": 2020,
     "duration": "124min",
+    "jenis": "movies",
     "actors": {
       "list_actors": [
         {
