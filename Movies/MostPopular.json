@@ -9,33 +9,34 @@
     "cover": "https://upload.wikimedia.org/wikipedia/id/0/03/Onward_poster.jpg",
     "cover_bg": "https://techcrunch.com/wp-content/uploads/2020/03/pixar-onward-e1570805324376.png?w=730&crop=1",
     "quality_movie": "HD",
-    "release": "2020",
+    "release": 2020,
+    "jenis": "movies",
     "duration": "102min",
     "actors": {
-      "list_actors":[
+      "list_actors": [
         {
-          "name_actor":"Tom Holland",
-     "image_actor":"https://www.biography.com/.image/t_share/MTQ4MTUwOTQyMDE1OTU2Nzk4/tom-holland-photo-jason-kempin-getty-images-801510482-profile.jpg"
+          "name_actor": "Tom Holland",
+          "image_actor": "https://www.biography.com/.image/t_share/MTQ4MTUwOTQyMDE1OTU2Nzk4/tom-holland-photo-jason-kempin-getty-images-801510482-profile.jpg"
         },
         {
-          "name_actor":"Chris Pratt",
-          "image_actor":"https://www.biography.com/.image/t_share/MTQxMDA4Nzk5MDIzNTA2NjE1/chris--pratt-gettyimages-452625304_1350jpg.jpg"
+          "name_actor": "Chris Pratt",
+          "image_actor": "https://www.biography.com/.image/t_share/MTQxMDA4Nzk5MDIzNTA2NjE1/chris--pratt-gettyimages-452625304_1350jpg.jpg"
         },
         {
-          "name_actor":"Julia Louis-Dreyfus",
-          "image_actor":"https://media.allure.com/photos/5e90b67a0fc6ed000827e3c1/master/w_3200,h_2000,c_limit/Julia-Louis-Dreyfus-lede.jpg"
+          "name_actor": "Julia Louis-Dreyfus",
+          "image_actor": "https://media.allure.com/photos/5e90b67a0fc6ed000827e3c1/master/w_3200,h_2000,c_limit/Julia-Louis-Dreyfus-lede.jpg"
         },
         {
-          "name_actor":"Octavia Spencer",
-          "image_actor":"https://cdn.britannica.com/75/211475-050-6F8F0CEB/Octavia-Spencer-2019.jpg"
+          "name_actor": "Octavia Spencer",
+          "image_actor": "https://cdn.britannica.com/75/211475-050-6F8F0CEB/Octavia-Spencer-2019.jpg"
         },
         {
-          "name_actor":"Mel Rodriguez",
-          "image_actor":"https://pbs.twimg.com/profile_images/1227515852234190849/d2oD5KQp_400x400.jpg"
+          "name_actor": "Mel Rodriguez",
+          "image_actor": "https://pbs.twimg.com/profile_images/1227515852234190849/d2oD5KQp_400x400.jpg"
         },
         {
-          "name_actor":"Kyle Bornheimer",
-          "image_actor":"https://vignette.wikia.nocookie.net/disney/images/9/9a/Kyle_Bornheimer.jpg/revision/latest?cb=20200221194058"
+          "name_actor": "Kyle Bornheimer",
+          "image_actor": "https://vignette.wikia.nocookie.net/disney/images/9/9a/Kyle_Bornheimer.jpg/revision/latest?cb=20200221194058"
         }
       ]
     }
@@ -50,7 +51,8 @@
     "cover": "https://m.media-amazon.com/images/M/MV5BYjA5YjA2YjUtMGRlNi00ZTU4LThhZmMtNDc0OTg4ZWExZjI3XkEyXkFqcGdeQXVyNjUyNjI3NzU@._V1_UY268_CR16,0,182,268_AL_.jpg",
     "cover_bg": "https://www.mainmain.id/uploads/post/2020/03/11/bloodshot.jpg",
     "quality_movie": "HD",
-    "release": "2020",
+    "release": 2020,
+    "jenis": "movies",
     "duration": "109min",
     "actors": {
       "list_actors": [
@@ -91,7 +93,8 @@
     "cover": "https://miro.medium.com/max/600/0*ymdRkKevlyQL7SZ2.jpg",
     "cover_bg": "https://www.indiewire.com/wp-content/uploads/2020/03/9089-i-still-believe-lionsgate-5.jpg?w=780",
     "quality_movie": "HD",
-    "release": "2020",
+    "release": 2020,
+    "jenis": "movies",
     "duration": "114min",
     "actors": {
       "list_actors": [
@@ -132,7 +135,8 @@
     "cover": "https://cdn0-production-images-kly.akamaized.net/UzWgZlbxc5BFcijbTmjnu_a6S9c=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3060616/original/074430400_1582686117-Invisible_Man_7.jpg",
     "cover_bg": "https://www.wwnytv.com/resizer/CL65N76_qYGBQ3lIsdr9AKT3LCA=/1200x600/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/Q55OFIX6IVEXLPYSVTE5YMZZX4.jpg",
     "quality_movie": "HD",
-    "release": "2020",
+    "release": 2020,
+    "jenis": "movies",
     "duration": "124min",
     "actors": {
       "list_actors": [
@@ -173,7 +177,8 @@
     "cover": "https://www.layar.id/wp-content/uploads/2019/08/4-thehunt.jpg",
     "cover_bg": "https://awsimages.detik.net.id/visual/2019/08/13/207dec58-8f42-4718-9e9b-37ac560d6b8b_169.jpeg?w=650",
     "quality_movie": "HD",
-    "release": "2020",
+    "release": 2020,
+    "jenis": "movies",
     "duration": "90min",
     "actors": {
       "list_actors": [
@@ -214,7 +219,8 @@
     "cover": "https://cdn0-production-images-kly.akamaized.net/pTFcdqpvGvEi8T-AwA1h7UmTZbo=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3060718/original/018641700_1582689634-Sonic_6.jpg",
     "cover_bg": "https://timlo.net/wp-content/uploads/2019/05/sonic_the_hedgehog_movie.jpg",
     "quality_movie": "HD",
-    "release": "2020",
+    "release": 2020,
+    "jenis": "movies",
     "duration": "99min",
     "actors": {
       "list_actors": [
@@ -255,7 +261,8 @@
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/The_Way_Back_poster.jpeg/220px-The_Way_Back_poster.jpeg",
     "cover_bg": "https://images1.houstonpress.com/imager/u/745x420/11453630/hou_art_20200306_thewayback_header.jpg",
     "quality_movie": "HD",
-    "release": "2020",
+    "release": 2020,
+    "jenis": "movies",
     "duration": "104min",
     "actors": {
       "list_actors": [
@@ -296,7 +303,8 @@
     "cover": "https://1.bp.blogspot.com/-Wpq5p0ChZ4w/XlK-j_DFKsI/AAAAAAAAbqc/GogvaNbkXAYP-hGvBLZi1D3L6dJ3bIrgACLcBGAsYHQ/s1600/call_of_the_wild_ver2_xlg.jpg",
     "cover_bg": "https://cdn.idntimes.com/content-images/community/2020/02/zzyuyn4dvnjxedyhjys0lujcpyt-46039b4f61ae31bb0c489f0ec5b7cb49_600x400.jpg",
     "quality_movie": "HD",
-    "release": "2020",
+    "release": 2020,
+    "jenis": "movies",
     "duration": "100min",
     "actors": {
       "list_actors": [
@@ -337,7 +345,8 @@
     "cover": "https://m.media-amazon.com/images/M/MV5BOGRiODEzM2QtOTUyYi00MWRlLTg4MzMtZGI0YmUzNWUyMjQ0XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
     "cover_bg": "https://s26162.pcdn.co/wp-content/uploads/2020/02/emma2.jpg",
     "quality_movie": "HD",
-    "release": "2020",
+    "release": 2020,
+    "jenis": "movies",
     "duration": "124min",
     "actors": {
       "list_actors": [
@@ -378,7 +387,8 @@
     "cover": "https://image.tmdb.org/t/p/w500/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
     "cover_bg": "https://s1.dmcdn.net/v/RvjcM1U8l018dv3hJ/x1080",
     "quality_movie": "HD",
-    "release": "2020",
+    "release": 2020,
+    "jenis": "movies",
     "duration": "124min",
     "actors": {
       "list_actors": [
