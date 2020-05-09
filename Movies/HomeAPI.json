@@ -1,5 +1,6 @@
 [
   {
+    "position": 0,
     "title_home": "Recently Added",
     "list_home": [
       {
@@ -845,6 +846,7 @@
     ]
   },
   {
+    "position": 1,
     "title_home": "Most Popular",
     "list_home": [
       {
@@ -1270,6 +1272,7 @@
     ]
   },
   {
+    "position": 2,
     "title_home": "Recommendations",
     "list_home": [
       {
