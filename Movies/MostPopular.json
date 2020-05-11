@@ -10,8 +10,9 @@
     "cover_bg": "https://techcrunch.com/wp-content/uploads/2020/03/pixar-onward-e1570805324376.png?w=730&crop=1",
     "quality_movie": "HD",
     "release": 2020,
-    "jenis": "movies",
     "duration": "102min",
+    "jenis": "movies",
+    "country": "USA",
     "actors": {
       "list_actors": [
         {
@@ -52,8 +53,9 @@
     "cover_bg": "https://www.mainmain.id/uploads/post/2020/03/11/bloodshot.jpg",
     "quality_movie": "HD",
     "release": 2020,
-    "jenis": "movies",
     "duration": "109min",
+    "jenis": "movies",
+    "country": "USA, CHINA",
     "actors": {
       "list_actors": [
         {
@@ -94,8 +96,9 @@
     "cover_bg": "https://www.indiewire.com/wp-content/uploads/2020/03/9089-i-still-believe-lionsgate-5.jpg?w=780",
     "quality_movie": "HD",
     "release": 2020,
-    "jenis": "movies",
     "duration": "114min",
+    "jenis": "movies",
+    "country": "USA",
     "actors": {
       "list_actors": [
         {
@@ -136,8 +139,9 @@
     "cover_bg": "https://www.wwnytv.com/resizer/CL65N76_qYGBQ3lIsdr9AKT3LCA=/1200x600/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/Q55OFIX6IVEXLPYSVTE5YMZZX4.jpg",
     "quality_movie": "HD",
     "release": 2020,
-    "jenis": "movies",
     "duration": "124min",
+    "jenis": "movies",
+    "country": "Australia, USA",
     "actors": {
       "list_actors": [
         {
@@ -174,12 +178,13 @@
     "rating": 6.4,
     "categories": "Action, Horror, Thriller ",
     "stream": "url_stream",
-    "cover": "https://www.layar.id/wp-content/uploads/2019/08/4-thehunt.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/a9/The_Hunt_2020_poster.png",
     "cover_bg": "https://awsimages.detik.net.id/visual/2019/08/13/207dec58-8f42-4718-9e9b-37ac560d6b8b_169.jpeg?w=650",
     "quality_movie": "HD",
     "release": 2020,
-    "jenis": "movies",
     "duration": "90min",
+    "jenis": "movies",
+    "country": "USA",
     "actors": {
       "list_actors": [
         {
@@ -220,8 +225,9 @@
     "cover_bg": "https://timlo.net/wp-content/uploads/2019/05/sonic_the_hedgehog_movie.jpg",
     "quality_movie": "HD",
     "release": 2020,
-    "jenis": "movies",
     "duration": "99min",
+    "jenis": "movies",
+    "country": "USA, Jepang, Canada",
     "actors": {
       "list_actors": [
         {
@@ -258,12 +264,13 @@
     "rating": 6.8,
     "categories": "Drama, Sport",
     "stream": "url_stream",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/The_Way_Back_poster.jpeg/220px-The_Way_Back_poster.jpeg",
+    "cover": "https://mydirtsheet.files.wordpress.com/2020/03/waybackqxvyndg4njy5otq40._v1_sy1000_cr006741000_al_.jpg?w=529&h=785",
     "cover_bg": "https://images1.houstonpress.com/imager/u/745x420/11453630/hou_art_20200306_thewayback_header.jpg",
     "quality_movie": "HD",
     "release": 2020,
-    "jenis": "movies",
     "duration": "104min",
+    "jenis": "movies",
+    "country": "USA",
     "actors": {
       "list_actors": [
         {
@@ -304,8 +311,9 @@
     "cover_bg": "https://cdn.idntimes.com/content-images/community/2020/02/zzyuyn4dvnjxedyhjys0lujcpyt-46039b4f61ae31bb0c489f0ec5b7cb49_600x400.jpg",
     "quality_movie": "HD",
     "release": 2020,
-    "jenis": "movies",
     "duration": "100min",
+    "jenis": "movies",
+    "country": "USA, Canada",
     "actors": {
       "list_actors": [
         {
@@ -346,8 +354,9 @@
     "cover_bg": "https://s26162.pcdn.co/wp-content/uploads/2020/02/emma2.jpg",
     "quality_movie": "HD",
     "release": 2020,
-    "jenis": "movies",
     "duration": "124min",
+    "jenis": "movies",
+    "country": "UK",
     "actors": {
       "list_actors": [
         {
@@ -388,8 +397,9 @@
     "cover_bg": "https://s1.dmcdn.net/v/RvjcM1U8l018dv3hJ/x1080",
     "quality_movie": "HD",
     "release": 2020,
-    "jenis": "movies",
     "duration": "124min",
+    "jenis": "movies",
+    "country": "USA, Mexico",
     "actors": {
       "list_actors": [
         {
