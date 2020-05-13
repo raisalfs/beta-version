@@ -1,6 +1,8 @@
 [
   {
-    "status": "0",
-    "text": "Moenemani Wibu DiRumahAja ＼(^o^)／"
+    "status": "1",
+    "text": "Moenemani Wibu DiRumahAja ＼(^o^)／",
+    "status_btn": "1",
+    "contact":"https://api.whatsapp.com/send?phone=6281375365587"
   }
 ]
