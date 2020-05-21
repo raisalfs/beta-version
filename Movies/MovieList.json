@@ -1,93 +1,10 @@
-
 [
-        {  
-            "path":"OPM_S1",
-            "name": "Avengers: Endgame (2019)",
-            "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies",
-            "Rating": "8.4",
-            "categorie":" Action, Adventure, Drama, Sci-Fi",
-            "stream":"gdriveplayer.me/embed2.php?link=https://drive.google.com/file/d/1Vn2ZywDEIOQiPC9o2kx5SwroASfjgeej/view&subtitle=&poster=&button=no&encrypt=yes ",
-            "cover": "https://images-na.ssl-images-amazon.com/images/I/91e9898R7QL._RI_.jpg",
-            "cover_bg": "https://img.okeinfo.net/content/2019/07/02/206/2073856/4-alasan-kenapa-bonus-adegan-dalam-avengers-endgame-buat-fans-murka-evuk1bkY5b.jpg",
-            "actors": "Robert Downey Jr, Chris Evans, Mark Ruffalo, Scarlett Johansson..",
-            "actors_full":"https://www.imdb.com/title/tt4154796/fullcredits",
-            "quality_movie":"BLU",
-            "release":"tahun_rilis",
-            "season":"if_series",
-            "duration":"181min",
-            "country":"USA",    
-            "episode":"if_series"    
-        },
-        {
-            "path":"OPM_S1",
-            "name": "Shazam! (2019)",
-            "description": "A newly fostered young boy in search of his mother instead finds unexpected super powers and soon gains a powerful enemy.",
-            "Rating": "7.1",
-            "categorie":"Action, Adventure, Comedy, Fantasy",
-            "stream":"https://drive.google.com/file/d/15-ai0XqSXdBFTvJZpDv8x752KAwYHG3Z/preview",
-            "cover": "https://pbs.twimg.com/media/D3L16LjUUAA7Z6p.jpg",
-            "cover_bg": "https://3.bp.blogspot.com/-rP2mgu5ngLo/XMPNA8hPwCI/AAAAAAAAAAM/P3VvCkAdzeI5jDowErrYCsgDWlf1fHduACLcBGAs/s1600/Shazam-Movie-Wraps-Shooting.jpg",
-            "actors": "Zachary Levi, Mark Strong, Asher Angel...",
-            "actors_full":"https://m.imdb.com/title/tt0448115/fullcredits/cast",
-            "quality_movie":"BLU",
-            "release":"tahun_rilis",
-            "season":"if_series",
-            "duration":"132min",
-            "country":"USA | Canada",    
-            "episode":"if_series"
-        },
-        {
-            "path":"OPM_S1",
-            "name": "Spider-Man: Into the Spider-Verse (2018)",
-            "description": "Teen Miles Morales becomes Spider-Man of his reality, crossing his path with five counterparts from other dimensions to stop a threat for all realities.",
-            "Rating": "8.4",
-            "categorie":"Animation, Action, Adventure, Family, Sci-Fi",
-            "stream":"https://gplayer.movon.my.id/video/8ekYPiyAW9fx9h1/",
-            "cover": "https://1.bp.blogspot.com/-BmZJg6XCiDU/XCD4GC_nA4I/AAAAAAAABV8/rt2hA2Kv7Bo9Z9oK1nsEH9Ork7GgTO4WACLcBGAs/s1600/spiderman_into_the_spiderverse_ver3_xlg.jpg",
-            "cover_bg": "https://montasefilm.com/wp-content/uploads/2018/12/spiderverseheader.jpg",
-            "actors": "Shameik Moore, Jake Johnson, Hailee Steinfeld...",
-            "actors_full":"https://www.imdb.com/title/tt4633694/",
-            "quality_movie":"BLU",
-            "release":"tahun_rilis",
-            "season":"if_series",
-            "duration":"143min",
-            "country":"USA",
-            "episode":"if_series"
-        },
-        {
-            "path":"Naruto",
-            "name": "Bumblebee (2018)",
-            "description": "On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small California beach town. On the cusp of turning 18 and trying to find her place in the world, Charlie Watson discovers Bumblebee, battle-scarred and broken.",
-            "Rating": "6.8",
-            "categorie":"Action, Adventure, Sci-Fi",
-            "stream":"",
-            "cover": "https://m.media-amazon.com/images/M/MV5BMjUwNjU5NDMyNF5BMl5BanBnXkFtZTgwNzgxNjM2NzM@._V1_SX300.jpg",
-            "cover_bg": "https://i.ytimg.com/vi/bO6qIGmwLpE/maxresdefault.jpg",
-            "actors": "Hailee Steinfeld, Jorge Lendeborg Jr., John Cena...",
-            "actors_full":"https://www.imdb.com/title/tt4701182/fullcredits",
-            "quality_movie":"BLU",
-            "release":"tahun_rilis",
-            "season":"if_series",
-            "duration":"114min",
-            "country":"USA",    
-            "episode":"if_series"
-        },
-        {
-            "path":"OPM_S1",
-            "name": "Terminator: Dark Fate (2019)",
-            "description": "An augmented human and Sarah Connor must stop an advanced liquid Terminator, from hunting down a young girl, whose fate is critical to the human race.",
-            "Rating": "6.5",
-            "categorie":"Action, Adventure, Sci-Fi",
-            "stream":" ",
-            "cover": "https://i.pinimg.com/736x/03/97/d2/0397d223097361879fec13168c0dde41.jpg",
-            "cover_bg": "https://miro.medium.com/max/4000/1*zV3h1PIwo-s0pVZsjR242g.jpeg",
-            "actors": "Linda Hamilton, Arnold Schwarzenegger...",
-            "actors_full":"https://www.imdb.com/title/tt6450804/",
-            "quality_movie":"BLU",
-            "release":"tahun_rilis",
-            "season":"if_series",
-            "duration":"128min",
-            "country":"USA | Spain | China | Hungary",   
-            "episode":"if_series"
-        }
+  {
+    "path":"Movies/MostPopular.json",
+    "title":"Recently Added"
+  },
+  {
+    "path":"Movies/IndonesianMovies.json",
+    "title":"Indonesian Movies"
+  }
 ]
