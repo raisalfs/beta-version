@@ -10,6 +10,7 @@
     "cover_bg": "https://assets-a2.kompasiana.com/items/album/2016/04/05/laskar-pelangi-titled-by-arthur-on-ikarisa-570376a70d97730a060b0ecc.jpg?t=o&v=760",
     "quality_movie": "HD",
     "release": "2008",
+    "jenis":"movies",
     "country":"Indonesia",
     "duration": "124min",
     "actors": {
@@ -52,6 +53,7 @@
     "cover_bg": "https://img.inews.id/media/822/files/inews_new/2019/09/27/ainun.jpg",
     "quality_movie": "HD",
     "release": "2012",
+    "jenis":"movies",
     "country":"Indonesia",
     "duration": "120min",
     "actors": {
@@ -94,6 +96,7 @@
     "cover_bg": "https://cdn0-production-images-kly.akamaized.net/6wU95UTfdFlJutu-fc19y2bmBQg=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1142802/original/028829200_1455540727-20160215--Pemain-AADC-Jakarta-Immanuel-Antonius.jpg",
     "quality_movie": "HD",
     "release": "2016",
+    "jenis":"movies",
     "country":"Indonesia",
     "duration": "123min",
     "actors": {
@@ -136,6 +139,7 @@
     "cover_bg": "https://cdn0-production-images-kly.akamaized.net/5V9Ffc8dXyWGfQ7miJNs587LDno=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1777170/original/005920000_1511263066-Ayat-Ayat_Cinta.jpg",
     "quality_movie": "HD",
     "release": "2008",
+    "jenis":"movies",
     "country":"Indonesia",
     "duration": "130min",
     "actors": {
@@ -178,6 +182,7 @@
     "cover_bg": "https://media.suara.com/pictures/970x544/2018/11/08/28997-salah-satu-adegan-film-my-stupid-boss-2-instagram-my-stupid-boss-2.jpg",
     "quality_movie": "HD",
     "release": "2016",
+    "jenis":"movies",
     "country":"Indonesia",
     "duration": "108min",
     "actors": {
@@ -220,6 +225,7 @@
     "cover_bg": "https://i.ytimg.com/vi/3Neyoo-stUE/maxresdefault.jpg",
     "quality_movie": "HD",
     "release": "2002",
+    "jenis":"movies",
     "country":"Indonesia",
     "duration": "112min",
     "actors": {
@@ -262,6 +268,7 @@
     "cover_bg": "https://m.media-amazon.com/images/M/MV5BZWRmMWZkNDgtOGUxZC00MzgyLWFiNWYtYmE0MWYzYjk4YzJkXkEyXkFqcGdeQXVyNjc2NDg5OTg@._V1_.jpg",
     "quality_movie": "HD",
     "release": "2003",
+    "jenis":"movies",
     "country":"Indonesia",
     "duration": "262min",
     "actors": {
@@ -304,6 +311,7 @@
     "cover_bg": "https://assets-a1.kompasiana.com/items/album/2018/02/27/3oev2dwc01s1ypnecbppeugjxy8-5a9497975e13736d72115692.jpg",
     "quality_movie": "HD",
     "release": "2012",
+    "jenis":"movies",
     "country":"Indonesia",
     "duration": "125min",
     "actors": {
@@ -346,6 +354,7 @@
     "cover_bg": "https://img.discogs.com/TiLKy_gQxgGBF66SVnvnx1DjAdM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11162810-1511022966-2238.jpeg.jpg",
     "quality_movie": "HD",
     "release": "2009",
+    "jenis":"movies",
     "country":"Indonesia",
     "duration": "120min",
     "actors": {
@@ -388,6 +397,7 @@
     "cover_bg": "https://milesfilms.net/wp-content/uploads/2010/08/sang-pemimpi-1.jpg",
     "quality_movie": "HD",
     "release": "2009",
+    "jenis":"movies",
     "country":"Indonesia",
     "duration": "120min",
     "actors": {
