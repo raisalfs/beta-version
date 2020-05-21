@@ -10,5 +10,8 @@
   {
     "path": "Series/MostPopularAscending",
     "title": "Most Popular Series"
-  }
+  },
+  {
+    "path": "Series/MostWatched",
+    "title": "TV Most Watched"
 ]
