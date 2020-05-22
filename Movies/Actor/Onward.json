@@ -1,0 +1,26 @@
+ [
+  {
+    "name_actor": "Tom Holland",
+    "image_actor": "https://www.biography.com/.image/t_share/MTQ4MTUwOTQyMDE1OTU2Nzk4/tom-holland-photo-jason-kempin-getty-images-801510482-profile.jpg"
+  },
+  {
+    "name_actor": "Chris Pratt",
+    "image_actor": "https://www.biography.com/.image/t_share/MTQxMDA4Nzk5MDIzNTA2NjE1/chris--pratt-gettyimages-452625304_1350jpg.jpg"
+  },
+  {
+    "name_actor": "Julia Louis-Dreyfus",
+    "image_actor": "https://media.allure.com/photos/5e90b67a0fc6ed000827e3c1/master/w_3200,h_2000,c_limit/Julia-Louis-Dreyfus-lede.jpg"
+  },
+  {
+    "name_actor": "Octavia Spencer",
+    "image_actor": "https://cdn.britannica.com/75/211475-050-6F8F0CEB/Octavia-Spencer-2019.jpg"
+  },
+  {
+    "name_actor": "Mel Rodriguez",
+    "image_actor": "https://pbs.twimg.com/profile_images/1227515852234190849/d2oD5KQp_400x400.jpg"
+  },
+  {
+    "name_actor": "Kyle Bornheimer",
+    "image_actor": "https://vignette.wikia.nocookie.net/disney/images/9/9a/Kyle_Bornheimer.jpg/revision/latest?cb=20200221194058"
+  }
+]
