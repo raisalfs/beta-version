@@ -1,0 +1,26 @@
+[
+  {
+    "name_actor": "Vin Diesel",
+    "image_actor": "https://m.media-amazon.com/images/M/MV5BMjExNzA4MDYxN15BMl5BanBnXkFtZTcwOTI1MDAxOQ@@._V1_UY317_CR7,0,214,317_AL_.jpg"
+  },
+  {
+    "name_actor": "Eiza González",
+    "image_actor": "https://m.media-amazon.com/images/M/MV5BYjI0MjU0YjgtNzRkZC00ZGNlLWEyMzMtOGM2MDEzZDFlYmRjXkEyXkFqcGdeQXVyNjA1OTA1Njk@._V1_UY317_CR20,0,214,317_AL_.jpg"
+  },
+  {
+    "name_actor": "Sam Heughan",
+    "image_actor": "https://m.media-amazon.com/images/M/MV5BMTUwNzAyMzA2MF5BMl5BanBnXkFtZTgwNzA0MjQ1ODE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+  },
+  {
+    "name_actor": "Toby Kebbell",
+    "image_actor": "https://m.media-amazon.com/images/M/MV5BM2EyODM5NDctMWU3Zi00NDc2LWFhYzQtNmQ2ZDJiZTczMDgwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY44_CR1,0,32,44_AL_.jpg"
+  },
+  {
+    "name_actor": "Talulah Riley",
+    "image_actor": "https://m.media-amazon.com/images/M/MV5BMjE0MzUwNTUxM15BMl5BanBnXkFtZTcwNzU1OTY5Ng@@._V1_UY44_CR0,0,32,44_AL_.jpg"
+  },
+  {
+    "name_actor": "Lamorne Morris",
+    "image_actor": "https://m.media-amazon.com/images/M/MV5BNmJhMWJkNTgtODIzMC00ZmIzLTliMjUtZGZmMmM1MTU5OTZhXkEyXkFqcGdeQXVyMjY5MDMxMzQ@._V1_UY44_CR6,0,32,44_AL_.jpg"
+  }
+]
