@@ -1,0 +1,26 @@
+[
+  {
+    "name_actor": "Betty Gilpin",
+    "image_actor": "https://m.media-amazon.com/images/M/MV5BMTY3NDY3NjM5OV5BMl5BanBnXkFtZTgwNTQ0NTUzNjM@._V1_UX32_CR0,0,32,44_AL_.jpg"
+  },
+  {
+    "name_actor": "Hilary Swank",
+    "image_actor": "https://m.media-amazon.com/images/M/MV5BNWNjZjc1NTYtZmY2Mi00MjZhLWE4ZjYtYTMyNWFmYjRkZDdmXkEyXkFqcGdeQXVyMTAyNzUwOTA5._V1_UX32_CR0,0,32,44_AL_.jpg"
+  },
+  {
+    "name_actor": "Ike Barinholtz",
+    "image_actor": "https://m.media-amazon.com/images/M/MV5BMjE1NDY0NjMwOV5BMl5BanBnXkFtZTgwMDE4MTYxMDI@._V1_UX32_CR0,0,32,44_AL_.jpg"
+  },
+  {
+    "name_actor": "Wayne Duvall",
+    "image_actor": "https://m.media-amazon.com/images/M/MV5BY2EyMTA4MzUtMTFjMS00OTExLTgxOTYtMmFhNzdhODdhMzk3XkEyXkFqcGdeQXVyODA2NjI4MA@@._V1_UY44_CR5,0,32,44_AL_.jpg"
+  },
+  {
+    "name_actor": "Ethan Suplee",
+    "image_actor": "https://m.media-amazon.com/images/M/MV5BN2JjZmUyZmUtNjQ3MS00NWYwLWE2ZjUtOTM0ODUyZTg3MWUzXkEyXkFqcGdeQXVyMTA3NjAxNDU@._V1_UX32_CR0,0,32,44_AL_.jpg"
+  },
+  {
+    "name_actor": "Emma Roberts",
+    "image_actor": "https://m.media-amazon.com/images/M/MV5BMGU2ODg5YTYtMjY5My00NjE3LTk4NDMtY2FjM2ZmNjk0ZTBhXkEyXkFqcGdeQXVyMTIxMTA0Ng@@._V1_UY44_CR2,0,32,44_AL_.jpg"
+  }
+]
