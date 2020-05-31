@@ -6,5 +6,9 @@
   {
     "path":"Movies/IndonesianMovies.json",
     "title":"Indonesian Movies"
+  },
+  {
+    "path":"Movies/BoxOffice.json",
+    "title":"Box Office"
   }
 ]
