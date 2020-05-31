@@ -1,6 +1,6 @@
 [
   {
-    "path": "LaskarPelangi",
+    "path": "IndonesianMovies",
     "name": "Laskar Pelangi",
     "description": "In the 1970s, a group of 10 students struggles with poverty and develop hopes for the future in Gantong Village on the farming and tin mining island of Belitung off the east coast of Sumatra.",
     "rating": 7.8,
@@ -16,7 +16,7 @@
     "duration": "124min"
   },
   {
-    "path": "Habibie&Ainun",
+    "path": "IndonesianMovies",
     "name": "Habibie & Ainun",
     "description": "This movie is based on the memoir written by the 3rd President of Indonesia and one of the world-famous engineer, B.J. Habibie about his wife, Hasri Ainun Habibie.",
     "rating": 7.6,
@@ -28,11 +28,11 @@
     "release": 2012,
     "jenis": "movies",
     "country": "Indonesia",
-    "actor_path": "Actor/Habibie&Ainun.json",
+    "actor_path": "Actor/Habibie%26Ainun.json",
     "duration": "120min"
   },
   {
-    "path": "AdaApadenganCinta?2",
+    "path": "IndonesianMovies",
     "name": "Ada Apa dengan Cinta? 2 ",
     "description": "14 years after their budding romance in high school, Rangga and Cinta reunite in Yogyakarta to have their closure after Rangga had left Cinta with no explanation years prior.",
     "rating": 7.4,
@@ -44,11 +44,11 @@
     "release": 2016,
     "jenis": "movies",
     "country": "Indonesia",
-    "actor_path": "Actor/Habibie&AdaApadenganCinta2.json",
+    "actor_path": "Actor/AdaApaDenganCinta2.json",
     "duration": "123min"
   },
   {
-    "path": "AyatAyatCinta",
+    "path": "IndonesianMovies",
     "name": "Ayat-Ayat Cinta",
     "description": "A man who try to get through a complicated relationship in the Islamic way.",
     "rating": 7.1,
@@ -64,7 +64,7 @@
     "duration": "130min"
   },
   {
-    "path": "MyStupidBoss",
+    "path": "IndonesianMovies",
     "name": "My Stupid Boss",
     "description": "Diana (Bunga Citra Lestari) lives in Kuala Lumpur following her husband who works there. Diana then applied to work at a company owned by Bossman. Bossman happened to be her husband's college friend while in America.",
     "rating": 7.2,
@@ -80,7 +80,7 @@
     "duration": "108min"
   },
   {
-    "path": "AdaApadenganCinta?",
+    "path": "IndonesianMovies",
     "name": "Ada Apa dengan Cinta?",
     "description": "A popular girl has to choose whether she wants to stay as a part of her clique or fall for the brooding literature-loving boy in her school.",
     "rating": 7.8,
@@ -96,7 +96,7 @@
     "duration": "112min"
   },
   {
-    "path": "EiffelIminLove",
+    "path": "IndonesianMovies",
     "name": "Eiffel I'm in Love",
     "description": "A teenage girl, Tita, who led a perfect life. Her life completely changes when her parents good friend and his son, Adit, came from France to stay with them.",
     "rating": 6.1,
@@ -112,7 +112,7 @@
     "duration": "262min"
   },
   {
-    "path": "5cm",
+    "path": "IndonesianMovies",
     "name": "5 cm",
     "description": "Five best friends try to find out what true friendship is by climbing Mount Semeru, the highest peak in Java.",
     "rating": 7.2,
@@ -128,7 +128,7 @@
     "duration": "125min"
   },
   {
-    "path": "KetikaCintaBertasbih",
+    "path": "IndonesianMovies",
     "name": "Ketika Cinta Bertasbih",
     "description": "Azzam (Kholidi Asadil Alam), an Indonesian student in Cairo, struggling to live his daily life while studying and working. His life then takes a sharp turn after an encounter with two women that he was interested in.",
     "rating": 6,
@@ -144,7 +144,7 @@
     "duration": "120min"
   },
   {
-    "path": "SangPemimpi",
+    "path": "IndonesianMovies",
     "name": "Sang Pemimpi",
     "description": "This movie is an adaptation from a popular novel by the same title, and sequel to Laskar Pelangi. It portrays two village boys with a dream of traveling to Paris, to study at Sorbonne University.",
     "rating": 6.8,
@@ -160,7 +160,7 @@
     "duration": "120min"
   },
   {
-    "path": "Onward",
+    "path": "BoxOffice",
     "name": "Onward",
     "description": "Two elven brothers embark on a quest to bring their father back for one day.",
     "rating": 7.5,
@@ -176,7 +176,7 @@
     "country": "USA"
   },
   {
-    "path": "Bloodshot",
+    "path": "BoxOffice",
     "name": "Bloodshot",
     "description": "Ray Garrison, a slain soldier, is re-animated with superpowers.",
     "rating": 5.7,
@@ -192,7 +192,7 @@
     "country": "USA, CHINA"
   },
   {
-    "path": "IStillBelieve",
+    "path": "BoxOffice",
     "name": "I Still Believe",
     "description": "The true-life story of Christian music star Jeremy Camp and his journey of love and loss that looks to prove there is always hope.",
     "rating": 6.5,
@@ -208,7 +208,7 @@
     "country": "USA"
   },
   {
-    "path": "TheInvisibleMan",
+    "path": "BoxOffice",
     "name": "The Invisible Man",
     "description": "When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
     "rating": 7.2,
@@ -224,7 +224,7 @@
     "country": "Australia, USA"
   },
   {
-    "path": "TheHunt",
+    "path": "BoxOffice",
     "name": "The Hunt",
     "description": "Twelve strangers wake up in a clearing. They don't know where they are, or how they got there. They don't know they've been chosen - for a very specific purpose - The Hunt.",
     "rating": 6.4,
@@ -240,7 +240,7 @@
     "country": "USA"
   },
   {
-    "path": "SonictheHedgehog",
+    "path": "BoxOffice",
     "name": "Sonic the Hedgehog",
     "description": "After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him.",
     "rating": 6.6,
@@ -256,7 +256,7 @@
     "country": "USA, Jepang, Canada"
   },
   {
-    "path": "TheWayBack",
+    "path": "BoxOffice",
     "name": "The Way Back",
     "description": "Jack Cunningham was an HS basketball phenom who walked away from the game, forfeiting his future. Years later, when he reluctantly accepts a coaching job at his alma mater, he may get one last shot at redemption.",
     "rating": 6.8,
@@ -272,7 +272,7 @@
     "country": "USA"
   },
   {
-    "path": "TheCalloftheWild",
+    "path": "BoxOffice",
     "name": "The Call of the Wild",
     "description": "A sled dog struggles for survival in the wilds of the Yukon.",
     "rating": 6.8,
@@ -288,7 +288,7 @@
     "country": "USA, Canada"
   },
   {
-    "path": "Emma",
+    "path": "BoxOffice",
     "name": "Emma.",
     "description": "In 1800s England, a well meaning but selfish young woman meddles in the love lives of her friends.",
     "rating": 6.8,
@@ -304,7 +304,7 @@
     "country": "UK"
   },
   {
-    "path": "BadBoysforLife",
+    "path": "BoxOffice",
     "name": "Bad Boys for Life",
     "description": "Miami detectives Mike Lowrey and Marcus Burnett must face off against a mother-and-son pair of drug lords who wreak vengeful havoc on their city.",
     "rating": 6.8,
