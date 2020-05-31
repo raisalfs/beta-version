@@ -1,11 +1,15 @@
 [
   {
-    "path": "Movies/IndonesianMovies.json",
-    "title": "Indonesian Movies"
-  },
-  {
     "path": "Movies/RecentlyAdded.json",
     "title": "Recently Added"
+  },
+  {
+    "path":"Movies/BoxOffice.json",
+    "title":"Box Office"
+  },
+  {
+    "path": "Movies/IndonesianMovies.json",
+    "title": "Indonesian Movies"
   },
   {
     "path": "Series/MostPopularAscending",
