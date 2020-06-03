@@ -12,6 +12,7 @@
     "release": 2020,
     "duration": "102min",
     "jenis": "movies",
+    "recommendations_list":"BoxOffice",
     "actor_path": "Actor/Onward.json",
     "country": "USA"
   },
@@ -28,6 +29,7 @@
     "release": 2020,
     "duration": "109min",
     "jenis": "movies",
+    "recommendations_list":"BoxOffice",
     "actor_path": "Actor/Bloodshot.json",
     "country": "USA, CHINA"
   },
@@ -44,6 +46,7 @@
     "release": 2020,
     "duration": "114min",
     "jenis": "movies",
+    "recommendations_list":"BoxOffice",
     "actor_path": "Actor/IStillBelieve.json",
     "country": "USA"
   },
@@ -60,6 +63,7 @@
     "release": 2020,
     "duration": "124min",
     "jenis": "movies",
+    "recommendations_list":"BoxOffice",
     "actor_path": "Actor/TheInvisibleMan.json",
     "country": "Australia, USA"
   },
@@ -76,6 +80,7 @@
     "release": 2020,
     "duration": "90min",
     "jenis": "movies",
+    "recommendations_list":"BoxOffice",
     "actor_path": "Actor/TheHunt.json",
     "country": "USA"
   },
@@ -92,6 +97,7 @@
     "release": 2020,
     "duration": "99min",
     "jenis": "movies",
+    "recommendations_list":"BoxOffice",
     "actor_path": "Actor/SonictheHedgehog.json",
     "country": "USA, Jepang, Canada"
   },
@@ -108,6 +114,7 @@
     "release": 2020,
     "duration": "104min",
     "jenis": "movies",
+    "recommendations_list":"BoxOffice",
     "actor_path": "Actor/TheWayBack.json",
     "country": "USA"
   },
@@ -124,6 +131,7 @@
     "release": 2020,
     "duration": "100min",
     "jenis": "movies",
+    "recommendations_list":"BoxOffice",
     "actor_path": "Actor/TheCalloftheWild.json",
     "country": "USA, Canada"
   },
@@ -140,6 +148,7 @@
     "release": 2020,
     "duration": "124min",
     "jenis": "movies",
+    "recommendations_list":"BoxOffice",
     "actor_path": "Actor/Emma.json",
     "country": "UK"
   },
@@ -156,6 +165,7 @@
     "release": 2020,
     "duration": "124min",
     "jenis": "movies",
+    "recommendations_list":"BoxOffice",
     "actor_path": "Actor/BadBoysforLife.json",
     "country": "USA, Mexico"
   }
