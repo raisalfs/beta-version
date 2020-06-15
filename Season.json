@@ -1,0 +1,14 @@
+[
+  {
+    "title_season":"Season 1",
+    "path_season":"Movies/RecentlyAdded"
+  },
+  {
+    "title_season":"Season 2",
+    "path_season":"Movies/BoxOffice"
+  },
+  {
+    "title_season":"Season 3",
+    "path_season":"Movies/IndonesianMovies"
+  }
+]
