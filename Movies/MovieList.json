@@ -1,13 +1,16 @@
 [
   {
+    "type": "movies",
     "path":"Movies/RecentlyAdded.json",
     "title":"Recently Added"
   },
   {
+    "type": "movies",
     "path":"Movies/IndonesianMovies.json",
     "title":"Indonesian Movies"
   },
   {
+    "type": "movies",
     "path":"Movies/BoxOffice.json",
     "title":"Box Office"
   }
