@@ -1,0 +1,18 @@
+[
+  {
+    "path": "Series/MostPopularAscending",
+    "title": "Most Popular TV Series"
+  },
+  {
+    "path": "Series/MostWatched",
+    "title": "TV Most Watched"
+  },
+  {
+    "path":"Series/Anime/Anime-Top-Rated.json",
+    "title":"Anime Top Rated"
+  },
+  {
+    "path":"Series/Anime/AnimeList.json",
+    "title":"Anime List"
+  }
+]
