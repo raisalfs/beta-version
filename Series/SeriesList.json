@@ -1,12 +1,12 @@
 [
   {
     "type": "series",
-    "path": "Series/MostPopularAscending",
+    "path": "Series/MostPopularAscending.json",
     "title": "Most Popular TV Series"
   },
   {
     "type": "series",
-    "path": "Series/MostWatched",
+    "path": "Series/MostWatched.json",
     "title": "TV Most Watched"
   },
   {
