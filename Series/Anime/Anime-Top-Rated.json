@@ -1,7 +1,7 @@
 [
   {
     "id": 27,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Kimi no Nawa",
     "rating": 9.12,
     "quality_movie": "",
@@ -16,7 +16,7 @@
   },
   {
     "id": 2,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "One Piece",
     "rating": 8.7,
     "quality_movie": "",
@@ -31,7 +31,7 @@
   },
   {
     "id": 40,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Tenki no Ko (Weathering with You)",
     "rating": 8.58,
     "quality_movie": "",
@@ -46,7 +46,7 @@
   },
   {
     "id": 28,
-    "path": "Anime-Top-Rated ",
+    "path": "Anime/Anime-Top-Rated ",
     "name": "Diamond no Ace: Act II ",
     "rating": 8.26,
     "quality_movie": "",
@@ -61,7 +61,7 @@
   },
   {
     "id": 26,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Detective Conan",
     "rating": 8.25,
     "quality_movie": "",
@@ -76,7 +76,7 @@
   },
   {
     "id": 30,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Hanamonogatari",
     "rating": 8.03,
     "quality_movie": "",
@@ -91,7 +91,7 @@
   },
   {
     "id": 42,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "5 Centimeters Per Second",
     "rating": 7.87,
     "categories": "Slice of Life, Drama, Romance",
@@ -100,7 +100,7 @@
   },
   {
     "id": 17,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Inuyashiki",
     "rating": 7.81,
     "quality_movie": "",
@@ -115,7 +115,7 @@
   },
   {
     "id": 41,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Hello World",
     "rating": 7.81,
     "quality_movie": "",
@@ -130,7 +130,7 @@
   },
   {
     "id": 19,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Pokemon 2019",
     "rating": 7.72,
     "quality_movie": "",
@@ -145,7 +145,7 @@
   },
   {
     "id": 8,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Ahiru no Sora",
     "rating": 7.64,
     "quality_movie": "",
@@ -160,7 +160,7 @@
   },
   {
     "id": 31,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Toaru Majutsu no Index Movie: Endymion no Kiseki BD",
     "rating": 7.56,
     "quality_movie": "",
@@ -175,7 +175,7 @@
   },
   {
     "id": 24,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)",
     "rating": 7.37,
     "quality_movie": "",
@@ -190,7 +190,7 @@
   },
   {
     "id": 1,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Boruto: Naruto Next Generations",
     "rating": 7.2,
     "quality_movie": "",
@@ -205,7 +205,7 @@
   },
   {
     "id": 15,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Oshi ga Budoukan Ittekuretara Shinu",
     "rating": 7.18,
     "quality_movie": "",
@@ -220,7 +220,7 @@
   },
   {
     "id": 20,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Healin` Good Precure",
     "rating": 7.17,
     "quality_movie": "",
@@ -235,7 +235,7 @@
   },
   {
     "id": 25,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Murenase! Seton Gakuen",
     "rating": 7.14,
     "quality_movie": "",
@@ -250,7 +250,7 @@
   },
   {
     "id": 29,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Black Clover",
     "rating": 7.08,
     "quality_movie": "",
@@ -265,7 +265,7 @@
   },
   {
     "id": 3,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Plunderer ",
     "rating": 7,
     "quality_movie": "",
@@ -280,7 +280,7 @@
   },
   {
     "id": 21,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Mahou Sensei Negima! Movie",
     "rating": 6.81,
     "quality_movie": "",
@@ -295,7 +295,7 @@
   },
   {
     "id": 6,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Kabukichou Sherlock",
     "rating": 6.65,
     "quality_movie": "",
@@ -310,7 +310,7 @@
   },
   {
     "id": 4,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Pet",
     "rating": 6.3,
     "quality_movie": "",
@@ -325,7 +325,7 @@
   },
   {
     "id": 5,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Number24",
     "rating": 0,
     "quality_movie": "",
@@ -340,7 +340,7 @@
   },
   {
     "id": 33,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Kimi no Tou",
     "rating": 0,
     "quality_movie": "",
@@ -355,7 +355,7 @@
   },
   {
     "id": 34,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Tamayomi",
     "rating": 0,
     "quality_movie": "",
@@ -370,7 +370,7 @@
   },
   {
     "id": 35,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Mewkledreamy ",
     "rating": 0,
     "quality_movie": "",
@@ -385,7 +385,7 @@
   },
   {
     "id": 36,
-    "path": "Anime-Top-Rated ",
+    "path": "Anime/Anime-Top-Rated ",
     "name": "Shadowverse ",
     "rating": 0,
     "quality_movie": "",
@@ -400,7 +400,7 @@
   },
   {
     "id": 37,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Hachi-nan tte, Sore wa Nai deshou!",
     "rating": 0,
     "quality_movie": "",
@@ -415,7 +415,7 @@
   },
   {
     "id": 38,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Hitori no Shita Season 3",
     "rating": 0,
     "quality_movie": "",
@@ -430,7 +430,7 @@
   },
   {
     "id": 39,
-    "path": "Anime-Top-Rated",
+    "path": "Anime/Anime-Top-Rated",
     "name": "Fruits Basket S2 (2019)",
     "rating": 0,
     "quality_movie": "",
