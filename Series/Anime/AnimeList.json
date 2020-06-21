@@ -1,7 +1,7 @@
 [
   {
     "id": 42,
-    "path": "5-Centimeters-Per-Second",
+    "path": "AnimeList",
     "name": "5 Centimeters Per Second",
     "rating": 7.87,
     "quality_movie": "",
@@ -16,7 +16,7 @@
   },
   {
     "id": 41,
-    "path": "Hello World",
+    "path": "AnimeList",
     "name": "Hello World",
     "rating": 7.81,
     "quality_movie": "",
@@ -31,7 +31,7 @@
   },
   {
     "id": 40,
-    "path": "Tenki-no-Ko",
+    "path": "AnimeList",
     "name": "Tenki no Ko (Weathering with You)",
     "rating": 8.58,
     "quality_movie": "",
@@ -46,7 +46,7 @@
   },
   {
     "id": 39,
-    "path": "Fruits-Basket-S2-2019",
+    "path": "AnimeList",
     "name": "Fruits Basket S2 (2019)",
     "rating": 0,
     "quality_movie": "",
@@ -61,7 +61,7 @@
   },
   {
     "id": 38,
-    "path": "Hitori-no-Shita-Season-3",
+    "path": "AnimeList",
     "name": "Hitori no Shita Season 3",
     "rating": 0,
     "quality_movie": "",
@@ -76,7 +76,7 @@
   },
   {
     "id": 37,
-    "path": "Hachi-nan-tte,-Sore-wa-Nai-deshou!",
+    "path": "AnimeList",
     "name": "Hachi-nan tte, Sore wa Nai deshou!",
     "rating": 0,
     "quality_movie": "",
@@ -91,7 +91,7 @@
   },
   {
     "id": 36,
-    "path": "Shadowverse ",
+    "path": "AnimeList",
     "name": "Shadowverse ",
     "rating": 0,
     "quality_movie": "",
@@ -106,7 +106,7 @@
   },
   {
     "id": 35,
-    "path": "Mewkledreamy",
+    "path": "AnimeList",
     "name": "Mewkledreamy ",
     "rating": 0,
     "quality_movie": "",
@@ -121,7 +121,7 @@
   },
   {
     "id": 34,
-    "path": "Tamayomi",
+    "path": "AnimeList",
     "name": "Tamayomi",
     "rating": 0,
     "quality_movie": "",
@@ -136,7 +136,7 @@
   },
   {
     "id": 33,
-    "path": "Kimi-no-Tou",
+    "path": "AnimeList",
     "name": "Kimi no Tou",
     "rating": 0,
     "quality_movie": "",
@@ -151,7 +151,7 @@
   },
   {
     "id": 31,
-    "path": "Toaru-Majutsu-no-Index-Movie:-Endymion-no-Kiseki BD",
+    "path": "AnimeList",
     "name": "Toaru Majutsu no Index Movie: Endymion no Kiseki BD",
     "rating": 7.56,
     "quality_movie": "",
@@ -166,7 +166,7 @@
   },
   {
     "id": 30,
-    "path": "Hanamonogatari",
+    "path": "AnimeList",
     "name": "Hanamonogatari",
     "rating": 8.03,
     "quality_movie": "",
@@ -181,7 +181,7 @@
   },
   {
     "id": 29,
-    "path": "Black-Clover",
+    "path": "AnimeList",
     "name": "Black Clover",
     "rating": 7.08,
     "quality_movie": "",
@@ -196,7 +196,7 @@
   },
   {
     "id": 28,
-    "path": "Diamond-no-Ace:-Act-II ",
+    "path": "AnimeList",
     "name": "Diamond no Ace: Act II ",
     "rating": 8.26,
     "quality_movie": "",
@@ -211,7 +211,7 @@
   },
   {
     "id": 27,
-    "path": "Kimi-no-Nawa",
+    "path": "AnimeList",
     "name": "Kimi no Nawa",
     "rating": 9.12,
     "quality_movie": "",
@@ -226,7 +226,7 @@
   },
   {
     "id": 26,
-    "path": "Detective-Conan",
+    "path": "AnimeList",
     "name": "Detective Conan",
     "rating": 8.25,
     "quality_movie": "",
@@ -241,7 +241,7 @@
   },
   {
     "id": 25,
-    "path": "Murenase!-Seton Gakuen",
+    "path": "AnimeList",
     "name": "Murenase! Seton Gakuen",
     "rating": 7.14,
     "quality_movie": "",
@@ -256,7 +256,7 @@
   },
   {
     "id": 24,
-    "path": "Magia-Record",
+    "path": "AnimeList",
     "name": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)",
     "rating": 7.37,
     "quality_movie": "",
@@ -271,7 +271,7 @@
   },
   {
     "id": 23,
-    "path": "ID-Invalded",
+    "path": "AnimeList",
     "name": "ID:Invaded",
     "rating": "",
     "quality_movie": "",
@@ -286,7 +286,7 @@
   },
   {
     "id": 22,
-    "path": "Nanabun-no-Nijuuni",
+    "path": "AnimeList",
     "name": "Nanabun no Nijuuni",
     "rating": "",
     "quality_movie": "",
@@ -301,7 +301,7 @@
   },
   {
     "id": 21,
-    "path": "Mahou-Sensei-Negima!",
+    "path": "AnimeList",
     "name": "Mahou Sensei Negima! Movie",
     "rating": 6.81,
     "quality_movie": "",
@@ -316,7 +316,7 @@
   },
   {
     "id": 20,
-    "path": "Healin-Good-Precure",
+    "path": "AnimeList",
     "name": "Healin` Good Precure",
     "rating": 7.17,
     "quality_movie": "",
@@ -331,7 +331,7 @@
   },
   {
     "id": 19,
-    "path": "Pokemon-2019",
+    "path": "AnimeList",
     "name": "Pokemon 2019",
     "rating": 7.72,
     "quality_movie": "",
@@ -346,7 +346,7 @@
   },
   {
     "id": 18,
-    "path": "Kyokou-Suiri",
+    "path": "AnimeList",
     "name": "Kyokou Suiri",
     "rating": "",
     "quality_movie": "",
@@ -361,7 +361,7 @@
   },
   {
     "id": 17,
-    "path": "Inuyashiki",
+    "path": "AnimeList",
     "name": "Inuyashiki",
     "rating": 7.81,
     "quality_movie": "",
@@ -376,7 +376,7 @@
   },
   {
     "id": 16,
-    "path": "Boku-no-Hero-Academia-Season-4",
+    "path": "AnimeList",
     "name": "Boku no Hero Academia Season 4",
     "rating": "",
     "quality_movie": "",
@@ -391,7 +391,7 @@
   },
   {
     "id": 15,
-    "path": "Oshi-ga-Budoukan-Ittekuretara-Shinu",
+    "path": "AnimeList",
     "name": "Oshi ga Budoukan Ittekuretara Shinu",
     "rating": 7.18,
     "quality_movie": "",
@@ -406,7 +406,7 @@
   },
   {
     "id": 14,
-    "path": "Isekai-Quartet-Season-2",
+    "path": "AnimeList",
     "name": "Isekai Quartet Season 2",
     "rating": "",
     "quality_movie": "",
@@ -421,7 +421,7 @@
   },
   {
     "id": 12,
-    "path": "Chihayafuru-Season-3",
+    "path": "AnimeList",
     "name": "Chihayafuru Season 3",
     "rating": "",
     "quality_movie": "",
@@ -436,7 +436,7 @@
   },
   {
     "id": 11,
-    "path": "Dorohedoro",
+    "path": "AnimeList",
     "name": "Dorohedoro ",
     "rating": "",
     "quality_movie": "",
@@ -451,7 +451,7 @@
   },
   {
     "id": 10,
-    "path": "Eizouken-ni-wa-Te-wo-Dasu-na!",
+    "path": "AnimeList",
     "name": "Eizouken ni wa Te wo Dasu na!",
     "rating": "",
     "quality_movie": "",
@@ -466,7 +466,7 @@
   },
   {
     "id": 9,
-    "path": "Nanatsu-no-Taizai-Season-3",
+    "path": "AnimeList",
     "name": "Nanatsu no Taizai Season 3",
     "rating": "",
     "quality_movie": "",
@@ -481,7 +481,7 @@
   },
   {
     "id": 8,
-    "path": "Ahiru-no-Sora",
+    "path": "AnimeList",
     "name": "Ahiru no Sora",
     "rating": 7.64,
     "quality_movie": "",
@@ -496,7 +496,7 @@
   },
   {
     "id": 7,
-    "path": "BoFuri",
+    "path": "AnimeList",
     "name": "BoFuri ",
     "rating": "",
     "quality_movie": "",
@@ -511,7 +511,7 @@
   },
   {
     "id": 6,
-    "path": "Kabukichou-Sherlock",
+    "path": "AnimeList,
     "name": "Kabukichou Sherlock",
     "rating": 6.65,
     "quality_movie": "",
@@ -526,7 +526,7 @@
   },
   {
     "id": 5,
-    "path": "Number24",
+    "path": "AnimeList",
     "name": "Number24",
     "rating": "",
     "quality_movie": "",
@@ -541,7 +541,7 @@
   },
   {
     "id": 4,
-    "path": "Pet",
+    "path": "AnimeList",
     "name": "Pet",
     "rating": 6.3,
     "quality_movie": "",
@@ -556,7 +556,7 @@
   },
   {
     "id": 3,
-    "path": "Plunderer",
+    "path": "AnimeList",
     "name": "Plunderer ",
     "rating": 7,
     "quality_movie": "",
@@ -571,7 +571,7 @@
   },
   {
     "id": 2,
-    "path": "One-Piece",
+    "path": "AnimeList",
     "name": "One Piece",
     "rating": 8.7,
     "quality_movie": "",
@@ -586,7 +586,7 @@
   },
   {
     "id": 1,
-    "path": "Boruto:-Naruto-Next-Generation",
+    "path": "AnimeList",
     "name": "Boruto: Naruto Next Generations",
     "rating": 7.2,
     "quality_movie": "",
