@@ -15,13 +15,13 @@
     "title": "Indonesian Movies"
   },
   {
-    "type": "movies",
-    "path": "Series/MostPopularAscending",
+    "type": "series",
+    "path": "Series/MostPopularAscending.json",
     "title": "Most Popular Series"
   },
   {
-    "type": "movies",
-    "path": "Series/MostWatched",
+    "type": "series",
+    "path": "Series/MostWatched.json",
     "title": "TV Most Watched"
   }
 ]
