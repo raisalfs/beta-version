@@ -1,7 +1,7 @@
 [
   {
     "id": 42,
-    "episode_path": "Anime/Eps/5-Centimeters-Per-Second",
+    "episode_path": "5-Centimeters-Per-Second",
     "name": "5 Centimeters Per Second",
     "rating": 7.87,
     "path": "Anime/AnimeList",
@@ -17,7 +17,7 @@
   },
   {
     "id": 41,
-    "episode_path": "Anime/Eps/Hello World",
+    "episode_path": "Hello World",
     "name": "Hello World",
     "rating": 7.81,
     "path": "Anime/AnimeList",
@@ -33,7 +33,7 @@
   },
   {
     "id": 40,
-    "episode_path": "Anime/Eps/Tenki-no-Ko",
+    "episode_path": "Tenki-no-Ko",
     "name": "Tenki no Ko (Weathering with You)",
     "rating": 8.58,
     "path": "Anime/AnimeList",
@@ -49,7 +49,7 @@
   },
   {
     "id": 39,
-    "episode_path": "Anime/Eps/Fruits-Basket-S2-2019",
+    "episode_path": "Fruits-Basket-S2-2019",
     "name": "Fruits Basket S2 (2019)",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -65,7 +65,7 @@
   },
   {
     "id": 38,
-    "episode_path": "Anime/Eps/Hitori-no-Shita-Season-3",
+    "episode_path": "Hitori-no-Shita-Season-3",
     "name": "Hitori no Shita Season 3",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -81,7 +81,7 @@
   },
   {
     "id": 37,
-    "episode_path": "Anime/Eps/Hachi-nan-tte,-Sore-wa-Nai-deshou!",
+    "episode_path": "Hachi-nan-tte,-Sore-wa-Nai-deshou!",
     "name": "Hachi-nan tte, Sore wa Nai deshou!",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -97,7 +97,7 @@
   },
   {
     "id": 36,
-    "episode_path": "Anime/Eps/Shadowverse ",
+    "episode_path": "Shadowverse ",
     "name": "Shadowverse ",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -113,7 +113,7 @@
   },
   {
     "id": 35,
-    "episode_path": "Anime/Eps/Mewkledreamy",
+    "episode_path": "Mewkledreamy",
     "name": "Mewkledreamy ",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -129,7 +129,7 @@
   },
   {
     "id": 34,
-    "episode_path": "Anime/Eps/Tamayomi",
+    "episode_path": "Tamayomi",
     "name": "Tamayomi",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -145,7 +145,7 @@
   },
   {
     "id": 33,
-    "episode_path": "Anime/Eps/Kimi-no-Tou",
+    "episode_path": "Kimi-no-Tou",
     "name": "Kimi no Tou",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -161,7 +161,7 @@
   },
   {
     "id": 31,
-    "episode_path": "Anime/Eps/Toaru-Majutsu-no-Index-Movie:-Endymion-no-Kiseki BD",
+    "episode_path": "Toaru-Majutsu-no-Index-Movie:-Endymion-no-Kiseki BD",
     "name": "Toaru Majutsu no Index Movie: Endymion no Kiseki BD",
     "rating": 7.56,
     "path": "Anime/AnimeList",
@@ -177,7 +177,7 @@
   },
   {
     "id": 30,
-    "episode_path": "Anime/Eps/Hanamonogatari",
+    "episode_path": "Hanamonogatari",
     "name": "Hanamonogatari",
     "rating": 8.03,
     "path": "Anime/AnimeList",
@@ -193,7 +193,7 @@
   },
   {
     "id": 29,
-    "episode_path": "Anime/Eps/Black-Clover",
+    "episode_path": "Black-Clover",
     "name": "Black Clover",
     "rating": 7.08,
     "path": "Anime/AnimeList",
@@ -209,7 +209,7 @@
   },
   {
     "id": 28,
-    "episode_path": "Anime/Eps/Diamond-no-Ace:-Act-II ",
+    "episode_path": "Diamond-no-Ace:-Act-II ",
     "name": "Diamond no Ace: Act II ",
     "rating": 8.26,
     "path": "Anime/AnimeList",
@@ -225,7 +225,7 @@
   },
   {
     "id": 27,
-    "episode_path": "Anime/Eps/Kimi-no-Nawa",
+    "episode_path": "Kimi-no-Nawa",
     "name": "Kimi no Nawa",
     "rating": 9.12,
     "path": "Anime/AnimeList",
@@ -241,7 +241,7 @@
   },
   {
     "id": 26,
-    "episode_path": "Anime/Eps/Detective-Conan",
+    "episode_path": "Detective-Conan",
     "name": "Detective Conan",
     "rating": 8.25,
     "path": "Anime/AnimeList",
@@ -257,7 +257,7 @@
   },
   {
     "id": 25,
-    "episode_path": "Anime/Eps/Murenase!-Seton Gakuen",
+    "episode_path": "Murenase!-Seton Gakuen",
     "name": "Murenase! Seton Gakuen",
     "rating": 7.14,
     "path": "Anime/AnimeList",
@@ -273,7 +273,7 @@
   },
   {
     "id": 24,
-    "episode_path": "Anime/Eps/Magia-Record",
+    "episode_path": "Magia-Record",
     "name": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)",
     "rating": 7.37,
     "path": "Anime/AnimeList",
@@ -289,7 +289,7 @@
   },
   {
     "id": 23,
-    "episode_path": "Anime/Eps/Number24",
+    "episode_path": "Number24",
     "name": "Number24",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -305,7 +305,7 @@
   },
   {
     "id": 22,
-    "episode_path": "Anime/Eps/Number24",
+    "episode_path": "Number24",
     "name": "Number24",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -321,7 +321,7 @@
   },
   {
     "id": 21,
-    "episode_path": "Anime/Eps/Mahou-Sensei-Negima!",
+    "episode_path": "Mahou-Sensei-Negima!",
     "name": "Mahou Sensei Negima! Movie",
     "rating": 6.81,
     "path": "Anime/AnimeList",
@@ -337,7 +337,7 @@
   },
   {
     "id": 20,
-    "episode_path": "Anime/Eps/Healin-Good-Precure",
+    "episode_path": "Healin-Good-Precure",
     "name": "Healin` Good Precure",
     "rating": 7.17,
     "path": "Anime/AnimeList",
@@ -353,7 +353,7 @@
   },
   {
     "id": 19,
-    "episode_path": "Anime/Eps/Pokemon-2019",
+    "episode_path": "Pokemon-2019",
     "name": "Pokemon 2019",
     "rating": 7.72,
     "path": "Anime/AnimeList",
@@ -369,7 +369,7 @@
   },
   {
     "id": 18,
-    "episode_path": "Anime/Eps/Number24",
+    "episode_path": "Number24",
     "name": "Number24",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -385,7 +385,7 @@
   },
   {
     "id": 17,
-    "episode_path": "Anime/Eps/Inuyashiki",
+    "episode_path": "Inuyashiki",
     "name": "Inuyashiki",
     "rating": 7.81,
     "path": "Anime/AnimeList",
@@ -401,7 +401,7 @@
   },
   {
     "id": 16,
-    "episode_path": "Anime/Eps/Number24",
+    "episode_path": "Number24",
     "name": "Number24",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -417,7 +417,7 @@
   },
   {
     "id": 15,
-    "episode_path": "Anime/Eps/Oshi-ga-Budoukan-Ittekuretara-Shinu",
+    "episode_path": "Oshi-ga-Budoukan-Ittekuretara-Shinu",
     "name": "Oshi ga Budoukan Ittekuretara Shinu",
     "rating": 7.18,
     "path": "Anime/AnimeList",
@@ -433,7 +433,7 @@
   },
   {
     "id": 14,
-    "episode_path": "Anime/Eps/Number24",
+    "episode_path": "Number24",
     "name": "Number24",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -449,7 +449,7 @@
   },
   {
     "id": 13,
-    "episode_path": "Anime/Eps/Number24",
+    "episode_path": "Number24",
     "name": "Number24",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -465,7 +465,7 @@
   },
   {
     "id": 12,
-    "episode_path": "Anime/Eps/Number24",
+    "episode_path": "Number24",
     "name": "Number24",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -481,7 +481,7 @@
   },
   {
     "id": 11,
-    "episode_path": "Anime/Eps/Number24",
+    "episode_path": "Number24",
     "name": "Number24",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -497,7 +497,7 @@
   },
   {
     "id": 10,
-    "episode_path": "Anime/Eps/Number24",
+    "episode_path": "Number24",
     "name": "Number24",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -513,7 +513,7 @@
   },
   {
     "id": 9,
-    "episode_path": "Anime/Eps/Number24",
+    "episode_path": "Number24",
     "name": "Number24",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -529,7 +529,7 @@
   },
   {
     "id": 8,
-    "episode_path": "Anime/Eps/Ahiru-no-Sora",
+    "episode_path": "Ahiru-no-Sora",
     "name": "Ahiru no Sora",
     "rating": 7.64,
     "path": "Anime/AnimeList",
@@ -545,7 +545,7 @@
   },
   {
     "id": 7,
-    "episode_path": "Anime/Eps/Number24",
+    "episode_path": "Number24",
     "name": "Number24",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -561,7 +561,7 @@
   },
   {
     "id": 6,
-    "episode_path": "Anime/Eps/Kabukichou-Sherlock",
+    "episode_path": "Kabukichou-Sherlock",
     "name": "Kabukichou Sherlock",
     "rating": 6.65,
     "path": "Anime/AnimeList",
@@ -577,7 +577,7 @@
   },
   {
     "id": 5,
-    "episode_path": "Anime/Eps/Number24",
+    "episode_path": "Number24",
     "name": "Number24",
     "rating": 0,
     "path": "Anime/AnimeList",
@@ -593,7 +593,7 @@
   },
   {
     "id": 4,
-    "episode_path": "Anime/Eps/Pet",
+    "episode_path": "Pet",
     "name": "Pet",
     "rating": 6.3,
     "path": "Anime/AnimeList",
@@ -609,7 +609,7 @@
   },
   {
     "id": 3,
-    "episode_path": "Anime/Eps/Plunderer",
+    "episode_path": "Plunderer",
     "name": "Plunderer ",
     "rating": 7,
     "path": "Anime/AnimeList",
@@ -625,7 +625,7 @@
   },
   {
     "id": 2,
-    "episode_path": "Anime/Eps/One-Piece",
+    "episode_path": "One-Piece",
     "name": "One Piece",
     "rating": 8.7,
     "path": "Anime/AnimeList",
@@ -641,7 +641,7 @@
   },
   {
     "id": 1,
-    "episode_path": "Anime/Eps/Boruto:-Naruto-Next-Generation",
+    "episode_path": "Boruto:-Naruto-Next-Generation",
     "name": "Boruto: Naruto Next Generations",
     "rating": 7.2,
     "path": "Anime/AnimeList",
