@@ -1,7 +1,17 @@
 [
   {
+    "name": "AndroidMaterialPreferences",
+    "url": "https://raw.githubusercontent.com/michael-rapp/AndroidMaterialPreferences/master/LICENSE.txt",
+    "license": ""
+  },
+  {
     "name": "BottomDrawer",
     "url": "https://raw.githubusercontent.com/HeyAlex/BottomDrawer/develop/LICENSE.txt",
+    "license": ""
+  },
+  {
+    "name": "ButterKnife",
+    "url": "https://raw.githubusercontent.com/JakeWharton/butterknife/master/LICENSE.txt",
     "license": ""
   },
   {
@@ -10,8 +20,18 @@
     "license": ""
   },
   {
+    "name": "ExpectAnim",
+    "url": "https://raw.githubusercontent.com/florent37/ExpectAnim/master/LICENSE",
+    "license": ""
+  },
+  {
     "name": "Glide",
     "url": "https://raw.githubusercontent.com/bumptech/glide/master/LICENSE",
+    "license": ""
+  },
+  {
+    "name": "ImagePicker",
+    "url": "https://raw.githubusercontent.com/Dhaval2404/ImagePicker/master/LICENSE",
     "license": ""
   },
   {
