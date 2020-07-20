@@ -1,0 +1,37 @@
+[
+  {
+    "name": "BottomDrawer",
+    "url": "https://raw.githubusercontent.com/HeyAlex/BottomDrawer/develop/LICENSE.txt",
+    "license": ""
+  },
+  {
+    "name": "Chiper.so",
+    "url": "https://raw.githubusercontent.com/MEiDIK/Cipher.so/dev/LICENSE",
+    "license": ""
+  },
+  {
+    "name": "Glide",
+    "url": "https://raw.githubusercontent.com/bumptech/glide/master/LICENSE",
+    "license": ""
+  },
+  {
+    "name": "LovelyDialog",
+    "url": "https://raw.githubusercontent.com/yarolegovich/LovelyDialog/master/LICENSE",
+    "license": ""
+  },
+  {
+    "name": "MaterialFavoriteButton",
+    "url": "https://raw.githubusercontent.com/IvBaranov/MaterialFavoriteButton/master/LICENSE",
+    "license": ""
+  },
+  {
+    "name": "MaterialSearchView",
+    "url": "https://raw.githubusercontent.com/MiguelCatalan/MaterialSearchView/develop/LICENSE",
+    "license": ""
+  },
+  {
+    "name": "ShapeOfView",
+    "url": "https://raw.githubusercontent.com/florent37/ShapeOfView/master/LICENSE",
+    "license": ""
+  }
+]
