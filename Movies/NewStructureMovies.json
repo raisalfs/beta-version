@@ -8,16 +8,16 @@
     "categories": "Animation, Adventure, Comedy ",
     "player": {
       "full_movies": {
-        "server_1": "Server 1",
-        "server_2": "Server 2",
-        "server_3": "Server 3"
+        "server_1": "Onward Server 1",
+        "server_2": "Onward Server 2",
+        "server_3": "Onward Server 3"
       },
       "trailer": "https://www.youtube.com/watch?v=ayrf1NIKuRg"
     },
     "poster_movies": {
-      "poster": "Poster 1",
-      "poster2": "Poster 2",
-      "poster3": "Poster 3"
+      "poster": "Onward Poster 1",
+      "poster2": "Onward Poster 2",
+      "poster3": "Onward Poster 3"
     },
     "cover": "https://upload.wikimedia.org/wikipedia/id/0/03/Onward_poster.jpg",
     "cover_bg": "https://techcrunch.com/wp-content/uploads/2020/03/pixar-onward-e1570805324376.png?w=730&crop=1",
@@ -37,16 +37,16 @@
     "categories": "Action, Drama, Sci-Fi",
     "player": {
       "full_movies": {
-        "server_1": "Server 1",
-        "server_2": "Server 2",
-        "server_3": "Server 3"
+        "server_1": "Bloodshot Server 1",
+        "server_2": "Bloodshot Server 2",
+        "server_3": "Bloodshot Server 3"
       },
       "trailer": "https://www.youtube.com/watch?v=ayrf1NIKuRg"
     },
     "poster_movies": {
-      "poster": "Poster 1",
-      "poster2": "Poster 2",
-      "poster3": "Poster 3"
+      "poster": "Bloodshot Poster 1",
+      "poster2": "Bloodshot Poster 2",
+      "poster3": "Bloodshot Poster 3"
     },
     "cover": "https://m.media-amazon.com/images/M/MV5BYjA5YjA2YjUtMGRlNi00ZTU4LThhZmMtNDc0OTg4ZWExZjI3XkEyXkFqcGdeQXVyNjUyNjI3NzU@._V1_UY268_CR16,0,182,268_AL_.jpg",
     "cover_bg": "https://www.mainmain.id/uploads/post/2020/03/11/bloodshot.jpg",
@@ -66,16 +66,16 @@
     "categories": "Drama, Music, Romance",
     "player": {
       "full_movies": {
-        "server_1": "Server 1",
-        "server_2": "Server 2",
-        "server_3": "Server 3"
+        "server_1": "I Still Believe Server 1",
+        "server_2": "I Still Believe Server 2",
+        "server_3": "I Still Believe Server 3"
       },
       "trailer": "https://www.youtube.com/watch?v=ayrf1NIKuRg"
     },
     "poster_movies": {
-      "poster": "Poster 1",
-      "poster2": "Poster 2",
-      "poster3": "Poster 3"
+      "poster": "I Still Believe Poster 1",
+      "poster2": "I Still Believe Poster 2",
+      "poster3": "I Still Believe Poster 3"
     },
     "cover": "https://miro.medium.com/max/600/0*ymdRkKevlyQL7SZ2.jpg",
     "cover_bg": "https://www.indiewire.com/wp-content/uploads/2020/03/9089-i-still-believe-lionsgate-5.jpg?w=780",
@@ -95,16 +95,16 @@
     "categories": "Horror, Mystery, Sci-Fi",
     "player": {
       "full_movies": {
-        "server_1": "Server 1",
-        "server_2": "Server 2",
-        "server_3": "Server 3"
+        "server_1": "The Invisible Man Server 1",
+        "server_2": "The Invisible Man Server 2",
+        "server_3": "The Invisible ManServer 3"
       },
       "trailer": "https://www.youtube.com/watch?v=ayrf1NIKuRg"
     },
     "poster_movies": {
-      "poster": "Poster 1",
-      "poster2": "Poster 2",
-      "poster3": "Poster 3"
+      "poster": "The Invisible Man Poster 1",
+      "poster2": "The Invisible Man Poster 2",
+      "poster3": "The Invisible Man Poster 3"
     },
     "cover": "https://cdn0-production-images-kly.akamaized.net/UzWgZlbxc5BFcijbTmjnu_a6S9c=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3060616/original/074430400_1582686117-Invisible_Man_7.jpg",
     "cover_bg": "https://www.wwnytv.com/resizer/CL65N76_qYGBQ3lIsdr9AKT3LCA=/1200x600/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/Q55OFIX6IVEXLPYSVTE5YMZZX4.jpg",
@@ -124,16 +124,16 @@
     "categories": "Action, Horror, Thriller ",
     "player": {
       "full_movies": {
-        "server_1": "Server 1",
-        "server_2": "Server 2",
-        "server_3": "Server 3"
+        "server_1": "The Hunt Server 1",
+        "server_2": "The Hunt Server 2",
+        "server_3": "The Hunt Server 3"
       },
       "trailer": "https://www.youtube.com/watch?v=ayrf1NIKuRg"
     },
     "poster_movies": {
-      "poster": "Poster 1",
-      "poster2": "Poster 2",
-      "poster3": "Poster 3"
+      "poster": "The Hunt Poster 1",
+      "poster2": "The Hunt Poster 2",
+      "poster3": "The Hunt Poster 3"
     },
     "cover": "https://upload.wikimedia.org/wikipedia/en/a/a9/The_Hunt_2020_poster.png",
     "cover_bg": "https://awsimages.detik.net.id/visual/2019/08/13/207dec58-8f42-4718-9e9b-37ac560d6b8b_169.jpeg?w=650",
@@ -153,16 +153,16 @@
     "categories": " Action, Adventure, Comedy ",
     "player": {
       "full_movies": {
-        "server_1": "Server 1",
-        "server_2": "Server 2",
-        "server_3": "Server 3"
+        "server_1": "Sonic the Hedgehog Server 1",
+        "server_2": "Sonic the Hedgehog Server 2",
+        "server_3": "Sonic the Hedgehog Server 3"
       },
       "trailer": "https://www.youtube.com/watch?v=ayrf1NIKuRg"
     },
     "poster_movies": {
-      "poster": "Poster 1",
-      "poster2": "Poster 2",
-      "poster3": "Poster 3"
+      "poster": "Sonic the Hedgehog Poster 1",
+      "poster2": "Sonic the Hedgehog Poster 2",
+      "poster3": "Sonic the Hedgehog Poster 3"
     },
     "cover_bg": "https://timlo.net/wp-content/uploads/2019/05/sonic_the_hedgehog_movie.jpg",
     "quality_movie": "HD",
@@ -181,16 +181,16 @@
     "categories": "Drama, Sport",
     "player": {
       "full_movies": {
-        "server_1": "Server 1",
-        "server_2": "Server 2",
-        "server_3": "Server 3"
+        "server_1": "The Way Back Server 1",
+        "server_2": "The Way Back Server 2",
+        "server_3": "The Way Back Server 3"
       },
       "trailer": "https://www.youtube.com/watch?v=ayrf1NIKuRg"
     },
     "poster_movies": {
-      "poster": "Poster 1",
-      "poster2": "Poster 2",
-      "poster3": "Poster 3"
+      "poster": "The Way Back Poster 1",
+      "poster2": "The Way Back Poster 2",
+      "poster3": "The Way Back Poster 3"
     },
     "cover": "https://mydirtsheet.files.wordpress.com/2020/03/waybackqxvyndg4njy5otq40._v1_sy1000_cr006741000_al_.jpg?w=529&h=785",
     "cover_bg": "https://images1.houstonpress.com/imager/u/745x420/11453630/hou_art_20200306_thewayback_header.jpg",
@@ -210,16 +210,16 @@
     "categories": "Adventure, Drama, Family ",
     "player": {
       "full_movies": {
-        "server_1": "Server 1",
-        "server_2": "Server 2",
-        "server_3": "Server 3"
+        "server_1": "The Call of the Wild Server 1",
+        "server_2": "The Call of the Wild Server 2",
+        "server_3": "The Call of the Wild Server 3"
       },
       "trailer": "https://www.youtube.com/watch?v=ayrf1NIKuRg"
     },
     "poster_movies": {
-      "poster": "Poster 1",
-      "poster2": "Poster 2",
-      "poster3": "Poster 3"
+      "poster": "The Call of the Wild Poster 1",
+      "poster2": "The Call of the Wild Poster 2",
+      "poster3": "The Call of the Wild Poster 3"
     },
     "cover": "https://1.bp.blogspot.com/-Wpq5p0ChZ4w/XlK-j_DFKsI/AAAAAAAAbqc/GogvaNbkXAYP-hGvBLZi1D3L6dJ3bIrgACLcBGAsYHQ/s1600/call_of_the_wild_ver2_xlg.jpg",
     "cover_bg": "https://cdn.idntimes.com/content-images/community/2020/02/zzyuyn4dvnjxedyhjys0lujcpyt-46039b4f61ae31bb0c489f0ec5b7cb49_600x400.jpg",
@@ -239,16 +239,16 @@
     "categories": "Comedy, Drama ",
     "player": {
       "full_movies": {
-        "server_1": "Server 1",
-        "server_2": "Server 2",
-        "server_3": "Server 3"
+        "server_1": "Emma. Server 1",
+        "server_2": "Emma. Server 2",
+        "server_3": "Emma. Server 3"
       },
       "trailer": "https://www.youtube.com/watch?v=ayrf1NIKuRg"
     },
     "poster_movies": {
-      "poster": "Poster 1",
-      "poster2": "Poster 2",
-      "poster3": "Poster 3"
+      "poster": "Emma. Poster 1",
+      "poster2": "Emma. Poster 2",
+      "poster3": "Emma. Poster 3"
     },
     "cover": "https://m.media-amazon.com/images/M/MV5BOGRiODEzM2QtOTUyYi00MWRlLTg4MzMtZGI0YmUzNWUyMjQ0XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
     "cover_bg": "https://s26162.pcdn.co/wp-content/uploads/2020/02/emma2.jpg",
@@ -268,16 +268,16 @@
     "categories": "Action, Comedy, Crime ",
     "player": {
       "full_movies": {
-        "server_1": "Server 1",
-        "server_2": "Server 2",
-        "server_3": "Server 3"
+        "server_1": "Bad Boys for Life Server 1",
+        "server_2": "Bad Boys for Life Server 2",
+        "server_3": "Bad Boys for Life Server Server 3"
       },
       "trailer": "https://www.youtube.com/watch?v=ayrf1NIKuRg"
     },
     "poster_movies": {
-      "poster": "Poster 1",
-      "poster2": "Poster 2",
-      "poster3": "Poster 3"
+      "poster": "Bad Boys for Life Server Poster 1",
+      "poster2": "Bad Boys for Life Server Poster 2",
+      "poster3": "Bad Boys for Life Server Poster 3"
     },
     "cover": "https://image.tmdb.org/t/p/w500/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
     "cover_bg": "https://s1.dmcdn.net/v/RvjcM1U8l018dv3hJ/x1080",
