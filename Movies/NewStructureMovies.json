@@ -25,7 +25,32 @@
     "release": 2020,
     "duration": "102min",
     "jenis": "movies",
-    "actor_path": "Actor/Onward.json",
+    "actor": [
+      {
+        "name_actor": "Tom Holland",
+        "image_actor": "https://www.biography.com/.image/t_share/MTQ4MTUwOTQyMDE1OTU2Nzk4/tom-holland-photo-jason-kempin-getty-images-801510482-profile.jpg"
+      },
+      {
+        "name_actor": "Chris Pratt",
+        "image_actor": "https://www.biography.com/.image/t_share/MTQxMDA4Nzk5MDIzNTA2NjE1/chris--pratt-gettyimages-452625304_1350jpg.jpg"
+      },
+      {
+        "name_actor": "Julia Louis-Dreyfus",
+        "image_actor": "https://media.allure.com/photos/5e90b67a0fc6ed000827e3c1/master/w_3200,h_2000,c_limit/Julia-Louis-Dreyfus-lede.jpg"
+      },
+      {
+        "name_actor": "Octavia Spencer",
+        "image_actor": "https://cdn.britannica.com/75/211475-050-6F8F0CEB/Octavia-Spencer-2019.jpg"
+      },
+      {
+        "name_actor": "Mel Rodriguez",
+        "image_actor": "https://pbs.twimg.com/profile_images/1227515852234190849/d2oD5KQp_400x400.jpg"
+      },
+      {
+        "name_actor": "Kyle Bornheimer",
+        "image_actor": "https://vignette.wikia.nocookie.net/disney/images/9/9a/Kyle_Bornheimer.jpg/revision/latest?cb=20200221194058"
+      }
+    ],
     "country": "USA"
   },
   {
@@ -54,7 +79,32 @@
     "release": 2020,
     "duration": "109min",
     "jenis": "movies",
-    "actor_path": "Actor/Bloodshot.json",
+    "actor": [
+      {
+        "name_actor": "Vin Diesel",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMjExNzA4MDYxN15BMl5BanBnXkFtZTcwOTI1MDAxOQ@@._V1_UY317_CR7,0,214,317_AL_.jpg"
+      },
+      {
+        "name_actor": "Eiza González",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BYjI0MjU0YjgtNzRkZC00ZGNlLWEyMzMtOGM2MDEzZDFlYmRjXkEyXkFqcGdeQXVyNjA1OTA1Njk@._V1_UY317_CR20,0,214,317_AL_.jpg"
+      },
+      {
+        "name_actor": "Sam Heughan",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMTUwNzAyMzA2MF5BMl5BanBnXkFtZTgwNzA0MjQ1ODE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+      },
+      {
+        "name_actor": "Toby Kebbell",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BM2EyODM5NDctMWU3Zi00NDc2LWFhYzQtNmQ2ZDJiZTczMDgwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY44_CR1,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Talulah Riley",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMjE0MzUwNTUxM15BMl5BanBnXkFtZTcwNzU1OTY5Ng@@._V1_UY44_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Lamorne Morris",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BNmJhMWJkNTgtODIzMC00ZmIzLTliMjUtZGZmMmM1MTU5OTZhXkEyXkFqcGdeQXVyMjY5MDMxMzQ@._V1_UY44_CR6,0,32,44_AL_.jpg"
+      }
+    ],
     "country": "USA, CHINA"
   },
   {
@@ -83,7 +133,32 @@
     "release": 2020,
     "duration": "114min",
     "jenis": "movies",
-    "actor_path": "Actor/IStillBelieve.json",
+    "actor": [
+      {
+        "name_actor": "Britt Robertson",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMzM3NjAyNTQxOF5BMl5BanBnXkFtZTgwMDU2NDQ1ODE@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "K.J. Apa",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMTU1ODgzMzI4OF5BMl5BanBnXkFtZTgwMTY3ODg4NjM@._V1_UY44_CR1,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Melissa Roxburgh",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BNWJlZDk2YWMtNjQwZi00MTQwLWFjYjMtMWZjNzI0MDUzY2E3XkEyXkFqcGdeQXVyMjU0NjE0NDI@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Nathan Parsons",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BNTAzOTY3ODAxNF5BMl5BanBnXkFtZTgwODgzMzY4NzE@._V1_UY44_CR1,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Gary Sinise",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMzE4NzcyMzU3OV5BMl5BanBnXkFtZTYwOTM2NDE2._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Abigail Cowen",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BZTczNmNmMzAtZThkNi00MDg5LTg1YTMtMzE4MjIzOTJlYmQ1L2ltYWdlXkEyXkFqcGdeQXVyNTUzNDcxMTM@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      }
+    ],
     "country": "USA"
   },
   {
@@ -112,7 +187,32 @@
     "release": 2020,
     "duration": "124min",
     "jenis": "movies",
-    "actor_path": "Actor/TheInvisibleMan.json",
+    "actor": [
+      {
+        "name_actor": "Elisabeth Moss",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BNTMwMDg1MDkyNV5BMl5BanBnXkFtZTcwNzEwMzg1Nw@@._V1_UY44_CR17,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Oliver Jackson-Cohen",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMTg3OTI0NDA2MF5BMl5BanBnXkFtZTcwNDAyMDYzNw@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Harriet Dyer",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BZjhlZTFiZDAtMWVlMi00MzYxLWI1ZjItOThiNzkyMjZlYTEwXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY44_CR13,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Aldis Hodge",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMjA5MjQ1MDk1NF5BMl5BanBnXkFtZTgwNzA3MTg1MTI@._V1_UY44_CR17,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Storm Reid",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BYzY4NWFiNTQtMmEzNC00ZTcwLWIwZWEtNzc3ZDk1MmM5ZDU3XkEyXkFqcGdeQXVyMjk5NzM4OTc@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Michael Dorman",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMTA1MzA2OTEyNTVeQTJeQWpwZ15BbWU4MDk4NjQ2NDEy._V1_UY44_CR17,0,32,44_AL_.jpg"
+      }
+    ],
     "country": "Australia, USA"
   },
   {
@@ -141,7 +241,32 @@
     "release": 2020,
     "duration": "90min",
     "jenis": "movies",
-    "actor_path": "Actor/TheHunt.json",
+    "actor": [
+      {
+        "name_actor": "Betty Gilpin",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMTY3NDY3NjM5OV5BMl5BanBnXkFtZTgwNTQ0NTUzNjM@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Hilary Swank",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BNWNjZjc1NTYtZmY2Mi00MjZhLWE4ZjYtYTMyNWFmYjRkZDdmXkEyXkFqcGdeQXVyMTAyNzUwOTA5._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Ike Barinholtz",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMjE1NDY0NjMwOV5BMl5BanBnXkFtZTgwMDE4MTYxMDI@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Wayne Duvall",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BY2EyMTA4MzUtMTFjMS00OTExLTgxOTYtMmFhNzdhODdhMzk3XkEyXkFqcGdeQXVyODA2NjI4MA@@._V1_UY44_CR5,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Ethan Suplee",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BN2JjZmUyZmUtNjQ3MS00NWYwLWE2ZjUtOTM0ODUyZTg3MWUzXkEyXkFqcGdeQXVyMTA3NjAxNDU@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Emma Roberts",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMGU2ODg5YTYtMjY5My00NjE3LTk4NDMtY2FjM2ZmNjk0ZTBhXkEyXkFqcGdeQXVyMTIxMTA0Ng@@._V1_UY44_CR2,0,32,44_AL_.jpg"
+      }
+    ],
     "country": "USA"
   },
   {
@@ -169,7 +294,32 @@
     "release": 2020,
     "duration": "99min",
     "jenis": "movies",
-    "actor_path": "Actor/SonictheHedgehog.json",
+    "actor": [
+      {
+        "name_actor": "Ben Schwartz",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMjA1MjAxMzk1NF5BMl5BanBnXkFtZTgwNjU1NjgyODE@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "James Marsden",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMTQyOTUzNjc0MF5BMl5BanBnXkFtZTcwNTYyMDYzMw@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Jim Carrey",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMTQwMjAwNzI0M15BMl5BanBnXkFtZTcwOTY1MTMyOQ@@._V1_UY44_CR2,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Tika Sumpter",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BOGZjOWM0OTUtOWQ5ZS00ZWE4LTkwMjYtODg3OWJmYmIyNjI0XkEyXkFqcGdeQXVyMTA3NzU0NDg@._V1_UY44_CR1,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Natasha Rothwell",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMjAzMzkxNTcyMl5BMl5BanBnXkFtZTgwOTk1Mjg1MzI@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Adam Pally",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMTU0NzU3NjY5OV5BMl5BanBnXkFtZTgwMzM3MTk2MTE@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      }
+    ],
     "country": "USA, Jepang, Canada"
   },
   {
@@ -198,7 +348,32 @@
     "release": 2020,
     "duration": "104min",
     "jenis": "movies",
-    "actor_path": "Actor/TheWayBack.json",
+    "actor": [
+      {
+        "name_actor": "Ben Affleck",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMTI4MzIxMTk0Nl5BMl5BanBnXkFtZTcwOTU5NjA0Mg@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Al Madrigal",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMjllOTk2ZDMtMWQ1Zi00YjM3LWFiOWQtNjk1ZmYwYmU2YzZhXkEyXkFqcGdeQXVyODkxODYyMzI@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Janina Gavankar",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BN2Q0NzhjZDktNTg5Yi00YTIwLWJhN2UtZDg3ZDk0NDQ4ZjcyXkEyXkFqcGdeQXVyMDUxNjM5Mw@@._V1_UY44_CR1,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Michaela Watkins",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMzQ1NDc0MjM0NV5BMl5BanBnXkFtZTcwMzcwNTk5Mg@@._V1_UY44_CR11,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Brandon Wilson",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BNDExNGQ4N2ItNjMyOS00MWExLWFkYzItYjc4MmNlN2ZjNGU4XkEyXkFqcGdeQXVyNTAxNDg3MDM@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Will Ropp",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BNDQ0Y2RiZTQtZWVhZi00OTA5LWE0MTktYmIxNzNiZmNhYTJkXkEyXkFqcGdeQXVyNDM2ODgwMjQ@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      }
+    ],
     "country": "USA"
   },
   {
@@ -227,7 +402,32 @@
     "release": 2020,
     "duration": "100min",
     "jenis": "movies",
-    "actor_path": "Actor/TheCalloftheWild.json",
+    "actor": [
+      {
+        "name_actor": "Harrison Ford",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMTY4Mjg0NjIxOV5BMl5BanBnXkFtZTcwMTM2NTI3MQ@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Omar Sy",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMjI2MjE3MDQ3NV5BMl5BanBnXkFtZTcwOTY0NzU0Nw@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Cara Gee",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMDU4MjM2MjQtNGFkNC00NGE3LTg4NWQtMDcyYzAxNjYwNDJiXkEyXkFqcGdeQXVyNjE4NjI4NDY@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Dan Stevens",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMTY0NTY5OTI2MF5BMl5BanBnXkFtZTgwNDkzMzIxMzE@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Bradley Whitford",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMjQwMzg3ODUxNF5BMl5BanBnXkFtZTgwMzc5MDcxNDM@._V1_UY44_CR1,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Jean Louisa Kelly",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BYjA2NTIxODEtZDBjYy00OWY3LTg0MzgtOWI5Yzc3MDkwOWRiXkEyXkFqcGdeQXVyMjQ5MjIzNTk@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      }
+    ],
     "country": "USA, Canada"
   },
   {
@@ -256,7 +456,32 @@
     "release": 2020,
     "duration": "124min",
     "jenis": "movies",
-    "actor_path": "Actor/Emma.json",
+    "actor": [
+      {
+        "name_actor": "Anya Taylor-Joy",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BYWUxMzhlM2QtNDM5MS00OThlLTlhZDEtMDhlNTliZDIzZGQ1XkEyXkFqcGdeQXVyNzcyNzc0NzE@._V1_UY44_CR1,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Angus Imrie",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BODI4NzIzNjItOTNmMy00ODIxLWE4YTgtNmI5YjY5NmI1ZDRlXkEyXkFqcGdeQXVyMzA0NzAwNw@@._V1_UY44_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Letty Thomas",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BOGExNDQ5MjAtNzlkNy00NWExLTlkMzgtOGNhNGExZDA0NmMzXkEyXkFqcGdeQXVyMTA4MjYxNDI0._V1_UY44_CR1,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Gemma Whelan",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMjI2ODY3MTMwMF5BMl5BanBnXkFtZTcwOTM4MzEzOQ@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Bill Nighy",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMjI0NzYwMDAxM15BMl5BanBnXkFtZTgwMzg2ODg2MjE@._V1_UY44_CR1,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Edward Davis",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BNmEwMGQyNTYtYjUyOC00ZmYzLWJlM2UtMGZjNTZjZmE5NjNhXkEyXkFqcGdeQXVyMjExMTUwNTg@._V1_UY44_CR1,0,32,44_AL_.jpg"
+      }
+    ],
     "country": "UK"
   },
   {
@@ -285,7 +510,32 @@
     "release": 2020,
     "duration": "124min",
     "jenis": "movies",
-    "actor_path": "Actor/BadBoysforLife.json",
+    "actor": [
+      {
+        "name_actor": "Will Smith",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Martin Lawrence",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMTQ4NzIzMDAxMF5BMl5BanBnXkFtZTcwMDIyMTI2MQ@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Vanessa Hudgens",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BMjA2NzA2NTMxNV5BMl5BanBnXkFtZTYwMjA1ODEy._V1_UY44_CR13,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Alexander Ludwig",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BOWJkNTYzMjQtNjAwOC00MDM4LTgzM2EtMzc3ZWQ1NTczMzQxXkEyXkFqcGdeQXVyMTQyOTM4MzU@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Charles Melton",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BNGQ3N2U0MjUtODIwYi00ZWZjLWJjMjEtMTdmNzQ2MzZkMGJmXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UY44_CR3,0,32,44_AL_.jpg"
+      },
+      {
+        "name_actor": "Paola Nuñez",
+        "image_actor": "https://m.media-amazon.com/images/M/MV5BYzcyZjlhYzctYzNhNS00NDdiLTg2MDctNmMxNTNkMzQ0OTg1XkEyXkFqcGdeQXVyMjIyODU3MDk@._V1_UX32_CR0,0,32,44_AL_.jpg"
+      }
+    ],
     "country": "USA, Mexico"
   }
 ]
