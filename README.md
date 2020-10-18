@@ -1,4 +1,1 @@
-# beta-version
-
-Sample JSON
------------
+# Sample JSON
